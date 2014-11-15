@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>HTML From</title>
+    <link href="Form-Style.css" rel="stylesheet" />
+</head>
+<body>
+    <form>
+        <div class="wrapper">
+            <p>Step 1: Your details</p>
+            <div>
+                <span>Name</span> <input type="text" placeholder="First and last name" />
+            </div>
+            <div>
+                <span>Email</span> <input type="text" placeholder="example@domain.com" />
+            </div>
+            <div>
+                <span>Phone</span> <input type="text" placeholder="eg. +447500000000" />
+            </div>
+
+            <p>Step 2: Delivery address</p>
+            <div id="address-field">
+                <span class="high">Address</span> <textarea></textarea>
+            </div>
+            <div>
+                <span>Post code</span> <input type="text" />
+            </div>
+            <div>
+                <span>Country</span> <input type="text" />
+            </div>
+
+            <p>Step 3: Card details</p>
+            <div id="cards-field">
+                <span>Card type</span>
+                <div id="choose-card">
+                    <input type="radio"><label id="visa">VISA</label>
+                    <input type="radio"><label id="amex">AmEx</label>
+                    <input type="radio"><label id="mastercard">Mastercard</label>
+                </div>
+            </div>
+            <div>
+                <span>Card number</span> <input type="text" />
+            </div>
+            <div>
+                <span>Security code</span> <input type="text" />
+            </div>
+            <div>
+                <span>Name on card</span> <input type="text" placeholder="exact name as on the card" />
+            </div>
+
+            <div id="submit-button">
+                <input type="submit" value="BUY IT!" />
+            </div>
+
+        </div>
+    </form>
+</body>
+</html>

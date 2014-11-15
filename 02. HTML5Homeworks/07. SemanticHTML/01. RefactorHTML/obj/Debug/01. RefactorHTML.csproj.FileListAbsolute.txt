@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\01. RefactorHTML\bin\_01.RefactorHTML.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\01. RefactorHTML\bin\_01.RefactorHTML.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\01. RefactorHTML\bin\_01.RefactorHTML.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\01. RefactorHTML\obj\Debug\01. RefactorHTML.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\01. RefactorHTML\obj\Debug\_01.RefactorHTML.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\01. RefactorHTML\obj\Debug\_01.RefactorHTML.pdb

@@ -1,0 +1,127 @@
+﻿body {
+    font-family: Tahoma, sans-serif;
+    color: #29425A;
+}
+
+div.wrapper {
+    margin: 0 auto;
+    width: 800px;
+}
+
+div.laptops {
+    width: 561px;
+    height: 500px;
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 15px;
+}
+
+    div.laptops > p {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 10px;
+        margin-left: 15px;
+    }
+
+    div.laptops ul.products {
+        padding: 0;
+        margin-top: 0;
+    }
+
+        div.laptops ul.products li {
+            width: 170px;
+            height: 200px;
+            list-style-type: none;
+            display: list-item;
+            float: left;
+            border: solid 1px #d9eefa;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-left-radius: 10px;
+            margin-left: 15px;
+            margin-bottom: 15px;
+            position: relative;
+            background-color: white;
+        }
+
+            div.laptops ul.products li p:first-of-type {
+                margin: 0;
+                margin-top: 5px;
+                margin-left: 10px;
+                font-size: 15px;
+                font-weight: bold;
+            }
+
+            div.laptops ul.products li p:nth-of-type(2) {
+                margin: 0;
+                margin-left: 10px;
+                font-size: 15px;
+            }
+
+            div.laptops ul.products li img {
+                width: 160px;
+                height: 120px;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+            div.laptops ul.products li div {
+                position: absolute;
+                bottom: 0;
+                right: 0;
+                width: 100px;
+                height: 30px;
+                text-align: center;
+                background-color: #2C425A;
+                color: white;
+                border-top-left-radius: 5px;
+            }
+
+                div.laptops ul.products li div > p:first-of-type {
+                    margin: 0;
+                    margin-top: 5px;
+                    font-weight: normal;
+                }
+
+div.specifications {
+    background-color: #F7FCFF;
+    margin: 0;
+    width: 200px;
+    height: 500px;
+    display: inline-block;
+    border: 1px solid #d9eefa;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+    div.specifications p {
+        margin: 0;
+        margin-top: 10px;
+        margin-bottom: 3px;
+        text-align: center;
+        font-size: 18px;
+    }
+
+span.float-left {
+    float: left;
+    font-size: 13px;
+}
+
+span.float-right {
+    float: right;
+    font-size: 13px;
+}
+
+input[type=range] {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #29425A;
+}
+
+a:visited {
+    color: #29425A;
+}

@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-7-July-2014\02. AwesomeSite\bin\_02.AwesomeSite.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-7-July-2014\02. AwesomeSite\bin\_02.AwesomeSite.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-7-July-2014\02. AwesomeSite\bin\_02.AwesomeSite.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-7-July-2014\02. AwesomeSite\obj\Debug\02. AwesomeSite.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-7-July-2014\02. AwesomeSite\obj\Debug\_02.AwesomeSite.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-7-July-2014\02. AwesomeSite\obj\Debug\_02.AwesomeSite.pdb

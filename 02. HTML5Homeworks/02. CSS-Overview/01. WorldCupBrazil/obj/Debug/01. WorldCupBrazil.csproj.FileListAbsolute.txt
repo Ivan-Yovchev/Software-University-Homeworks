@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\02. CSS-Overview\01. WorldCupBrazil\bin\_01.WorldCupBrazil.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\02. CSS-Overview\01. WorldCupBrazil\bin\_01.WorldCupBrazil.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\02. CSS-Overview\01. WorldCupBrazil\bin\_01.WorldCupBrazil.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\02. CSS-Overview\01. WorldCupBrazil\obj\Debug\01. WorldCupBrazil.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\02. CSS-Overview\01. WorldCupBrazil\obj\Debug\_01.WorldCupBrazil.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\02. CSS-Overview\01. WorldCupBrazil\obj\Debug\_01.WorldCupBrazil.pdb

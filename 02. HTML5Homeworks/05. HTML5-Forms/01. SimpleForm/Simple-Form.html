@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Simple Form</title>
+    <link href="Form-Style.css" rel="stylesheet" />
+</head>
+<body>
+    <form>
+        <div class="wrapper">
+            <p>Enter the system</p>
+            <p>It is necessary to login Your account in order to sign in for a course.</p>
+
+            <div id="register">
+                <p>are you new? <span>register</span></p>
+
+                <input type="text" placeholder="User name" />
+                <input type="text" placeholder="Email" />
+                <input type="password" placeholder="Password" />
+                <input type="password" placeholder="Confirm Password" />
+                <input type="submit" value="Register" />
+
+            </div>
+
+            <div id="login">
+                <p>already a student? login</p>
+
+                <input type="text" placeholder="User name" />
+                <input type="password" placeholder="Password" />
+                <div>
+                    <input type="checkbox" id="remember" />
+                    <label for="remember">Remember me?</label>
+                </div>
+
+                <div>
+                    <input type="submit" value="Login" />
+                    <p>Forgot Password</p>
+                </div>
+            </div>
+
+        </div>
+    </form>
+</body>
+</html>

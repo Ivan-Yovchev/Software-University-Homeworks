@@ -1,0 +1,61 @@
+﻿#heading {
+    width: 452px;
+    height: 100px;
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    color: blue;
+}
+
+th {
+    padding: 5px 7px 5px 7px;
+}
+
+.padding-colspan-two {
+    padding: 5px 7px 5px 7px;
+}
+
+.padding-colspan-one {
+    padding: 5px 7px 5px 7px;
+}
+
+.padding-colspan-three {
+    padding: 5px 7px 5px 7px;
+}
+
+.padding-inner-colspan-one {
+    padding: 3px 5px 3px 5px;
+}
+
+.colspan-one {
+    width: 100px;
+    height: 100px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: blue;
+}
+
+.colspan-two {
+    width: 217px;
+    height: 100px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: blue;
+}
+
+.colspan-three {
+    width: 335px;
+    height: 100px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: blue;
+    text-align: right;
+}
+
+.inner-colspan-one {
+    width: 98px;
+    height: 45px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: blue;
+}

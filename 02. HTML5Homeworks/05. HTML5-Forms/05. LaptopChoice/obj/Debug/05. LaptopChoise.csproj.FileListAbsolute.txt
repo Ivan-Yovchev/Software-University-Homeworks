@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\05. LaptopChoise\bin\_05.LaptopChoise.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\05. LaptopChoise\bin\_05.LaptopChoise.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\05. LaptopChoise\bin\_05.LaptopChoise.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\05. LaptopChoise\obj\Debug\05. LaptopChoise.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\05. LaptopChoise\obj\Debug\_05.LaptopChoise.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\05. LaptopChoise\obj\Debug\_05.LaptopChoise.pdb

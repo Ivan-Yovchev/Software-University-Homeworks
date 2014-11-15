@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\02. Kent'sMediaProfile\bin\_02.Kent_sMediaProfile.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\02. Kent'sMediaProfile\bin\_02.Kent_sMediaProfile.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\02. Kent'sMediaProfile\bin\_02.Kent_sMediaProfile.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\02. Kent'sMediaProfile\obj\Debug\_02.Kent_sMediaProfile.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\02. Kent'sMediaProfile\obj\Debug\_02.Kent_sMediaProfile.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\02. Kent'sMediaProfile\obj\Debug\02. Kent'sMediaProfile.csprojResolveAssemblyReference.cache

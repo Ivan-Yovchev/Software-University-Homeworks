@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-2-September-2014\01. ArticleComments\bin\_01.ArticleComments.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-2-September-2014\01. ArticleComments\bin\_01.ArticleComments.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-2-September-2014\01. ArticleComments\bin\_01.ArticleComments.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-2-September-2014\01. ArticleComments\obj\Debug\_01.ArticleComments.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-2-September-2014\01. ArticleComments\obj\Debug\_01.ArticleComments.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-2-September-2014\01. ArticleComments\obj\Debug\01. ArticleComments.csprojResolveAssemblyReference.cache

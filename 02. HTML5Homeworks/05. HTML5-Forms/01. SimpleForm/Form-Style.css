@@ -1,0 +1,156 @@
+﻿div.wrapper {
+    width: 755px;
+    height: 357px;
+    background-color: #EEEEEE;
+    padding: 10px 15px;
+}
+
+    div.wrapper > p:first-of-type {
+        margin-top: 0;
+        margin-bottom: 15px;
+        font-family: Tahoma, sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+        color: #234465;
+    }
+
+    div.wrapper > p:nth-of-type(2) {
+        margin-top: 0;
+        margin-bottom: 25px;
+        font-family: Tahoma, sans-serif;
+        font-size: 13px;
+        color: #7C7C7C;
+    }
+
+#register {
+    vertical-align: top;
+    display: inline-block;
+    width: 350px;
+    height: 265px;
+    padding-left: 15px;
+    padding-right: 5px;
+}
+
+    #register p {
+        font-family: Tahoma, sans-serif;
+        font-size: 18px;
+        text-transform: uppercase;
+        font-weight: bold;
+        color: #646464;
+        margin-bottom: 5px;
+    }
+
+        #register p span {
+            color: #234465; 
+        }
+
+    #register input[type=text], #register input[type=password] {
+        float: left;
+        width: 342px;
+        height: 30px;
+        padding-left: 5px;
+        margin-bottom: 10px;
+        margin-right: 5px;
+    }
+
+    #register input[type=submit]{
+        float: right;
+        width: 150px;
+        height: 35px;
+        font-family: Tahoma, sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+        color: #234465;
+        border: 2px solid #234465;
+        background-color: #EEEEEE;
+    }
+
+        #register input[type=submit]:hover {
+            background-color:  #234465;
+            color: white;
+            transition: .8s ease;
+            cursor: pointer;
+        }
+
+#login {
+    vertical-align: top;
+    background-color: #234465;
+    display: inline-block;
+    width: 350px;
+    height: 265px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+    #login > p:first-of-type {
+        font-family: Tahoma, sans-serif;
+        font-size: 18px;
+        text-transform: uppercase;
+        font-weight: bold;
+        color: white;
+        margin-bottom: 15px;
+    }
+
+    #login input[type=text], #login input[type=password] {
+        float: left;
+        width: 342px;
+        height: 35px;
+        padding-left: 5px;
+        margin-bottom: 10px;
+        margin-right: 5px;
+    }
+
+    #login input[type=submit] {
+        float: right;
+        width: 150px;
+        height: 35px;
+        font-family: Tahoma, sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+        color: white;
+        border: 2px solid #F19607;
+        background-color:  #234465;
+    }
+        
+        #login input[type=submit]:hover {
+            background-color: #F19607;
+            transition: .8s ease;
+            cursor: pointer;
+        }
+
+            #login > div:first-of-type {
+                float: left;
+                display: inline-block;
+            }
+
+                #login > div:first-of-type > input[type=checkbox] {
+                    margin: 0;
+                    width: 20px;
+                    height: 20px;
+                }
+
+                #login > div:first-of-type > label {
+                    font-family: Tahoma, sans-serif;
+                    font-size: 12px;
+                    color: white;
+                    vertical-align: top;
+                }
+
+            #login > div:nth-of-type(2) {
+                float: right;
+                display: inline-block;
+            }
+
+                #login > div:nth-of-type(2) p {
+                    font-family: Tahoma, sans-serif;
+                    font-size: 13px;
+                    color: white;
+                    margin-top: 42px;
+                    margin-right: 8px;
+                    text-align: right;
+                }
+
+                    #login > div:nth-of-type(2) p:hover {
+                        cursor: pointer;
+                        text-decoration: underline;
+                    }

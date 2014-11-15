@@ -1,0 +1,130 @@
+﻿thead tr td {
+    font-size: 45pt;
+    font-weight: bold;
+    padding: 15pt 30pt 15pt 30pt;
+    text-align: center;
+    vertical-align: central;
+    height: 55pt;
+}
+
+table.outter {
+    font-family: Arial;
+    font-size: 15pt;
+    width: 350pt;
+    height: 300pt;
+}
+
+table.inner {
+    font-family: Arial;
+    font-size: 15pt;
+}
+
+#google {
+    text-align: left;
+    vertical-align: top;
+    height: 80pt;
+    width: 50%;
+    padding-top: 5pt;
+    padding-left: 5pt;
+}
+
+#github {
+    text-align: right;
+    vertical-align: top;
+    height: 80pt;
+    width: 50%;
+    padding-top: 5pt;
+    padding-right: 5pt;
+}
+
+#fb {
+    text-align: center;
+    vertical-align: top;
+    height: 80pt;
+    width: 25%;
+    padding-top: 5pt;
+}
+
+#gmail {
+    text-align: left;
+    vertical-align: central;
+    height: 80pt;
+    width: 25%;
+    padding-left: 5pt;
+}
+
+#youtube {
+    text-align: center;
+    vertical-align: bottom;
+    height: 80pt;
+    width: 25%;
+    padding-bottom: 5pt;
+}
+
+#2048 {
+    text-align: left;
+    vertical-align: central;
+    height: 80pt;
+    width: 25%;
+    padding-left: 5pt;
+}
+
+#food {
+    text-align: right;
+    vertical-align: bottom;
+    height: 80pt;
+    width: 25%;
+    padding-right: 5pt;
+    padding-bottom: 5pt;
+}
+
+#game {
+    text-align: left;
+    vertical-align: bottom;
+    height: 80pt;
+    width: 50%;
+    padding-bottom: 5pt;
+    padding-left: 5pt;
+}
+
+#inner-table {
+    height: 80pt;
+    width: 25%;
+    padding: 3pt 3pt 3pt 3pt;
+}
+
+#inner-table table {
+    height: 100%;
+    width: 100%;
+}
+
+#social-life {
+    text-align: center;
+    vertical-align: central;
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+#sleep {
+    text-align: center;
+    vertical-align: central;
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+#beer {
+    text-align: right;
+    vertical-align: central;
+    height: 80pt;
+    width: 75%;
+    padding-right: 5pt;
+    font-size: 20pt;
+}
+
+#wc {
+    text-align: left;
+    vertical-align: central;
+    height: 80pt;
+    width: 25%;
+    padding-left: 5pt;
+}

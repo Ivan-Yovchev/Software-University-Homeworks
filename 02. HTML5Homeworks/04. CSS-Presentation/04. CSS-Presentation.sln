@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. TheJauntyTextField", "01. TheJauntyTextField\01. TheJauntyTextField.csproj", "{0BDC479A-AEA6-40A2-A972-FB66486754B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SoftUniHawaiiVacation", "02. SoftUniHawaiiVacation\02. SoftUniHawaiiVacation.csproj", "{24E87636-3472-47F9-91FE-361F18FBFC14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. StylingAnHTMLForm", "03. StylingAnHTMLForm\03. StylingAnHTMLForm.csproj", "{89354D5D-42AE-40D9-886B-8622DDD6C666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BDC479A-AEA6-40A2-A972-FB66486754B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDC479A-AEA6-40A2-A972-FB66486754B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDC479A-AEA6-40A2-A972-FB66486754B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDC479A-AEA6-40A2-A972-FB66486754B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E87636-3472-47F9-91FE-361F18FBFC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E87636-3472-47F9-91FE-361F18FBFC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E87636-3472-47F9-91FE-361F18FBFC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E87636-3472-47F9-91FE-361F18FBFC14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89354D5D-42AE-40D9-886B-8622DDD6C666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89354D5D-42AE-40D9-886B-8622DDD6C666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89354D5D-42AE-40D9-886B-8622DDD6C666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89354D5D-42AE-40D9-886B-8622DDD6C666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

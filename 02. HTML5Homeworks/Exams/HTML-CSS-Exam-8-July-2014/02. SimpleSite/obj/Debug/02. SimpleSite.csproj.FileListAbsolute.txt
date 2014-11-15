@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\02. SimpleSite\bin\_02.SimpleSite.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\02. SimpleSite\bin\_02.SimpleSite.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\02. SimpleSite\bin\_02.SimpleSite.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\02. SimpleSite\obj\Debug\02. SimpleSite.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\02. SimpleSite\obj\Debug\_02.SimpleSite.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\02. SimpleSite\obj\Debug\_02.SimpleSite.pdb

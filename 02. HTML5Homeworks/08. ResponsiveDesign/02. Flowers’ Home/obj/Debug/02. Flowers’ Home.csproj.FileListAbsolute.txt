@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\02. Flowers’ Home\bin\_02.Flowers__Home.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\02. Flowers’ Home\bin\_02.Flowers__Home.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\02. Flowers’ Home\bin\_02.Flowers__Home.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\02. Flowers’ Home\obj\Debug\_02.Flowers__Home.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\02. Flowers’ Home\obj\Debug\_02.Flowers__Home.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\02. Flowers’ Home\obj\Debug\02. Flowers’ Home.csprojResolveAssemblyReference.cache

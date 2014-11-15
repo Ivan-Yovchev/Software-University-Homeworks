@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\01. HelloHTML\bin\_01.HelloHTML.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\01. HelloHTML\bin\_01.HelloHTML.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\01. HelloHTML\bin\_01.HelloHTML.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\01. HelloHTML\obj\Debug\01. HelloHTML.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\01. HelloHTML\obj\Debug\_01.HelloHTML.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\01. HelloHTML\obj\Debug\_01.HelloHTML.pdb

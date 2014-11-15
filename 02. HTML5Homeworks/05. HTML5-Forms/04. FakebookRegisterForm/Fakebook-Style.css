@@ -1,0 +1,204 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: #3B5997;
+}
+
+div.wrapper {
+    width: 800px;
+    height: 700px;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+    @font-face {
+        font-family: Facebook;
+        src:url('resources/facebook-font.ttf')
+    }
+
+    div.wrapper > p:first-of-type {
+        font-family: Facebook;
+        font-size: 125px;
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: -10px;
+    }
+
+        div.wrapper > p:first-of-type span {
+            font-size: 30px;
+            margin-left: -50px;
+            vertical-align: -webkit-baseline-middle;
+        }
+
+    div.wrapper > p:nth-of-type(2) {
+        font-size: 35px;
+        text-align: center;
+        font-weight: bold;
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+
+    div.wrapper > p:nth-of-type(3) {
+        font-size: 18px;
+        text-align: center;
+        font-weight: bold;
+        margin-top: 0;
+        margin-bottom: 25px;
+    }
+
+    div.wrapper form fieldset {
+        border: 1px solid white;
+        border-radius: 10px;
+        padding: 15px;
+    }
+
+        div.wrapper form fieldset legend {
+            text-align: center;
+            font-size: 15px;
+            font-weight: bold;
+        }   
+
+    div.wrapper form fieldset:first-of-type {
+        float: left;
+        width: 280px;
+        height: 260px;
+    }
+
+        div.wrapper form fieldset:first-of-type input[type=text], 
+        div.wrapper form fieldset:first-of-type input[type=password],
+        div.wrapper form fieldset:first-of-type input[type=email],
+        div.wrapper form fieldset:first-of-type input[type=tel],
+        div.wrapper form fieldset:first-of-type input[type=url] {
+            width: 125px;
+            height: 30px;
+            border-radius: 5px;
+            border: none;
+            padding-left: 5px;
+            margin-bottom: 7px;
+        }
+
+        div.wrapper form fieldset:first-of-type input[type=text].margin-right,
+        div.wrapper form fieldset:first-of-type input[type=email].margin-right,
+        div.wrapper form fieldset:first-of-type input[type=password].margin-right {
+            margin-right: 10px;
+        }
+
+        div.wrapper form fieldset:first-of-type > p {
+            margin: 0;
+            margin-bottom: 7px;
+            font-size: 15px;
+        }
+
+        div.wrapper form fieldset:first-of-type input[type=datetime-local]{
+            margin-bottom: 10px;
+            font-size: 12px;
+            width: 230px;
+            height: 30px;
+            border-radius: 5px;
+            border: none;
+        }
+
+            div.wrapper form fieldset:first-of-type > div input[type=radio] {
+                margin: 0;
+                width: 15px;
+                height: 15px;
+            }
+
+            div.wrapper form fieldset:first-of-type > div label {
+                font-size: 15px;
+                margin-left: 5px;
+                margin-right: 16px;
+            }
+
+    div.wrapper form fieldset:nth-of-type(2) {
+        float: right;
+        width: 420px;
+        height: 260px;
+    }
+
+        div.wrapper form fieldset:nth-of-type(2) select {
+            width: 130px;
+            height: 30px;
+            border: none;
+            font-size: 12px;
+            border-radius: 5px;
+            margin-right: 10px;
+            margin-bottom: 7px;
+        }
+
+        div.wrapper form fieldset:nth-of-type(2) input[type=text].normal-width {
+            width: 125px;
+            height: 30px;
+            border: none;
+            border-radius: 5px;
+            font-size: 12px;
+            padding-left: 5px;
+            margin-right: 10px;
+            margin-bottom: 7px;
+        }
+
+        div.wrapper form fieldset:nth-of-type(2) input[type=text].small-width {
+            width: 65px;
+            height: 30px;
+            border: none;
+            border-radius: 5px;
+            font-size: 12px;
+            padding-left: 5px;
+            margin-right: 10px;
+            margin-bottom: 7px;
+        }
+
+        div.wrapper form fieldset:nth-of-type(2) p:first-of-type {
+            margin: 0;
+            margin-bottom: 7px;
+            font-size: 15px;
+        }
+
+        div.wrapper form fieldset:nth-of-type(2) input[type=color] {
+            width: 125px;
+            height: 25px;
+            border: none;
+            border-radius: 5px;
+            margin-right: 10px;
+            margin-bottom: 7px;
+            padding-bottom: 7px;
+        }
+
+        div.wrapper form fieldset:nth-of-type(2) p:nth-of-type(2) {
+            margin: 0;
+            font-size: 15px;
+        }
+
+        div.wrapper form fieldset:nth-of-type(2) textarea {
+            width: 414px;
+            height: 80px;
+            padding-left: 5px;
+        }
+
+        #size, #district {
+            margin-right: 0;
+        }
+
+input[type=reset] {
+    float: left;
+    width: 311px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    color: #3B5997;
+    margin-left: 3px;
+    margin-top: 15px;
+}
+
+input[type=submit] {
+    float: right;
+    width: 451px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    font-size: 24px;
+    color: #3B5997;
+    margin-right: 3px;
+    margin-top: 15px;
+}

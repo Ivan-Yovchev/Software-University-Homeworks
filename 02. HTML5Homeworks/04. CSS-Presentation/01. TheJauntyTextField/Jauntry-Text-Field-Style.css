@@ -1,0 +1,112 @@
+﻿div.wrapper {
+    width: 800px;
+    height: 300px;
+    border-top: 7px dotted yellow;
+    border-right: 12px solid green;
+    border-bottom: 10px double blue;
+    border-left: 7px dashed red;
+    box-shadow: 25px 20px 8px #3F3F3F;
+}
+
+div.wrapper > p {
+    font-family: Arial, Consolas, sans-serif;
+    font-size: 52px;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-shadow: 12px 13px 18px grey;
+}
+
+div.wrapper > div {
+    width: 700px;
+    height: 120px;
+    border-radius: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid red;
+    box-shadow: 0 0 0 3px yellow, 0 0 0 6px green, 0 0 0 9px blue;
+}
+
+div.wrapper > div > p {
+    text-align: center;
+    font-family: Arial, Consolas, sans-serif;
+    font-size: 25px;
+    color: black;
+    margin-top: 17px;
+    text-shadow: 17px 13px 19px grey;
+}
+
+div.wrapper > div > div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+}
+
+div.wrapper > div > div div {
+    width: 215px;
+    height: 20px;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    display: inline-block;
+    font-family: Arial;
+    color: black;
+    font-size: 18px;
+    background-color: #D8921A;
+    border-bottom: 3px solid #A56401;
+    border-right: 3px solid #A56401;
+    border-top: 3px solid #FCA401;
+    border-left: 3px solid #FCA401;
+}
+
+div.wrapper > div > div div:first-of-type {
+    float: left;
+}
+
+div.wrapper > div > div div:last-of-type {
+    float: right;
+}
+
+#small-balloon {
+    width: 20px;
+    height: 20px;
+    border-radius: 30px;
+    background-color: rgba(128, 128, 128, 0.6);
+    border: 3px dashed white;
+    position: absolute;
+    top: 183px;
+    left: 615px;
+    box-shadow: 0 0 0 5px rgba(128, 128, 128, 0.6);
+}
+
+#larger-balloon {
+    width: 37px;
+    height: 37px;
+    border-radius: 30px;
+    background-color: rgba(128, 128, 128, 0.6);
+    border: 3px dashed white;
+    position: absolute;
+    top: 132px;
+    left: 690px;
+    box-shadow: 0 0 0 5px rgba(128, 128, 128, 0.6);
+}
+
+#largest-balloon {
+    width: 135px;
+    height: 70px;
+    border-radius: 50px;
+    background-color: rgba(128, 128, 128, 0.6);
+    border: 3px dashed white;
+    position: absolute;
+    top: 45px;
+    left: 758px;
+    box-shadow: 0 0 0 5px rgba(128, 128, 128, 0.6);
+    font-family: Arial;
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+}

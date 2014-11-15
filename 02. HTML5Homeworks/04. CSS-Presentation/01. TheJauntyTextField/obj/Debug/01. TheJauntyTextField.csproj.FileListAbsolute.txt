@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\04. CSS-Presentation\01. TheJauntyTextField\bin\_01.TheJauntyTextField.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\04. CSS-Presentation\01. TheJauntyTextField\bin\_01.TheJauntyTextField.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\04. CSS-Presentation\01. TheJauntyTextField\bin\_01.TheJauntyTextField.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\04. CSS-Presentation\01. TheJauntyTextField\obj\Debug\01. TheJauntyTextField.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\04. CSS-Presentation\01. TheJauntyTextField\obj\Debug\_01.TheJauntyTextField.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\04. CSS-Presentation\01. TheJauntyTextField\obj\Debug\_01.TheJauntyTextField.pdb

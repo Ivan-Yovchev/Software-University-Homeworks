@@ -1,0 +1,59 @@
+﻿@media screen and (max-width: 780px){
+
+    .body {
+	    width: 90%;
+    }
+
+    .mainHeader nav ul li {
+	    float: none; 
+	    display: block; 
+        width: 100%;
+    }
+
+    .mainHeader img {
+	    width: 100%;
+	    height: auto;
+	    margin: 3% 0;
+    }
+
+    .mainHeader nav {
+	    height: auto;
+        margin: 0 auto 3% auto;
+    }
+
+    .mainHeader nav ul {
+        padding: 0;
+    }
+
+    .mainHeader nav a:link, .mainHeader nav a:visited {
+        width: 100%;
+        padding: 5px 0;
+    }
+
+    .mainContent {
+        width: 100%;
+    }
+
+    .content {
+	    width: 100%;
+	    float: none;
+    }
+
+    .topcontent > footer, .bottomcontent > footer {
+        display: none;
+    }
+
+    .top-sidebar, .middle-sidebar, .bottom-sidebar {
+        box-sizing: border-box;
+        float: none;
+        width: 100%;
+        display: block;
+        margin: 3% 0 0 0;
+        overflow: auto;
+    }
+
+    .mainFooter {
+        margin-top: 3%;
+    }
+
+}

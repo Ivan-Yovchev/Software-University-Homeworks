@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. RunnersHome", "03. RunnersHome\03. RunnersHome.csproj", "{9BFDE06D-3DB7-48FA-AC07-0BB2ECC2BF52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. HTML-Lists", "04. HTML-Lists\04. HTML-Lists.csproj", "{9D3D32ED-E1C6-4851-B97A-8F42B032D5C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. PowerPointSlide", "05. PowerPointSlide\05. PowerPointSlide.csproj", "{D062F552-3A61-468B-B8E1-4ADE96FBBC29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. UserProfilePages", "06. UserProfilePages\06. UserProfilePages.csproj", "{F90C787F-F6D6-4F81-99D7-ECEEDCE75078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. HelloHTML", "01. HelloHTML\01. HelloHTML.csproj", "{47CF36AF-0857-4F35-BEFA-6EF92E58F697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. ParagraphsAndImagesOfText", "02. ParagraphsAndImagesOfText\02. ParagraphsAndImagesOfText.csproj", "{D1053627-97C7-4A1F-A00A-7361B0DA5E90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BFDE06D-3DB7-48FA-AC07-0BB2ECC2BF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFDE06D-3DB7-48FA-AC07-0BB2ECC2BF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFDE06D-3DB7-48FA-AC07-0BB2ECC2BF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFDE06D-3DB7-48FA-AC07-0BB2ECC2BF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D3D32ED-E1C6-4851-B97A-8F42B032D5C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D3D32ED-E1C6-4851-B97A-8F42B032D5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D3D32ED-E1C6-4851-B97A-8F42B032D5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D3D32ED-E1C6-4851-B97A-8F42B032D5C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D062F552-3A61-468B-B8E1-4ADE96FBBC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D062F552-3A61-468B-B8E1-4ADE96FBBC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D062F552-3A61-468B-B8E1-4ADE96FBBC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D062F552-3A61-468B-B8E1-4ADE96FBBC29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90C787F-F6D6-4F81-99D7-ECEEDCE75078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90C787F-F6D6-4F81-99D7-ECEEDCE75078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90C787F-F6D6-4F81-99D7-ECEEDCE75078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90C787F-F6D6-4F81-99D7-ECEEDCE75078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47CF36AF-0857-4F35-BEFA-6EF92E58F697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CF36AF-0857-4F35-BEFA-6EF92E58F697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CF36AF-0857-4F35-BEFA-6EF92E58F697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CF36AF-0857-4F35-BEFA-6EF92E58F697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1053627-97C7-4A1F-A00A-7361B0DA5E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1053627-97C7-4A1F-A00A-7361B0DA5E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1053627-97C7-4A1F-A00A-7361B0DA5E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1053627-97C7-4A1F-A00A-7361B0DA5E90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

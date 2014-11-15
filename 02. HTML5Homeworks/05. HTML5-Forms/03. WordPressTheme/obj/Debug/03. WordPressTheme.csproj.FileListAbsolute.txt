@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\03. WordPressTheme\bin\_03.WordPressTheme.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\03. WordPressTheme\bin\_03.WordPressTheme.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\03. WordPressTheme\bin\_03.WordPressTheme.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\03. WordPressTheme\obj\Debug\03. WordPressTheme.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\03. WordPressTheme\obj\Debug\_03.WordPressTheme.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\03. WordPressTheme\obj\Debug\_03.WordPressTheme.pdb

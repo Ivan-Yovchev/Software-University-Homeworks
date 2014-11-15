@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-6-July-2014\02. LoremIpsumSite\bin\_02.LoremIpsumSite.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-6-July-2014\02. LoremIpsumSite\bin\_02.LoremIpsumSite.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-6-July-2014\02. LoremIpsumSite\bin\_02.LoremIpsumSite.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-6-July-2014\02. LoremIpsumSite\obj\Debug\02. LoremIpsumSite.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-6-July-2014\02. LoremIpsumSite\obj\Debug\_02.LoremIpsumSite.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-6-July-2014\02. LoremIpsumSite\obj\Debug\_02.LoremIpsumSite.pdb

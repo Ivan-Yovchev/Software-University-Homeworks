@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\02. CSS-Overview\03.  SoftUniStudentBeforeExam\bin\_03.SoftUniStudentBeforeExam.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\02. CSS-Overview\03.  SoftUniStudentBeforeExam\bin\_03.SoftUniStudentBeforeExam.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\02. CSS-Overview\03.  SoftUniStudentBeforeExam\bin\_03.SoftUniStudentBeforeExam.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\02. CSS-Overview\03.  SoftUniStudentBeforeExam\obj\Debug\_03.SoftUniStudentBeforeExam.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\02. CSS-Overview\03.  SoftUniStudentBeforeExam\obj\Debug\_03.SoftUniStudentBeforeExam.pdb

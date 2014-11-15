@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ArticleComments", "01. ArticleComments\01. ArticleComments.csproj", "{474AEEDD-F36C-4A3F-978D-5008C33D5688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. CorporateSite", "02. CorporateSite\02. CorporateSite.csproj", "{3DCBE730-B193-4BC0-874C-35D1E1ADD7EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. RegistrationForm", "03. RegistrationForm\03. RegistrationForm.csproj", "{2A38FF70-4E3A-4641-8CDA-FDE6BA18CB4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. UnresponsiveToResponsiveSite", "04. UnresponsiveToResponsiveSite\04. UnresponsiveToResponsiveSite.csproj", "{3EA5EB66-1FC6-444F-8101-0EF381389B23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{474AEEDD-F36C-4A3F-978D-5008C33D5688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474AEEDD-F36C-4A3F-978D-5008C33D5688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474AEEDD-F36C-4A3F-978D-5008C33D5688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474AEEDD-F36C-4A3F-978D-5008C33D5688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DCBE730-B193-4BC0-874C-35D1E1ADD7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCBE730-B193-4BC0-874C-35D1E1ADD7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCBE730-B193-4BC0-874C-35D1E1ADD7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCBE730-B193-4BC0-874C-35D1E1ADD7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A38FF70-4E3A-4641-8CDA-FDE6BA18CB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A38FF70-4E3A-4641-8CDA-FDE6BA18CB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A38FF70-4E3A-4641-8CDA-FDE6BA18CB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A38FF70-4E3A-4641-8CDA-FDE6BA18CB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA5EB66-1FC6-444F-8101-0EF381389B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA5EB66-1FC6-444F-8101-0EF381389B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA5EB66-1FC6-444F-8101-0EF381389B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA5EB66-1FC6-444F-8101-0EF381389B23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\03. BootstrapBootCamp\bin\_03.BootstrapBootCamp.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\03. BootstrapBootCamp\bin\_03.BootstrapBootCamp.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\03. BootstrapBootCamp\bin\_03.BootstrapBootCamp.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\03. BootstrapBootCamp\obj\Debug\03. BootstrapBootCamp.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\03. BootstrapBootCamp\obj\Debug\_03.BootstrapBootCamp.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\03. BootstrapBootCamp\obj\Debug\_03.BootstrapBootCamp.pdb

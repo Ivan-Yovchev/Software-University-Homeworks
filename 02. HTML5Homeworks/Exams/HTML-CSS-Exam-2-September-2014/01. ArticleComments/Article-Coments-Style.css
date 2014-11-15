@@ -1,0 +1,108 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+hr {
+    width: 100%;
+    height: 1px;
+    border: none;
+    border-top: 1px solid lightgrey;
+    margin: 20px 0;
+}
+
+a {
+    color: inherit;
+}
+
+    a:hover {
+        color: grey;
+    }
+
+#wrapper {
+    width: 648px;
+    margin: 0 auto;
+}
+
+    #wrapper h1 {
+        font-size: 24px;
+    }
+
+    #wrapper .comment-row {
+        width: 100%;
+    }
+
+    #wrapper .comment-row .profile-info {
+        float: left;
+        margin-bottom: 20px;
+    }
+
+        #wrapper .comment-row .profile-info .image {
+            display: inline-block;
+            width: 45px;
+            height: 45px;
+            vertical-align: top;
+            margin-right: 10px;
+        }
+
+            #wrapper .comment-row .profile-info .image img {
+                width: 100%;
+            }
+
+        #wrapper .comment-row .profile-info .info {
+            display: inline-block;
+        }
+
+            #wrapper .comment-row .profile-info .info h3 {
+                margin: 0;
+                font-size: 18px;
+                font-weight: normal;
+                margin-bottom: 7px;
+            }
+
+            #wrapper .comment-row .profile-info .info h4 {
+                margin: 0;
+                font-size: 15px;
+            }
+
+                #wrapper .comment-row .profile-info .info h4 time {
+                    color: grey;
+                }
+
+    #wrapper .comment-row .buttons {
+        float: right;
+    }
+
+        #wrapper .comment-row .buttons img {
+            height: 20px;
+            margin-left: 3px;
+            margin-right: 3px;
+        }
+
+            #wrapper .comment-row .buttons img:hover {
+                cursor: pointer;
+            }
+
+        #wrapper .comment-row .buttons .count {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 0;
+            margin-top: 5px;
+            margin-right: 3px;
+            text-align: right;
+            color: red;
+        }
+
+        #wrapper .comment-row .buttons .grey {
+            color: grey;
+        }
+
+    #wrapper .comment-row .comment {
+        clear: both;
+        margin-bottom: 20px;
+        font-size: 14px;
+    }

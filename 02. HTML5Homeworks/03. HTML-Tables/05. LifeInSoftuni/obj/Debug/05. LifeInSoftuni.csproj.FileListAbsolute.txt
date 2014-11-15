@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\05. LifeInSoftuni\bin\_05.LifeInSoftuni.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\05. LifeInSoftuni\bin\_05.LifeInSoftuni.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\05. LifeInSoftuni\bin\_05.LifeInSoftuni.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\05. LifeInSoftuni\obj\Debug\_05.LifeInSoftuni.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\05. LifeInSoftuni\obj\Debug\_05.LifeInSoftuni.pdb

@@ -1,0 +1,10 @@
+﻿input[type=text] {
+    width: 150px;
+    height: 25px;
+    vertical-align: top;
+    margin-top: 12px;
+}
+
+input[type=image] {
+    margin-top: 7px;
+}

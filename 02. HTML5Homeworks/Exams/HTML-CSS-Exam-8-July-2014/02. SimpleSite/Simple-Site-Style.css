@@ -1,0 +1,223 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Georgia;
+}
+
+header {
+    width: 564px;
+    margin: 0 auto;
+    height: 140px;
+    margin-bottom: 30px;
+}
+
+    header #title {
+        width: 345px;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+
+        header #title img {
+            display: inline-block;
+            margin-right: 10px;
+        }
+
+        header #title h1 {
+            display: inline-block;
+            font-family: Patua One;
+            font-size: 45px;
+            color: #444444;
+            margin: 0;
+            vertical-align: top;
+            margin-top: 7px;
+            font-weight: normal;
+        }
+
+            header #title h1:hover {
+                color: #777777;
+                cursor: pointer;
+            }
+
+        header #title h3 {
+            display: block;
+            font-style: italic;
+            font-size: 12px;
+            color: grey;
+            font-weight: normal;
+            text-align: center;
+            text-transform: capitalize;
+            margin: -5px 0 0 20px;
+        }
+
+    header nav {
+        width: 100%;
+        height: 48px;
+        padding: 10px 0;
+        border-top: 1px dashed lightgrey;
+        border-bottom: 1px dashed lightgrey;
+    }
+
+        header nav ul {
+            padding: 0;
+            margin: 0;
+            list-style-type: none;
+            width: 70%;
+            margin: 0 auto;
+        }
+
+            header nav ul li {
+                float: left;
+                margin: 0 9px 0 9px;
+                padding: 7px 5px;
+                font-size: 13px;
+                color: grey;
+                font-weight: bold;
+                border-radius: 5px;
+            }
+
+                header nav ul li:hover {
+                    color: #666666;
+                    cursor: pointer;
+                }
+
+            header nav ul #active {
+                background-color: #EEEEEE;
+            }
+
+main {
+    clear: both;
+    width: 940px;
+    margin: 0 auto;
+}
+
+    main img {
+        margin-bottom: 20px;
+    }
+
+    main #newsSection {
+        width: 70%;
+        float: left;
+    }
+
+        main #newsSection #important {
+            padding: 10px 40px;
+            text-align: center;
+            color: grey;
+        }
+
+            main #newsSection #important div {
+                border-top: 1px dashed lightgrey;
+                border-bottom: 1px dashed lightgrey;
+            }
+
+                main #newsSection #important div h2 {
+                    font-size: 22px;
+                    font-weight: normal;
+                }
+
+                main #newsSection #important div p {
+                    font-size: 12px;
+                    margin-bottom: 20px;
+                }
+
+        main #newsSection #some {
+            color: black;
+        }
+
+            main #newsSection #some h2 {
+                font-size: 26px;
+                font-weight: normal;
+            }
+
+            main #newsSection #some p {
+                font-size: 14px;
+            }
+
+    main #aside {
+        width: 20%;
+        float: right;
+    }
+
+        main #aside .field {
+            width: 100%;
+            margin-bottom: 10px;
+            background-color: #F9F9F9;
+            border: 1px dashed lightgrey;
+            padding: 15px 10px 10px 15px;
+        }
+
+            main #aside .field > form {
+                width: 100%;
+                padding-left: 10px;
+            }
+
+                main #aside .field > form input[type=text] {
+                    width: 60%;
+                    display: inline-block;
+                    height: 20px;
+                }
+
+                    main #aside .field > form input[type=text]:focus {
+                        outline: none;
+                        border: 1px solid #9CB7E4;
+                        box-shadow: 0 0 5px #9CB7E4;
+                        padding: 5px;
+                    }
+
+                main #aside .field > form input[type=submit] {
+                    width: 37%;
+                    display: inline-block;
+                    height: 20px;
+                    font-size: 12px;
+                }
+
+            main #aside .field h4 {
+                margin: 0;
+                margin-top: 10px;
+                color: #666A74;
+                font-size: 16px;
+            }
+
+            main #aside .field ul {
+                padding: 0;
+                margin: 0;
+                margin-top: 5px;
+                list-style-type: none;
+            }
+
+                main #aside .field ul li {
+                    font-size: 14px;
+                    color: #1E8DDC;
+                }
+
+                    main #aside .field ul li:hover {
+                        color: #FD7866;
+                        text-decoration: underline;
+                    }
+
+                main #aside .field ul li a {
+                    color: inherit;
+                    text-decoration: none;
+                }
+
+
+footer {
+    clear: both;
+    width: 100%;
+    background-color: #EEEEEE;
+    padding: 10px 0;
+}
+
+    footer #foot {
+        width: 265px;
+        margin: 0 auto;
+    }
+
+        footer #foot p {
+            margin: 0;
+            color: grey;
+            font-size: 14px;
+        }

@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\02. ParagraphsAndImagesOfText\bin\_02.ParagraphsAndImagesOfText.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\02. ParagraphsAndImagesOfText\bin\_02.ParagraphsAndImagesOfText.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\02. ParagraphsAndImagesOfText\bin\_02.ParagraphsAndImagesOfText.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\02. ParagraphsAndImagesOfText\obj\Debug\_02.ParagraphsAndImagesOfText.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\02. ParagraphsAndImagesOfText\obj\Debug\_02.ParagraphsAndImagesOfText.pdb

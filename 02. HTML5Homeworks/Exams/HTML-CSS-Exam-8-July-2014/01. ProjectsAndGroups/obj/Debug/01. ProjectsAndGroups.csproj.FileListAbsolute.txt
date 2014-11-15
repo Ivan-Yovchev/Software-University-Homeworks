@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\01. ProjectsAndGroups\bin\_01.ProjectsAndGroups.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\01. ProjectsAndGroups\bin\_01.ProjectsAndGroups.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\01. ProjectsAndGroups\bin\_01.ProjectsAndGroups.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\01. ProjectsAndGroups\obj\Debug\01. ProjectsAndGroups.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\01. ProjectsAndGroups\obj\Debug\_01.ProjectsAndGroups.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\01. ProjectsAndGroups\obj\Debug\_01.ProjectsAndGroups.pdb

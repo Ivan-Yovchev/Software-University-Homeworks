@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\04. WebsiteHeader\bin\_04.WebsiteHeader.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\04. WebsiteHeader\bin\_04.WebsiteHeader.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\04. WebsiteHeader\bin\_04.WebsiteHeader.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\04. WebsiteHeader\obj\Debug\04. WebsiteHeader.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\04. WebsiteHeader\obj\Debug\_04.WebsiteHeader.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\04. WebsiteHeader\obj\Debug\_04.WebsiteHeader.pdb

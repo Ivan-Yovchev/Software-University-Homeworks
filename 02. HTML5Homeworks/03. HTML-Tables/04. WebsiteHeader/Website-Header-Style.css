@@ -1,0 +1,283 @@
+﻿body {
+    margin: 0;
+    font-family: 'PT Sans', Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+}
+
+img {
+    width: 200pt;
+}
+
+form {
+    display: inline-block;
+    vertical-align: bottom;
+    padding-right: 5px;
+}
+
+input[type="text"] {
+    display: inline-block;
+    border: 0px none;
+    height: 30px;
+    width: 220px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    padding-left: 10px;
+    color: #367CAE;
+}
+
+    *::-webkit-input-placeholder {
+        color: #367CAE;
+        font-family: Arial;
+        font-size: 14px;
+    }
+
+button[type="submit"].searchButton {
+    display: inline-block;
+    float: right;
+    width: 32px;
+    height: 32px;
+    background: white;
+    border: 0;
+    border-left: 1px solid #d5d5d5;
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    border-right: 1px solid white;
+    border-collapse: collapse;
+    margin: 0;
+    background-image: url('images/magn-glass.png');
+    background-repeat: no-repeat;
+    background-position: 7px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+    button[type="submit"].searchButton:hover {
+        background-color: #367cae;
+    }
+
+.search-nav {
+    text-align: right;
+    padding-right: 20px;
+}
+
+.main-table {
+    width: 100%;
+}
+
+#image {
+    width: 40%;
+    text-align: center;
+}
+
+#navigation {
+    width: 60%;
+}
+
+#inner-table {
+    width: 615pt;
+    margin-left: 0;
+}
+
+nav ul ul {
+	display: none;
+}
+
+	nav ul li:hover > ul {
+		display: block;
+	}
+
+nav ul {
+	padding: 0 20px;
+    margin: 0;
+	border-radius: 10px;  
+	list-style: none;
+	position: relative;
+	display: inline-table;
+}
+
+nav ul li {
+	float: left;
+}
+	nav ul li:hover {
+		background: #4ca0db;
+        border-radius: 10px;
+	}
+		nav ul li:hover a {
+			color: #fff;
+		}
+	
+	nav ul li a {
+		display: block; 
+        padding: 10px 10px;
+		color: white; 
+        text-decoration: none;
+	}
+
+nav ul ul {
+	background: #234465; 
+    border-radius: 0px; 
+    padding: 0;
+	position: absolute; 
+    top: 95%;
+}
+	nav ul ul li {
+		float: none; 
+		border-bottom: 1px solid #435F7B;
+		position: relative;
+        font-family: Arial;
+        text-transform: none;
+        font-weight: normal;
+	}
+
+		nav ul ul.about li a {
+			padding: 10px 120px 10px 15px;
+			color: #fff;
+		}
+        
+        nav ul ul.courses li a {
+			padding: 10px 15px 10px 15px;
+			color: #fff;
+		}
+
+        nav ul ul.courses li.major-link a {
+            color: #4CA0DB;
+            font-weight: bold;
+        }
+        	
+			nav ul ul li a:hover {
+				background: #FF9C00;
+			}
+
+            nav ul ul.courses li.major-link a:hover {
+                background: #FF9C00;
+                color: white;
+            }
+
+#user {
+    display: inline-block;
+    vertical-align: bottom;
+    height: 30px;
+    width: 100px;
+}
+
+#user:hover {
+    cursor: pointer;
+}
+
+#user ul ul {
+	display: none;
+}
+
+	#user ul li:hover > ul {
+		display: block;
+        z-index: 20;
+	}
+
+#user ul {
+	padding: 0 20px;
+    margin: 0;
+	border-radius: 10px;  
+	list-style: none;
+	position: relative;
+	display: inline-table;
+}
+
+#user ul li {
+	float: left;
+}
+	#user ul li:hover {
+		background: #4ca0db;
+        border-radius: 10px;
+	}
+		#user ul li:hover a {
+			color: #fff;
+		}
+	
+	#user ul li a {
+		display: block; 
+        padding: 10px 10px;
+		color: white; 
+        text-decoration: none;
+        width: 55px;
+	}
+
+#user ul ul {
+	background: #234465; 
+    border-radius: 0px; 
+    padding: 0;
+	position: absolute; 
+    top: 85%;
+}
+	#user ul ul li {
+		float: none; 
+		border-bottom: 1px solid #435F7B;
+        font-family: Arial;
+        text-transform: none;
+        font-weight: normal;
+		position: relative;
+	}
+		#user ul ul li a {
+            width: 150px;
+			padding: 10px 100px 10px 15px;
+            text-align: left;
+			color: #fff;
+		}
+        
+        #user ul ul li.major-link a {
+            color: #4CA0DB;
+            font-weight: bold;
+        }
+        	
+			#user ul ul li a:hover {
+				background: #FF9C00;
+			}
+
+            #user ul ul li.major-link a:hover {
+                color: white;
+            }
+
+table {
+    background-color: #234465;
+}
+
+span.pointer {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-top: 4px solid white;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    margin-left: 7px;
+    padding-top: 5px;
+    vertical-align: bottom;
+}
+
+#notify {
+    display: inline-block;
+}
+    #notify:hover #count {
+        text-decoration: underline;
+        cursor: pointer;
+    }
+
+    #notify:hover #bell {
+        cursor: pointer;
+    }
+
+        #count {
+            display: inline-block;
+            padding-right: 1px;
+            vertical-align: bottom;
+            padding-bottom: 1px;
+        }
+
+#bell {
+    display: inline-block;
+    background: url('images/bell.png') no-repeat;
+    width: 20px;
+    height: 20px;
+    vertical-align: bottom;
+}

@@ -1,0 +1,130 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: Regular;
+    src: url(resources/Montserrat-Regular.ttf);
+}
+
+body {
+    margin: 0;
+    background-image: url(resources/body-background.jpg);
+    font-family: Regular, sans-serif;
+}
+
+#wrapper {
+    width: 400px;
+    margin: 0 auto;
+}
+
+    #wrapper h1 {
+        font-size: 2em;
+        font-weight: normal;
+        color: #F6A932;
+        text-align: center;
+    }
+
+    #wrapper #form {
+        width: 100%;
+        padding: 20px 15px;
+        background-color: #EBE0CC;
+        border: 1px solid #D1BFA7;
+        border-radius: 5px;
+        position: relative;
+    }
+
+        #wrapper #form form input[type=text],
+        #wrapper #form form input[type=password] {
+            width: 100%;
+            height: 40px;
+            margin-bottom: 10px;
+            border: 1px solid #D1BFA7;
+            border-radius: 5px;
+            background-color: #FFFBF4;
+            box-shadow: 0 0 10px #D1BFA7;
+            color:  #745107;
+        }
+
+        #wrapper #form form #email {
+            background-image: url(resources/icon-email.png);
+            background-repeat: no-repeat;
+            background-position: 7px -3px;
+            padding-left: 40px;
+            font-size: 15px;
+        }
+
+        #wrapper #form form #password {
+            background-image: url(resources/icon-password.png);
+            background-repeat: no-repeat;
+            background-position: 7px -3px;
+            padding-left: 40px;
+            font-size: 15px;
+        }
+
+        #wrapper #form form #name {
+            background-image: url(resources/icon-name.png);
+            background-repeat: no-repeat;
+            background-position: 7px -3px;
+            padding-left: 40px;
+            font-size: 15px;
+        }
+
+        #wrapper #form form #give-a-name {
+            display: block;
+            text-align: left;
+            margin-top: 10px;
+            margin-bottom: 7px;
+            font-size: 15px;
+            margin-left: 1px;
+        }
+
+        #wrapper #form form input[type=submit] {
+            display: inline-block;
+            width: 150px;
+            height: 45px;
+            background-color: #05BDE0;
+            border: 1px solid #0785A1;
+            border-radius: 5px;
+            margin-left: 1px;
+            font-size: 20px;
+            color: #154856;
+        }
+
+            #wrapper #form form input[type=submit]:hover {
+                cursor: pointer;
+                box-shadow: inset 0 0  20px rgba(0,0,0,0.5);
+            }
+
+        #wrapper #form form #remember-me {
+            display: inline-block;
+            vertical-align: middle;
+        }
+
+                #wrapper #form form #remember-me input[type=checkbox] {
+                    display:none;
+                }
+ 
+                #wrapper #form form #remember-me input[type=checkbox] + #first {
+                    background: #FDF7ED;
+                    border: 1px solid #A48556;
+                    height: 25px;
+                    width: 25px;
+                    display:inline-block;
+                    margin-bottom: 3px;
+                    margin-left: 25px;
+                    border-radius: 3px;
+                }
+
+                #wrapper #form form #remember-me input[type=checkbox]:checked + #first {
+                    background-image: url(resources/tick.png);
+                    background-repeat: no-repeat;
+                    background-position: 3px 1px;
+                }
+
+                #wrapper #form form #remember-me #second {
+                    display: inline-block;
+                    font-size: 12px;
+                    vertical-align: top;
+                    margin-top: 5px;
+                }

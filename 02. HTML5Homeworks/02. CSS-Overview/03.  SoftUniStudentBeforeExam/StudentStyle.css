@@ -1,0 +1,102 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+div.head {
+    margin-top: 10pt;
+    margin-left: 10pt;
+    width: 500pt;
+    height: 500pt;
+    border-radius: 270pt;
+    background-color: yellow;
+    border: 3pt solid black;
+}
+
+div.left-eye {
+    position: fixed;
+    width: 100pt;
+    height: 100pt;
+    border-radius: 70pt;
+    top: 110pt;
+    left: 105pt;
+    background-color: white;
+    border: 3pt solid black;
+}
+
+div.left-eyeball {
+    position: fixed;
+    width: 30pt;
+    height: 30pt;
+    border-radius: 20pt;
+    top: 170pt;
+    left: 163pt;
+    background-color: black;
+}
+
+div.right-eye {
+    position: fixed;
+    width: 100pt;
+    height: 100pt;
+    border-radius: 70pt;
+    top: 110pt;
+    left: 315pt;
+    background-color: white;
+    border: 3pt solid black;
+}
+
+div.right-eyeball {
+    position: fixed;
+    width: 30pt;
+    height: 30pt;
+    border-radius: 20pt;
+    top: 114pt;
+    left: 318pt;
+    background-color: black;
+}
+
+div.nose {
+    position: fixed;
+    width: 70pt;
+    height: 70pt;
+    border-radius: 50pt;
+    top: 225pt;
+    left: 225pt;
+    background-color: red;
+    border: 3pt solid black;
+}
+
+div.mouth {
+    position: fixed;
+    width: 250pt;
+    height: 100pt;
+    border-radius: 70pt;
+    top: 320pt;
+    left: 135pt;
+    background-color: white;
+    border: 3pt solid black;
+}
+
+div.left-tooth {
+    position: fixed;
+    width: 50pt;
+    height: 50pt;
+    border-bottom-left-radius: 10pt;
+    border-bottom-right-radius: 10pt;
+    top: 320pt;
+    left: 207pt;
+    background-color: white;
+    border: 3pt solid black;
+}
+
+div.right-tooth {
+    position: fixed;
+    width: 50pt;
+    height: 50pt;
+    border-bottom-left-radius: 10pt;
+    border-bottom-right-radius: 10pt;
+    top: 320pt;
+    left: 263pt;
+    background-color: white;
+    border: 3pt solid black;
+}

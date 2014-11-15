@@ -1,0 +1,211 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+header {
+    width: 100%;
+}
+
+    header #fluidHead {
+        width: 100%;
+        height: auto;
+        background-color: #E05E43;
+    }
+
+    header #fluidHead #head {
+        width: 670px;
+        margin: 0 auto;
+    }
+
+        @font-face {
+            font-family: Fairview;
+            src: url(resources/Fairview_Regular.otf);
+        }
+
+        header #fluidHead #head h1 {
+            text-align: center;
+            margin: 0;
+            font-family: Fairview, Helvetica, sans-serif;
+            color: white;
+            font-size: 10em;
+        }
+
+            header #fluidHead #head h1:hover {
+                color: black;
+                cursor: pointer;
+            }
+
+    header nav {
+        width: 670px;
+        height: 10px;
+        margin: 10px auto;
+    }
+
+        header nav ul {
+            padding: 0;
+            margin: 0;
+            list-style-type: none;
+        }
+
+            header nav ul li {
+                font-family: Fairview;
+                font-size: 1.5em;
+                margin-left: 32px;
+                margin-right: 32px;
+                float: left;
+                padding: 5px 10px;
+                color: #666666;
+            }
+
+                header nav ul li:hover {
+                    cursor: pointer;
+                }
+
+            header nav ul #active {
+                background-color: #E05E43;
+                color: white;
+            }
+
+                header nav ul #active:hover {
+                        color: black;
+                }
+
+                header nav ul li:hover {
+                    color: black;
+                }
+
+/*------------------------------HEADER------------------*/
+
+main {
+    clear: both;
+    width: 670px;
+    margin: 0 auto;
+    font-family: Nunito, Arial, sans-serif;
+}
+
+    main h2 {
+        margin-top: 55px;
+    }
+
+    main .row {
+        width: 100%;
+    }
+
+        main .row h3 {
+            font-size: 20px;
+        }
+
+        main .row hr {
+            width: 100%;
+            border: 1px solid #EDEDED;
+        }
+
+        main .row .date,
+        main .row .time,
+        main .row .program {
+            display: inline-block;
+            width: 30%;
+            vertical-align: top;
+        }
+
+        main .row .date time,
+        main .row .time time {
+            display: block;
+            margin-bottom: 20px;
+        }
+
+        main .row .program span {
+            display: inline-block;
+            margin-right: 5px;
+            margin-bottom: 20px;
+            color: #E05E43;
+            border-bottom: 1px dotted #E05E43;
+        }
+
+            main .row .program span:hover {
+                color: black;
+                border-bottom: 1px solid #E05E43;
+                cursor: pointer;
+            }
+
+/*-----------------MAIN---------------*/
+footer {
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-family: Nunito, Arial, sans-serif;
+}
+
+    footer #footNav {
+        width: 670px;
+        margin: 0 auto;
+    }
+
+        footer #footNav nav {
+            width: 100%;
+        }
+
+            footer #footNav nav ul {
+                padding: 0;
+                margin: 0;
+                list-style-type: none;
+                height: 40px;
+                padding-top: 10px;
+            }
+
+                footer #footNav nav ul li {
+                    font-size: 1em;
+                    margin-left: 25px;
+                    margin-right: 25px;
+                    float: left;
+                    padding: 5px 10px;
+                    color: #AAAAAA;
+                    font-weight: bold;
+                }
+
+                    footer #footNav nav ul li:hover {
+                        color: #E05E43;
+                        background-color: #AAAAAA;
+                        cursor: pointer;
+                    }
+
+        footer hr{
+            clear: both;
+            margin-top: 10px;
+            width: 45%;
+            border: 1px solid #666666;
+        }
+
+        footer #address {
+            width: 670px;
+            margin: 0 auto;
+            text-align: center;
+            color: #666666;
+        }
+
+        footer #address #softuni {
+            width: 170px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 10px;
+        }
+
+        footer #address #email {
+            width: 170px;
+            margin-left: auto;
+            margin-right: auto;
+            padding-bottom: 10px;
+        }
+
+        footer #address a:hover {
+            color:  #AAAAAA;
+        }

@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\09. SASS,CSSTransitions,Jekyll\02. CrazyShakyGallery\bin\_02.CrazyShakyGallery.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\09. SASS,CSSTransitions,Jekyll\02. CrazyShakyGallery\bin\_02.CrazyShakyGallery.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\09. SASS,CSSTransitions,Jekyll\02. CrazyShakyGallery\bin\_02.CrazyShakyGallery.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\09. SASS,CSSTransitions,Jekyll\02. CrazyShakyGallery\obj\Debug\_02.CrazyShakyGallery.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\09. SASS,CSSTransitions,Jekyll\02. CrazyShakyGallery\obj\Debug\_02.CrazyShakyGallery.pdb

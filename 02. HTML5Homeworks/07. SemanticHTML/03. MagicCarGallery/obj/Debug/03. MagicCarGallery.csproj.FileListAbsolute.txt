@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\03. MagicCarGallery\bin\_03.MagicCarGallery.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\03. MagicCarGallery\bin\_03.MagicCarGallery.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\03. MagicCarGallery\bin\_03.MagicCarGallery.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\03. MagicCarGallery\obj\Debug\_03.MagicCarGallery.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\03. MagicCarGallery\obj\Debug\_03.MagicCarGallery.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\03. MagicCarGallery\obj\Debug\03. MagicCarGallery.csprojResolveAssemblyReference.cache

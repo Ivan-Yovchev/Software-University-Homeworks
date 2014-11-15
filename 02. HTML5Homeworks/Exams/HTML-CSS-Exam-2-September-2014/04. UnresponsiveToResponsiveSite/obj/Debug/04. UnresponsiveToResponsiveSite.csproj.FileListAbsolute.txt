@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-2-September-2014\04. UnresponsiveToResponsiveSite\bin\_04.UnresponsiveToResponsiveSite.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-2-September-2014\04. UnresponsiveToResponsiveSite\bin\_04.UnresponsiveToResponsiveSite.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-2-September-2014\04. UnresponsiveToResponsiveSite\bin\_04.UnresponsiveToResponsiveSite.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-2-September-2014\04. UnresponsiveToResponsiveSite\obj\Debug\04. UnresponsiveToResponsiveSite.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-2-September-2014\04. UnresponsiveToResponsiveSite\obj\Debug\_04.UnresponsiveToResponsiveSite.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-2-September-2014\04. UnresponsiveToResponsiveSite\obj\Debug\_04.UnresponsiveToResponsiveSite.pdb

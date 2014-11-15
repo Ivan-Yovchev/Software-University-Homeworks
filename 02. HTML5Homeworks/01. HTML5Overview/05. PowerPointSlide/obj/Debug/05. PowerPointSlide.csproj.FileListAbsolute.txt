@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\05. PowerPointSlide\bin\_05.PowerPointSlide.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\05. PowerPointSlide\bin\_05.PowerPointSlide.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\05. PowerPointSlide\bin\_05.PowerPointSlide.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\05. PowerPointSlide\obj\Debug\_05.PowerPointSlide.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\05. PowerPointSlide\obj\Debug\_05.PowerPointSlide.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\05. PowerPointSlide\obj\Debug\05. PowerPointSlide.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\06. LifeInSoftUni-Keyboard\bin\_06.LifeInSoftUni_Keyboard.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\06. LifeInSoftUni-Keyboard\bin\_06.LifeInSoftUni_Keyboard.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\06. LifeInSoftUni-Keyboard\bin\_06.LifeInSoftUni_Keyboard.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\06. LifeInSoftUni-Keyboard\obj\Debug\_06.LifeInSoftUni_Keyboard.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\06. LifeInSoftUni-Keyboard\obj\Debug\_06.LifeInSoftUni_Keyboard.pdb

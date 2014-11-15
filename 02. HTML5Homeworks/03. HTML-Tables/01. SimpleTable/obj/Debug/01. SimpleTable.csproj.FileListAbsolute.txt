@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\01. SimpleTable\bin\_01.SimpleTable.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\01. SimpleTable\bin\_01.SimpleTable.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\01. SimpleTable\bin\_01.SimpleTable.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\01. SimpleTable\obj\Debug\01. SimpleTable.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\01. SimpleTable\obj\Debug\_01.SimpleTable.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\01. SimpleTable\obj\Debug\_01.SimpleTable.pdb

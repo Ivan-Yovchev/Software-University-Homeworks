@@ -1,0 +1,25 @@
+﻿table {
+    width: 325pt;
+}
+
+thead tr td{
+    padding-left: 5pt;
+    font-family: Arial;
+    font-size: 32pt;
+    font-weight: bold;
+    padding-bottom: 10pt;
+}
+
+img {
+    padding-left: 5pt;
+}
+
+p {
+    padding-left: 5pt;
+    font-family: Arial;
+    font-size: 15pt;
+}
+
+span {
+    font-weight: bold;
+}

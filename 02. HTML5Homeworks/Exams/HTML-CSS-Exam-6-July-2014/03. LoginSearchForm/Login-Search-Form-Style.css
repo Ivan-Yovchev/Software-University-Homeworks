@@ -1,0 +1,184 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(resources/blurred-green-background.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+#wrapper {
+    width: 350px;
+    height: 350px;
+    margin: 0 auto;
+}
+
+    #wrapper #login {
+        width: 100%;
+        height: 265px;
+        background-color: #EFF6D2;
+        border-top-left-radius: 7px;
+        border-top-right-radius: 7px;
+        box-shadow: 0 0 20px grey;
+        margin-bottom: 20px;
+    }
+
+        #wrapper #login #loginHead {
+            width: 100%;
+            height: 40px;
+            background-color: #93D55C;
+            border-top-left-radius: 7px;
+            border-top-right-radius: 7px;
+            margin-bottom: 20px;
+        }
+
+            #wrapper #login #loginHead header p {
+                color: white;
+                margin: 0;
+                text-align: center;
+                font-size: 20px;
+                line-height: 40px;
+                font-weight: bold;
+                text-shadow: 1px 1px 3px black;
+            }
+
+        #wrapper #login #loginBody {
+            padding: 0 20px;
+            width: 100%;
+        }
+
+            #wrapper #login #loginBody form #user,
+            #wrapper #login #loginBody form #password {
+                display: inline-block;
+                width: 13%;
+                height: 35px;
+                background-color: #EEEEEE;
+                vertical-align: top;
+                margin-top: 15px;
+                padding: 8px 12px 5px 13px;
+                border-top: 1px solid lightgrey;
+                border-bottom: 1px solid lightgrey;
+                border-left: 1px solid lightgrey;
+                border-bottom-left-radius: 5px;
+                border-top-left-radius: 5px;
+                margin-right: -5px;
+            }
+
+                @font-face {
+                    font-family: glyph;
+                    src: url(resources/glyphicons-halflings-regular.ttf);
+                }
+
+                #wrapper #login #loginBody form #user:before {
+                    font-family: glyph;
+                    content: "\e008";
+                    color: #555555;
+                    font-size: 15px;
+                }
+
+                #wrapper #login #loginBody form #password:before {
+                    font-family: glyph;
+                    content: "\e033";
+                    color: #555555;
+                    font-size: 15px;
+                }
+
+            #wrapper #login #loginBody form input[type=email],
+            #wrapper #login #loginBody form input[type=password] {
+                display: inline-block;
+                width: 270px;
+                height: 35px;
+                border-top: 1px solid lightgrey;
+                border-bottom: 1px solid lightgrey;
+                border-right: 1px solid lightgrey;
+                border-left: 1px solid lightgrey;
+                border-bottom-right-radius: 5px;
+                border-top-right-radius: 5px;
+                margin-top: 15px;
+                padding-left: 10px;
+                font-size: 15px;
+            }
+
+                #wrapper #login #loginBody form input[type=email]:focus,
+                #wrapper #login #loginBody form input[type=password]:focus {
+                    outline: none;
+                    border: 1px solid #66AFE9;
+                    box-shadow: 0 0 5px #66AFE9;
+                }
+
+            #wrapper #login #loginBody form input[type=submit]{
+                margin-top: 30px;
+                width: 100%;
+                height: 35px;
+                background-color: #5CB85C;
+                border: 1px solid #229E22;
+                border-radius: 5px;
+                box-shadow: 0 5px #229E22;
+                color: white;
+                font-size: 16px;
+            }
+
+                #wrapper #login #loginBody form input[type=submit]:hover {
+                    background-color: #449D44;
+                    border: 1px solid #398439;
+                    cursor: pointer;
+                    transition: .5s ease;
+                }
+
+    #wrapper #search {
+        width: 100%;
+    }
+
+    #wrapper #search form input[type=text] {
+        width: 255px;
+        height: 35px;
+        display: inline-block;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        border: 1px solid lightgrey;
+        padding-left: 10px;
+        font-size: 15px;
+    }
+
+    #wrapper #search form button[type=submit] {
+        vertical-align: top;
+        width: 95px;
+        height: 35px;
+        display: inline-block;
+        border-right: 1px solid #4CAE4C;
+        border-top: 1px solid #4CAE4C;
+        border-bottom: 1px solid #4CAE4C;
+        border-left: none;
+        background-color: #5CB85C;
+        margin-left: -5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        color: white;
+        font-size: 16px;
+    }
+
+        #wrapper #search form input[type=text]:focus {
+            outline: none;
+            border: 1px solid #66AFE9;
+            box-shadow: 0 0 5px #66AFE9;
+        }
+
+            #wrapper #search form button[type=submit]:before {
+                font-family: glyph;
+                content: "\e003";
+                color: white;
+                font-size: 15px;
+                padding-right: 5px;
+            }
+
+            #wrapper #search form button[type=submit]:hover {
+                background-color: #449D44;
+                border: 1px solid #398439;
+                cursor: pointer;
+                transition: .5s ease;
+            }
+
+            *::-webkit-input-placeholder {
+                color: #606060;
+            }

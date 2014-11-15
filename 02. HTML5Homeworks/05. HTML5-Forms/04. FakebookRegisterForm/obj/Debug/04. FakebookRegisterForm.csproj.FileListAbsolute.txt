@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\04. FakebookRegisterForm\bin\_04.FakebookRegisterForm.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\04. FakebookRegisterForm\bin\_04.FakebookRegisterForm.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\04. FakebookRegisterForm\bin\_04.FakebookRegisterForm.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\04. FakebookRegisterForm\obj\Debug\_04.FakebookRegisterForm.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\04. FakebookRegisterForm\obj\Debug\_04.FakebookRegisterForm.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\04. FakebookRegisterForm\obj\Debug\04. FakebookRegisterForm.csprojResolveAssemblyReference.cache

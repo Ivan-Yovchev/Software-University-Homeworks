@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\06. UserProfilePages\bin\_06.UserProfilePages.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\06. UserProfilePages\bin\_06.UserProfilePages.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\06. UserProfilePages\bin\_06.UserProfilePages.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\06. UserProfilePages\obj\Debug\_06.UserProfilePages.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\01. HTML5Overview\06. UserProfilePages\obj\Debug\_06.UserProfilePages.pdb

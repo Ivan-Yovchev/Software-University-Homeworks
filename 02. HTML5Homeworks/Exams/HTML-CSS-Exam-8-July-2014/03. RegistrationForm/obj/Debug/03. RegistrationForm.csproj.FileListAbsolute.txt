@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\03. RegistrationForm\bin\_03.RegistrationForm.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\03. RegistrationForm\bin\_03.RegistrationForm.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\03. RegistrationForm\bin\_03.RegistrationForm.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\03. RegistrationForm\obj\Debug\03. RegistrationForm.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\03. RegistrationForm\obj\Debug\_03.RegistrationForm.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-8-July-2014\03. RegistrationForm\obj\Debug\_03.RegistrationForm.pdb

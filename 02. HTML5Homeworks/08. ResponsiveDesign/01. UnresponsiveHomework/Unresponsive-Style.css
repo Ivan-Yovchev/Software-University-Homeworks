@@ -1,0 +1,233 @@
+﻿* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #6698FF;
+    margin: 0;
+    font-family: Arial,sans-serif;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 960px;
+    height: auto;
+}
+
+    #wrapper > header {
+        position: relative;
+        border-bottom: 2px solid #3E5C9B;
+        padding-left: 15px;
+        margin: 0;
+        height: 100px;
+        margin-bottom: 30px;
+    }
+
+        #wrapper > header h1 a {
+            color: inherit;
+            text-decoration: none;
+        }
+        
+            #wrapper > header h1 a span {
+                font-size: 35px;
+                color: white;
+                font-weight: normal;
+            }
+
+        #wrapper > header nav {
+            width: 560px;
+            height: 20px;
+            margin: 0;
+            position: absolute;
+            bottom: -2px;
+            right: 0;
+        }
+
+            #wrapper > header nav ul {
+                padding: 0;
+                margin: 0;
+                list-style-type: none;
+            }
+
+                #wrapper > header nav ul li {
+                    display: inline-block;
+                    float: left;
+                    margin-right: 20px;
+                    border: 1px solid #3E5C9B;
+                    background-color: white;
+                    color: black;
+                    font-size: 18px;
+                    padding: 5px;
+                    width: 120px;
+                    text-align: center;
+                }
+
+                    #wrapper > header nav ul li a {
+                        color: inherit;
+                        text-decoration: none;
+                    }
+
+        /*-------------------HEADER---------------------------*/
+
+section {
+    width: 73%;
+    display: inline-block;
+    float: left;
+}
+
+    section article {
+        width: 100%;
+        background-color: #E0EAFE;
+        color: black;
+        border: 1px solid black;
+        padding: 15px;
+        margin-bottom: 10px;
+    }
+
+        section article header h1 {
+            margin: 0;
+            font-size: 26px;
+        }
+
+        section article div p {
+            margin: 15px 0;
+            text-indent: 30px;
+        }
+
+aside.news {
+    float: right;
+    display: inline-block;
+    width: 20%;
+    background-color: #E0EAFE;
+    border: 1px solid black;
+    margin-right: 40px;
+    padding: 10px;
+}
+
+    aside.news div {
+        width: 100%;
+    }
+
+        aside.news div ul {
+            margin: 0;
+            padding: 0;
+            list-style-type: none;
+        }
+
+            aside.news div ul li {
+                color: black;
+                margin-bottom: 10px;
+            }
+
+                aside.news div ul li a {
+                    color: inherit;
+                    text-decoration: none;
+                }
+    /*----------------------MAIN--------------------*/
+
+footer {
+    width: 100%;
+    background-color: #E0EAFE;
+    border: 1px solid black;
+    text-align: center;
+    clear: both;
+}
+
+    footer h2 {
+        margin-bottom: 0;
+    }
+
+    /*----------------FOOTER-------------------*/
+
+@media screen and (max-width: 960px) {
+
+    #wrapper {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 780px) {
+
+    #wrapper {
+        margin: 0;
+        width: 100%;
+    }
+
+    section {
+        width: 100%;
+        display: block;
+        float: none;
+    }
+
+    aside.news {
+        float: none;
+        display: block;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    aside.news div ul li {
+        display: inline-block;
+        width: 24%;
+        text-align: center;
+        vertical-align: top;
+        padding-left: 30px;
+        padding-bottom: 40px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+
+    #wrapper > header {
+        margin-bottom: 130px;
+        height: auto;
+    }
+
+    #wrapper > header h1 a img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #wrapper > header h1 a span {
+        text-align: center;
+        width: 100%;
+        display: block;
+    }
+
+    #wrapper > header nav {
+        width: 100%;
+    }
+
+    #wrapper > header nav ul {
+        width: 100%;
+    }
+
+    #wrapper > header nav ul li {
+        display: block;
+        float: none;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    section article {
+        text-align: center;
+    }
+
+    aside.news div ul li {
+        display: block;
+        width: 100%;
+        text-align: center;
+        vertical-align: top;
+        padding: 0;
+        padding-top: 10px;
+    }
+
+    footer h2 {
+        font-size: 20px;
+    }
+
+}

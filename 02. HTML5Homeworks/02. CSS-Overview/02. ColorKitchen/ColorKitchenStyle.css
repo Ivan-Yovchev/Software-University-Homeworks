@@ -1,0 +1,198 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('images/colorful_dots_on_black.jpg');
+}
+body > header {
+    background: linear-gradient(to right, #ff0300 33.33%, #007b08 33.34%, #007b08 66.67%, #1500fc 66.68%);
+    color: #ffff40;
+    line-height: 1.5em;
+    font-size: 3.5em;
+    text-align: center;
+    font-weight: bold;
+    margin-top: -8px;
+    margin-bottom: 20pt;
+}
+
+nav header {
+    text-decoration: underline;
+    font-family: Arial;
+    font-size: 18pt;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li:first-child:hover {
+    background-color: #FF0000;
+    border-radius: 10px;
+}
+
+li:nth-child(2):hover {
+    background-color: #FFA500;
+    border-radius: 10px;
+}
+
+li:nth-child(3):hover {
+    background-color: #FFFF00;
+    border-radius: 10px;
+}
+
+li:nth-child(4):hover {
+    background-color: #008000;
+    border-radius: 10px;
+}
+
+li:nth-child(5):hover {
+    background-color: #0000FF;
+    border-radius: 10px;
+}
+
+li:nth-child(6):hover {
+    background-color: #800080;
+    border-radius: 10px;
+}
+
+li {
+    background-image: url("images/icon.png");
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: 5% 70%;
+    padding: 6px 0 6px 40px;
+    display: block;
+    font-family: Arial;
+    font-size: 12pt;
+}
+
+li a:visited {
+    color: grey;
+}
+
+li a:link {
+    color: black;
+}
+
+li a {
+    text-decoration:none;
+}
+
+article {
+    margin-bottom: 10pt;
+    margin-right: 20pt;
+    border-radius: 15px;
+    background-color: rgba(255,255,255,0.9);
+    width: 70%;
+    float:right;
+    padding: 10pt 10pt 5pt 10pt;
+}
+
+article div {
+    font-family: Arial;
+    font-size: 11pt;
+}
+
+span {
+    font-family: Arial;
+    font-size: 11pt;
+}
+
+article div::first-line {
+    font-style: italic;
+}
+
+article div::first-letter {
+    font-size: 300%;
+    padding-left: 5pt;
+}
+
+article a {
+    font-family: Arial;
+    font-size: 9pt;
+    font-style: italic;
+    color: #81878C;
+}
+
+span:lang(la) {
+    color: blue;
+    font-style: italic;
+}
+
+span:lang(la)::before {
+    content: "\"";
+}
+
+span:lang(la)::after {
+    content: "\"";
+}
+
+nav {
+    border-radius: 15px;
+    margin-left: 10pt;
+    margin-right: 15pt;
+    background-color: rgba(255,255,255,0.9);
+    width: 150pt;
+    float:left;
+    padding: 10pt 10pt 10pt 10pt;
+}
+
+#webColors {
+    font-family: Arial;
+    font-size: 18pt;
+    color: white;
+    background-color: #FF0000;
+    border-radius: 5pt;
+    padding: 5pt 5pt 5pt 5pt;
+    margin-bottom: 5pt;
+}
+
+#webSafeColors {
+    font-family: Arial;
+    font-size: 18pt;
+    background-color: #FFA500;
+    border-radius: 5pt;
+    padding: 5pt 5pt 5pt 5pt;
+    margin-bottom: 5pt;
+}
+
+#RGB {
+    font-family: Arial;
+    font-size: 18pt;
+    background-color: #FFFF00;
+    border-radius: 5pt;
+    padding: 5pt 5pt 5pt 5pt;
+    margin-bottom: 5pt;
+}
+
+#RGBA {
+    font-family: Arial;
+    font-size: 18pt;
+    color: white;
+    background-color: #008000;
+    border-radius: 5pt;
+    padding: 5pt 5pt 5pt 5pt;
+    margin-bottom: 5pt;
+}
+
+#\#HSLHSV {
+    font-family: Arial;
+    font-size: 18pt;
+    color: white;
+    background-color: #0000FF;
+    border-radius: 5pt;
+    padding: 5pt 5pt 5pt 5pt;
+    margin-bottom: 5pt;
+}
+
+#\#lorem {
+    font-family: Arial;
+    font-size: 18pt;
+    color: white;
+    background-color: #800080;
+    border-radius: 5pt;
+    padding: 5pt 5pt 5pt 5pt;
+    margin-bottom: 5pt;
+}

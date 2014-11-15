@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\02. ExamResults\bin\_02.ExamResults.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\02. ExamResults\bin\_02.ExamResults.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\02. ExamResults\bin\_02.ExamResults.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\02. ExamResults\obj\Debug\_02.ExamResults.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\02. ExamResults\obj\Debug\_02.ExamResults.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\02. ExamResults\obj\Debug\02. ExamResults.csprojResolveAssemblyReference.cache

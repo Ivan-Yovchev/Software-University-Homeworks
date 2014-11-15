@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\01. UnresponsiveHomework\bin\_01.UnresponsiveHomework.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\01. UnresponsiveHomework\bin\_01.UnresponsiveHomework.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\01. UnresponsiveHomework\bin\_01.UnresponsiveHomework.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\01. UnresponsiveHomework\obj\Debug\01. UnresponsiveHomework.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\01. UnresponsiveHomework\obj\Debug\_01.UnresponsiveHomework.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\08. ResponsiveDesign\01. UnresponsiveHomework\obj\Debug\_01.UnresponsiveHomework.pdb

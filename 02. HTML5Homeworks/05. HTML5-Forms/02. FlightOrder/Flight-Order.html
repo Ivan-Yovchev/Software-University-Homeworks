@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Flight Order</title>
+    <link href="Flight-Order-Style.css" rel="stylesheet" />
+</head>
+<body>
+    <form>
+        <div class="wrapper">
+
+            <p>flight order</p>
+
+            <div>
+                <span class="float-left">from</span>
+                <select id="from-city">
+                    <option selected>enter a city</option>
+                    <option>Sofia</option>
+                    <option>Varna</option>
+                    <option>Burgas</option>
+                    <option>Stara Zagora</option>
+                </select>
+                <span class="float-left">departure date</span>
+                <input type="date" value="2014-06-09" />
+                <span class="float-left">return date</span>
+                <input type="date" value="2014-06-13" />
+                <span class="number-range">12+</span>
+                <span class="number-range">2-12</span>
+                <span class="number-range">0-2</span>
+
+                <input type="number" max="100" min="13" value="0" />
+                <input type="number" max="12" min="2" value="0" />
+                <input type="number" max="2" min="0" value="0" />
+            </div>
+
+            <div>
+                <span class="float-left">to</span>
+
+                <select>
+                    <option selected>enter a city</option>
+                    <option>Sofia</option>
+                    <option>Varna</option>
+                    <option>Burgas</option>
+                    <option>Stara Zagora</option>
+                </select>
+
+                <div>
+                    <input type="checkbox" id="directs" />
+                    <label for="directs">Prefer directs</label>
+                </div>
+
+                <span class="float-left">time interval</span>
+
+                <input type="time" value="00:20" />
+                <input type="time" value="05:00" />
+
+                <span class="float-left">time interval</span>
+
+                <input type="time" value="16:00" />
+                <input type="time" value="22:00" />
+
+                <span class="float-left">choose class</span>
+
+                <select>
+                    <option selected>Economy</option>
+                    <option>Business</option>
+                    <option>First</option>
+                </select>
+
+                <input type="submit" value="Search" />
+
+            </div>
+        </div>
+    </form>
+</body>
+</html>

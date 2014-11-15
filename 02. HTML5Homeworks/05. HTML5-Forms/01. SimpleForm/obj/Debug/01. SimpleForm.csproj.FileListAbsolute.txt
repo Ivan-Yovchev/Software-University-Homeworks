@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\01. SimpleForm\bin\_01.SimpleForm.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\01. SimpleForm\bin\_01.SimpleForm.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\01. SimpleForm\bin\_01.SimpleForm.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\01. SimpleForm\obj\Debug\01. SimpleForm.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\01. SimpleForm\obj\Debug\_01.SimpleForm.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\05. HTML5-Forms\01. SimpleForm\obj\Debug\_01.SimpleForm.pdb

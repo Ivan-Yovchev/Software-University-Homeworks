@@ -1,0 +1,45 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: black;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#wrapper {
+    width: 670px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+    color: #F2C106;
+    font-size: 50px;
+}
+
+iframe {
+    float: left;
+    border: 2px solid #F2C106;
+}
+
+ul {
+    float: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    font-size: 35px;
+    color: white;
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}

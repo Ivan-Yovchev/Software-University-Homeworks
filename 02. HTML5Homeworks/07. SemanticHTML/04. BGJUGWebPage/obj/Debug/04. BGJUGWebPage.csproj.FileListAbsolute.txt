@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\04. BGJUGWebPage\bin\_04.BGJUGWebPage.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\04. BGJUGWebPage\bin\_04.BGJUGWebPage.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\04. BGJUGWebPage\bin\_04.BGJUGWebPage.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\04. BGJUGWebPage\obj\Debug\04. BGJUGWebPage.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\04. BGJUGWebPage\obj\Debug\_04.BGJUGWebPage.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\07. SemanticHTML\04. BGJUGWebPage\obj\Debug\_04.BGJUGWebPage.pdb

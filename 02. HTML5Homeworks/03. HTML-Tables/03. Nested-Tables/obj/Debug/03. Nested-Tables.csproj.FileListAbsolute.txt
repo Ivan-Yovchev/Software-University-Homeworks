@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\03. Nested-Tables\bin\_03.Nested_Tables.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\03. Nested-Tables\bin\_03.Nested_Tables.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\03. Nested-Tables\bin\_03.Nested_Tables.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\03. Nested-Tables\obj\Debug\_03.Nested_Tables.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\03. Nested-Tables\obj\Debug\_03.Nested_Tables.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\03. HTML-Tables\03. Nested-Tables\obj\Debug\03. Nested-Tables.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-6-July-2014\03. LoginSearchForm\bin\_03.LoginSearchForm.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-6-July-2014\03. LoginSearchForm\bin\_03.LoginSearchForm.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-6-July-2014\03. LoginSearchForm\bin\_03.LoginSearchForm.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-6-July-2014\03. LoginSearchForm\obj\Debug\_03.LoginSearchForm.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-6-July-2014\03. LoginSearchForm\obj\Debug\_03.LoginSearchForm.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\Exams\HTML-CSS-Exam-6-July-2014\03. LoginSearchForm\obj\Debug\03. LoginSearchForm.csprojResolveAssemblyReference.cache

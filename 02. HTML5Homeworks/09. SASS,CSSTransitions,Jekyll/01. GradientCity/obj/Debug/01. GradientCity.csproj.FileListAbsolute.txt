@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\09. SASS,CSSTransitions,Jekyll\01. GradientCity\bin\_01.GradientCity.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\09. SASS,CSSTransitions,Jekyll\01. GradientCity\bin\_01.GradientCity.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\09. SASS,CSSTransitions,Jekyll\01. GradientCity\bin\_01.GradientCity.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\09. SASS,CSSTransitions,Jekyll\01. GradientCity\obj\Debug\01. GradientCity.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\09. SASS,CSSTransitions,Jekyll\01. GradientCity\obj\Debug\_01.GradientCity.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\09. SASS,CSSTransitions,Jekyll\01. GradientCity\obj\Debug\_01.GradientCity.pdb

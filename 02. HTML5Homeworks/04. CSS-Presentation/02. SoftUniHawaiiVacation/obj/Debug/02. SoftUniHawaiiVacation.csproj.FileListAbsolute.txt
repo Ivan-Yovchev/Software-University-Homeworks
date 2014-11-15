@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\04. CSS-Presentation\02. SoftUniHawaiiVacation\bin\_02.SoftUniHawaiiVacation.dll.config
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\04. CSS-Presentation\02. SoftUniHawaiiVacation\bin\_02.SoftUniHawaiiVacation.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\04. CSS-Presentation\02. SoftUniHawaiiVacation\bin\_02.SoftUniHawaiiVacation.pdb
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\04. CSS-Presentation\02. SoftUniHawaiiVacation\obj\Debug\_02.SoftUniHawaiiVacation.dll
+D:\Visual Studio 2013\Projects\03. HTML5Homeworks\04. CSS-Presentation\02. SoftUniHawaiiVacation\obj\Debug\_02.SoftUniHawaiiVacation.pdb

@@ -1,0 +1,126 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: Yanone;
+    src: url(resources/yanonekaffeesatz-regular-webfont.ttf);
+}
+
+body {
+    background: url(resources/form-background.png) repeat;
+    font-family: Yanone, Arial, sans-serif;
+}
+
+
+#wrapper {
+    margin: 0 auto;
+    width: 530px;
+    height: 500px;
+    position: relative;
+    background-image: url(resources/envelope-top.png);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+
+   #wrapper h1 {
+       color: #7C7873;
+       font-size: 3em;
+       text-align: center;
+       margin-top: 20px;
+       margin-bottom: 20px;
+    } 
+
+#message {
+    width: 400px;
+    height: 550px;
+    margin: 0 auto;
+    background-image: url(resources/letter-background.png);
+    padding: 5px 20px;
+}
+
+    #message h2 {
+        color: #7C7873;
+        font-size: 1.5em;
+        font-weight: normal;
+        margin-top: 10px;
+        margin-bottom: 2px;
+    }
+
+    #message label {
+        display: block;
+        color: #B3ABA1;
+        font-size: 17px;
+        text-transform: uppercase;
+        margin-bottom: 2px;
+    }
+
+    #message textarea{
+        width: 100%;
+        height: 90px;
+        background-color: #F6F1E8;
+        border: 1px solid #B3ABA1;
+        border-radius: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 10px;
+        font-size: 16px;
+    }
+
+        #message textarea:focus {
+            outline: none;
+            background-color: #F6F3ED;
+        }
+
+    #message input[type=email],
+    #message input[type=text] {
+        width: 100%;
+        height: 35px;
+        background-color: #F6F1E8;
+        border: 1px solid #B3ABA1;
+        border-radius: 5px;
+        margin-bottom: 10px;
+        position: relative;
+        z-index: 50;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 10px;
+        font-size: 16px;
+    }
+
+        #message input[type=email]:focus,
+        #message input[type=text]:focus {
+            outline: none;
+            background-color: #F6F3ED;
+        }
+
+     #message div {
+         width: 40%;
+         margin: 0 auto;
+    }
+
+        #message div input[type=submit]{
+            width: 100%;
+            height: 40px;
+            background-color: inherit;
+            border: none;
+            font-size: 19px;
+            color: #7C7873;
+            position: relative;
+            z-index: 50;
+            cursor: pointer;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+            #message div input[type=submit]:hover {
+            color: #435C70;
+            font-weight: bold;
+            background-color: #BBC9CF;
+            border-radius: 5px;
+        }
+       
+
+#top {
+    position: absolute;
+    bottom: -132px;
+    left: 0;
+    z-index: 30;
+}
