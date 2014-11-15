@@ -1,0 +1,17 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+button {
+    background-color: white;
+    border: 1px solid lightgrey;
+    color: dodgerblue;
+    font-size: 24px;
+    width: 100px;
+    height: 40px;
+}
+
+button:hover {
+    cursor: pointer;
+}

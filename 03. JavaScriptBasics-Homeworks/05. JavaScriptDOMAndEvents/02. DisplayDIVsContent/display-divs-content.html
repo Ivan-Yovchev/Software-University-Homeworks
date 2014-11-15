@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+    <div>first div</div>
+    <div>second div</div>
+    <div class="empty"></div>
+    <div>third div<div>inner div</div></div>
+    <ul id="result"></ul>
+    <script>
+        
+        var divs = document.getElementsByTagName('div');
+
+        for (var i = 0; i < divs.length; i++) {
+
+            var text = divs[i].innerText;
+
+            if (text == '') {
+                continue;
+            }
+            else {
+                var listItem = document.createElement('li');
+                listItem.innerText = text;
+                document.getElementById('result').appendChild(listItem);
+            }
+
+        }
+
+    </script>
+</body>
+</html>
+

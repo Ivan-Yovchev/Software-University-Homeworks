@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\01. JavaScriptDevelopmentIntroduction\05. DecimalToHexadecimal\bin\_05.DecimalToHexadecimal.dll.config
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\01. JavaScriptDevelopmentIntroduction\05. DecimalToHexadecimal\bin\_05.DecimalToHexadecimal.dll
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\01. JavaScriptDevelopmentIntroduction\05. DecimalToHexadecimal\bin\_05.DecimalToHexadecimal.pdb
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\01. JavaScriptDevelopmentIntroduction\05. DecimalToHexadecimal\obj\Debug\_05.DecimalToHexadecimal.dll
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\01. JavaScriptDevelopmentIntroduction\05. DecimalToHexadecimal\obj\Debug\_05.DecimalToHexadecimal.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\01. JavaScriptDevelopmentIntroduction\04. CircleArea\bin\_04.CircleArea.dll.config
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\01. JavaScriptDevelopmentIntroduction\04. CircleArea\bin\_04.CircleArea.dll
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\01. JavaScriptDevelopmentIntroduction\04. CircleArea\bin\_04.CircleArea.pdb
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\01. JavaScriptDevelopmentIntroduction\04. CircleArea\obj\Debug\_04.CircleArea.dll
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\01. JavaScriptDevelopmentIntroduction\04. CircleArea\obj\Debug\_04.CircleArea.pdb

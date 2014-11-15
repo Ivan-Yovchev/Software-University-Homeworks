@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\01. LikeUnlikeButton\bin\_01.LikeUnlikeButton.dll.config
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\01. LikeUnlikeButton\bin\_01.LikeUnlikeButton.dll
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\01. LikeUnlikeButton\bin\_01.LikeUnlikeButton.pdb
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\01. LikeUnlikeButton\obj\Debug\01. LikeUnlikeButton.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\01. LikeUnlikeButton\obj\Debug\_01.LikeUnlikeButton.dll
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\01. LikeUnlikeButton\obj\Debug\_01.LikeUnlikeButton.pdb

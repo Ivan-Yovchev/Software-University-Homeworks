@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\05. PrintMouseCoordinates\bin\_05.PrintMouseCoordinates.dll.config
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\05. PrintMouseCoordinates\bin\_05.PrintMouseCoordinates.dll
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\05. PrintMouseCoordinates\bin\_05.PrintMouseCoordinates.pdb
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\05. PrintMouseCoordinates\obj\Debug\_05.PrintMouseCoordinates.dll
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\05. PrintMouseCoordinates\obj\Debug\_05.PrintMouseCoordinates.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\03. JavaScriptLoopsArraysStrings\03. Properties\bin\_03.Properties.dll.config
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\03. JavaScriptLoopsArraysStrings\03. Properties\bin\_03.Properties.dll
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\03. JavaScriptLoopsArraysStrings\03. Properties\bin\_03.Properties.pdb
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\03. JavaScriptLoopsArraysStrings\03. Properties\obj\Debug\03. Properties.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\03. JavaScriptLoopsArraysStrings\03. Properties\obj\Debug\_03.Properties.dll
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\03. JavaScriptLoopsArraysStrings\03. Properties\obj\Debug\_03.Properties.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\03. HideOddRows\bin\_03.HideOddRows.dll.config
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\03. HideOddRows\bin\_03.HideOddRows.dll
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\03. HideOddRows\bin\_03.HideOddRows.pdb
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\03. HideOddRows\obj\Debug\03. HideOddRows.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\03. HideOddRows\obj\Debug\_03.HideOddRows.dll
+D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\05. JavaScriptDOMAndEvents\03. HideOddRows\obj\Debug\_03.HideOddRows.pdb
