@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\CatchTheBits\bin\Debug\CatchTheBits.exe.config
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\CatchTheBits\bin\Debug\CatchTheBits.exe
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\CatchTheBits\bin\Debug\CatchTheBits.pdb
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\CatchTheBits\obj\Debug\CatchTheBits.exe
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\CatchTheBits\obj\Debug\CatchTheBits.pdb

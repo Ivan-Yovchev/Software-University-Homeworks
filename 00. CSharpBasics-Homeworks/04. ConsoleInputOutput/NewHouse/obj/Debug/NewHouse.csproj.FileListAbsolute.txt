@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\NewHouse\bin\Debug\NewHouse.exe.config
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\NewHouse\bin\Debug\NewHouse.exe
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\NewHouse\bin\Debug\NewHouse.pdb
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\NewHouse\obj\Debug\NewHouse.exe
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\NewHouse\obj\Debug\NewHouse.pdb

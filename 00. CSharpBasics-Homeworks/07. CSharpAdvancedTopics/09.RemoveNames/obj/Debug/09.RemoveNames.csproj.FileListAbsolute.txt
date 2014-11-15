@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.exe.config
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.exe
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.pdb
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.exe
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.pdb

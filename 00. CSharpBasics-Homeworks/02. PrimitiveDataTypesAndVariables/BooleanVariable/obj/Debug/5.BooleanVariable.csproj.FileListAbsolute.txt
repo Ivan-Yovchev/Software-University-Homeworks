@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+c:\users\user\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe
+c:\users\user\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+c:\users\user\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
+c:\users\user\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\TheExplorer\bin\Debug\TheExplorer.exe.config
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\TheExplorer\bin\Debug\TheExplorer.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\TheExplorer\bin\Debug\TheExplorer.pdb
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\TheExplorer\obj\Debug\TheExplorer.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\TheExplorer\obj\Debug\TheExplorer.pdb

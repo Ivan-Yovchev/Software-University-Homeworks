@@ -1,0 +1,3 @@
+D:\Visual Studio 2013\Projects\ConditionalStatements\Triangle\bin\Debug\Triangle.exe.config
+D:\Visual Studio 2013\Projects\ConditionalStatements\Triangle\obj\Debug\Triangle.exe
+D:\Visual Studio 2013\Projects\ConditionalStatements\Triangle\obj\Debug\Triangle.pdb

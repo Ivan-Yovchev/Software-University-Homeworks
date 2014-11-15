@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\28April2014\03.Disk\bin\Debug\03.Disk.exe.config
+D:\Visual Studio 2013\Projects\28April2014\03.Disk\bin\Debug\03.Disk.exe
+D:\Visual Studio 2013\Projects\28April2014\03.Disk\bin\Debug\03.Disk.pdb
+D:\Visual Studio 2013\Projects\28April2014\03.Disk\obj\Debug\03.Disk.exe
+D:\Visual Studio 2013\Projects\28April2014\03.Disk\obj\Debug\03.Disk.pdb

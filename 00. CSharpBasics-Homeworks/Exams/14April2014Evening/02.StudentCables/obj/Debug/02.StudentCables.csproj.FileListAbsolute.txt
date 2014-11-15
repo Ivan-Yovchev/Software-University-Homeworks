@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\14April2014Evening\02.StudentCables\bin\Debug\02.StudentCables.exe.config
+D:\Visual Studio 2013\Projects\14April2014Evening\02.StudentCables\bin\Debug\02.StudentCables.exe
+D:\Visual Studio 2013\Projects\14April2014Evening\02.StudentCables\bin\Debug\02.StudentCables.pdb
+D:\Visual Studio 2013\Projects\14April2014Evening\02.StudentCables\obj\Debug\02.StudentCables.exe
+D:\Visual Studio 2013\Projects\14April2014Evening\02.StudentCables\obj\Debug\02.StudentCables.pdb

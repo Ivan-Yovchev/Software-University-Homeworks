@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\ConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe.config
+D:\Visual Studio 2013\Projects\ConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe
+D:\Visual Studio 2013\Projects\ConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.pdb
+D:\Visual Studio 2013\Projects\ConditionalStatements\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.exe
+D:\Visual Studio 2013\Projects\ConditionalStatements\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.pdb

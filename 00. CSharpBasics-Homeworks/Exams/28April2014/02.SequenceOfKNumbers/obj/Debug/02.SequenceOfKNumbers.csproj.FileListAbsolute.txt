@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\28April2014\02.SequenceOfKNumbers\bin\Debug\02.SequenceOfKNumbers.exe.config
+D:\Visual Studio 2013\Projects\28April2014\02.SequenceOfKNumbers\bin\Debug\02.SequenceOfKNumbers.exe
+D:\Visual Studio 2013\Projects\28April2014\02.SequenceOfKNumbers\bin\Debug\02.SequenceOfKNumbers.pdb
+D:\Visual Studio 2013\Projects\28April2014\02.SequenceOfKNumbers\obj\Debug\02.SequenceOfKNumbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\28April2014\02.SequenceOfKNumbers\obj\Debug\02.SequenceOfKNumbers.exe
+D:\Visual Studio 2013\Projects\28April2014\02.SequenceOfKNumbers\obj\Debug\02.SequenceOfKNumbers.pdb

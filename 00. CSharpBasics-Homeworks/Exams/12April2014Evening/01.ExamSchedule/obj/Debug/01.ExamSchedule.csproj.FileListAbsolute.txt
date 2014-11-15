@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\12April2014Evening\01.ExamSchedule\bin\Debug\01.ExamSchedule.exe.config
+D:\Visual Studio 2013\Projects\12April2014Evening\01.ExamSchedule\bin\Debug\01.ExamSchedule.exe
+D:\Visual Studio 2013\Projects\12April2014Evening\01.ExamSchedule\bin\Debug\01.ExamSchedule.pdb
+D:\Visual Studio 2013\Projects\12April2014Evening\01.ExamSchedule\obj\Debug\01.ExamSchedule.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\12April2014Evening\01.ExamSchedule\obj\Debug\01.ExamSchedule.exe
+D:\Visual Studio 2013\Projects\12April2014Evening\01.ExamSchedule\obj\Debug\01.ExamSchedule.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\20.ProgrammerDNA\bin\Debug\20.ProgrammerDNA.exe.config
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\20.ProgrammerDNA\bin\Debug\20.ProgrammerDNA.exe
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\20.ProgrammerDNA\bin\Debug\20.ProgrammerDNA.pdb
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\20.ProgrammerDNA\obj\Debug\20.ProgrammerDNA.exe
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\20.ProgrammerDNA\obj\Debug\20.ProgrammerDNA.pdb

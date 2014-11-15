@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\11April2014Morning\02.SumOfElements\bin\Debug\02.SumOfElements.exe.config
+D:\Visual Studio 2013\Projects\11April2014Morning\02.SumOfElements\bin\Debug\02.SumOfElements.exe
+D:\Visual Studio 2013\Projects\11April2014Morning\02.SumOfElements\bin\Debug\02.SumOfElements.pdb
+D:\Visual Studio 2013\Projects\11April2014Morning\02.SumOfElements\obj\Debug\02.SumOfElements.exe
+D:\Visual Studio 2013\Projects\11April2014Morning\02.SumOfElements\obj\Debug\02.SumOfElements.pdb

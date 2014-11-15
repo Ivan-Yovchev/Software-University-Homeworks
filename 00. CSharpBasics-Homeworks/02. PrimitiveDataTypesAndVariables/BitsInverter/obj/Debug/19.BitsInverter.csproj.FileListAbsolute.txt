@@ -1,0 +1,3 @@
+C:\Users\User\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\BitsInverter\bin\Debug\BitsInverter.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\BitsInverter\obj\Debug\BitsInverter.exe
+C:\Users\User\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\BitsInverter\obj\Debug\BitsInverter.pdb

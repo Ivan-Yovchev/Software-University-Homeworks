@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\10April2014Evening\03.Eclipse\bin\Debug\03.Eclipse.exe.config
+D:\Visual Studio 2013\Projects\10April2014Evening\03.Eclipse\bin\Debug\03.Eclipse.exe
+D:\Visual Studio 2013\Projects\10April2014Evening\03.Eclipse\bin\Debug\03.Eclipse.pdb
+D:\Visual Studio 2013\Projects\10April2014Evening\03.Eclipse\obj\Debug\03.Eclipse.exe
+D:\Visual Studio 2013\Projects\10April2014Evening\03.Eclipse\obj\Debug\03.Eclipse.pdb

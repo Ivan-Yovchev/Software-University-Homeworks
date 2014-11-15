@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\11April2014Morning\03.TheExplorer\bin\Debug\03.TheExplorer.exe.config
+D:\Visual Studio 2013\Projects\11April2014Morning\03.TheExplorer\bin\Debug\03.TheExplorer.exe
+D:\Visual Studio 2013\Projects\11April2014Morning\03.TheExplorer\bin\Debug\03.TheExplorer.pdb
+D:\Visual Studio 2013\Projects\11April2014Morning\03.TheExplorer\obj\Debug\03.TheExplorer.exe
+D:\Visual Studio 2013\Projects\11April2014Morning\03.TheExplorer\obj\Debug\03.TheExplorer.pdb

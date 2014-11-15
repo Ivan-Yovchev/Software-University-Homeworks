@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\Nine-DigitMagicNumbers\bin\Debug\Nine-DigitMagicNumbers.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\Nine-DigitMagicNumbers\bin\Debug\Nine-DigitMagicNumbers.exe
+C:\Users\User\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\Nine-DigitMagicNumbers\bin\Debug\Nine-DigitMagicNumbers.pdb
+C:\Users\User\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\Nine-DigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\Nine-DigitMagicNumbers\obj\Debug\Nine-DigitMagicNumbers.exe
+C:\Users\User\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\Nine-DigitMagicNumbers\obj\Debug\Nine-DigitMagicNumbers.pdb

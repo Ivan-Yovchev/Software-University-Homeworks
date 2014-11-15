@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb

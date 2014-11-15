@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\Loops\18.TrailingZeroesInN!\bin\Debug\18.TrailingZeroesInN!.exe.config
+D:\Visual Studio 2013\Projects\Loops\18.TrailingZeroesInN!\bin\Debug\18.TrailingZeroesInN!.exe
+D:\Visual Studio 2013\Projects\Loops\18.TrailingZeroesInN!\bin\Debug\18.TrailingZeroesInN!.pdb
+D:\Visual Studio 2013\Projects\Loops\18.TrailingZeroesInN!\obj\Debug\18.TrailingZeroesInN!.exe
+D:\Visual Studio 2013\Projects\Loops\18.TrailingZeroesInN!\obj\Debug\18.TrailingZeroesInN!.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.exe.config
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.exe
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.pdb
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.exe
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.pdb

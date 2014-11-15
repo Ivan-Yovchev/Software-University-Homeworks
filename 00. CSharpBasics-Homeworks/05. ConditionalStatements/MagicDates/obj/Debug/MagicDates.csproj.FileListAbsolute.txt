@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\ConditionalStatements\MagicDates\bin\Debug\MagicDates.exe.config
+D:\Visual Studio 2013\Projects\ConditionalStatements\MagicDates\bin\Debug\MagicDates.exe
+D:\Visual Studio 2013\Projects\ConditionalStatements\MagicDates\bin\Debug\MagicDates.pdb
+D:\Visual Studio 2013\Projects\ConditionalStatements\MagicDates\obj\Debug\MagicDates.exe
+D:\Visual Studio 2013\Projects\ConditionalStatements\MagicDates\obj\Debug\MagicDates.pdb

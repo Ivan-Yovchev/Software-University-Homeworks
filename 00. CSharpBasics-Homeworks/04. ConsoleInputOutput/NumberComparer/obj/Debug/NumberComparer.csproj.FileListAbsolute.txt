@@ -1,0 +1,1 @@
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.exe.config

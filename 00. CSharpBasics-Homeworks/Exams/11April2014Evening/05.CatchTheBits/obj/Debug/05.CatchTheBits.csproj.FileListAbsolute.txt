@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\11April2014Evening\05.CatchTheBits\bin\Debug\05.CatchTheBits.exe.config
+D:\Visual Studio 2013\Projects\11April2014Evening\05.CatchTheBits\bin\Debug\05.CatchTheBits.exe
+D:\Visual Studio 2013\Projects\11April2014Evening\05.CatchTheBits\bin\Debug\05.CatchTheBits.pdb
+D:\Visual Studio 2013\Projects\11April2014Evening\05.CatchTheBits\obj\Debug\05.CatchTheBits.exe
+D:\Visual Studio 2013\Projects\11April2014Evening\05.CatchTheBits\obj\Debug\05.CatchTheBits.pdb

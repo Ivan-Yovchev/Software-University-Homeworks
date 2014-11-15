@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\11April2014Morning\01.WorkHours\bin\Debug\01.WorkHours.exe.config
+D:\Visual Studio 2013\Projects\11April2014Morning\01.WorkHours\bin\Debug\01.WorkHours.exe
+D:\Visual Studio 2013\Projects\11April2014Morning\01.WorkHours\bin\Debug\01.WorkHours.pdb
+D:\Visual Studio 2013\Projects\11April2014Morning\01.WorkHours\obj\Debug\01.WorkHours.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\11April2014Morning\01.WorkHours\obj\Debug\01.WorkHours.exe
+D:\Visual Studio 2013\Projects\11April2014Morning\01.WorkHours\obj\Debug\01.WorkHours.pdb

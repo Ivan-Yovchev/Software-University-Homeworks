@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\12April2014Morning\04.MagicDates\bin\Debug\04.MagicDates.exe.config
+D:\Visual Studio 2013\Projects\12April2014Morning\04.MagicDates\bin\Debug\04.MagicDates.exe
+D:\Visual Studio 2013\Projects\12April2014Morning\04.MagicDates\bin\Debug\04.MagicDates.pdb
+D:\Visual Studio 2013\Projects\12April2014Morning\04.MagicDates\obj\Debug\04.MagicDates.exe
+D:\Visual Studio 2013\Projects\12April2014Morning\04.MagicDates\obj\Debug\04.MagicDates.pdb

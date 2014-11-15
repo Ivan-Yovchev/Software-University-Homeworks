@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfElements\bin\Debug\SumOfElements.exe.config
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfElements\bin\Debug\SumOfElements.exe
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfElements\bin\Debug\SumOfElements.pdb
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfElements\obj\Debug\SumOfElements.exe
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfElements\obj\Debug\SumOfElements.pdb

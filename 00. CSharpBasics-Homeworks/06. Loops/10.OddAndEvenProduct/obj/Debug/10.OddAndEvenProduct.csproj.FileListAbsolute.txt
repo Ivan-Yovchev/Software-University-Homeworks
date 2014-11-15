@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
+D:\Visual Studio 2013\Projects\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+D:\Visual Studio 2013\Projects\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+D:\Visual Studio 2013\Projects\Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+D:\Visual Studio 2013\Projects\Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

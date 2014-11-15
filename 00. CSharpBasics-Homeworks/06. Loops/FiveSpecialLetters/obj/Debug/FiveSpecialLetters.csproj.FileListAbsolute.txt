@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\Loops\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe.config
+D:\Visual Studio 2013\Projects\Loops\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe
+D:\Visual Studio 2013\Projects\Loops\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.pdb
+D:\Visual Studio 2013\Projects\Loops\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.exe
+D:\Visual Studio 2013\Projects\Loops\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.pdb

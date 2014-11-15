@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\BitsUp\bin\Debug\BitsUp.exe.config
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\BitsUp\bin\Debug\BitsUp.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\BitsUp\bin\Debug\BitsUp.pdb
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\BitsUp\obj\Debug\BitsUp.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\BitsUp\obj\Debug\BitsUp.pdb

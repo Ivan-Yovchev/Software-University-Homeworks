@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\10April2014Evening\05.BitsUp\bin\Debug\05.BitsUp.exe.config
+D:\Visual Studio 2013\Projects\10April2014Evening\05.BitsUp\bin\Debug\05.BitsUp.exe
+D:\Visual Studio 2013\Projects\10April2014Evening\05.BitsUp\bin\Debug\05.BitsUp.pdb
+D:\Visual Studio 2013\Projects\10April2014Evening\05.BitsUp\obj\Debug\05.BitsUp.exe
+D:\Visual Studio 2013\Projects\10April2014Evening\05.BitsUp\obj\Debug\05.BitsUp.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\Loops\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe.config
+D:\Visual Studio 2013\Projects\Loops\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe
+D:\Visual Studio 2013\Projects\Loops\17.CalculateGCD\bin\Debug\17.CalculateGCD.pdb
+D:\Visual Studio 2013\Projects\Loops\17.CalculateGCD\obj\Debug\17.CalculateGCD.exe
+D:\Visual Studio 2013\Projects\Loops\17.CalculateGCD\obj\Debug\17.CalculateGCD.pdb

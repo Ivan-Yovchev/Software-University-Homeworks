@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\BitSifting\bin\Debug\BitSifting.exe.config
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\BitSifting\bin\Debug\BitSifting.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\BitSifting\bin\Debug\BitSifting.pdb
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\BitSifting\obj\Debug\BitSifting.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\BitSifting\obj\Debug\BitSifting.pdb

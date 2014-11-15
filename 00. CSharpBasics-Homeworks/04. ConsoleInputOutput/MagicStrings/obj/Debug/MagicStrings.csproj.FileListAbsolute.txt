@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\MagicStrings\bin\Debug\MagicStrings.exe.config
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\MagicStrings\bin\Debug\MagicStrings.exe
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\MagicStrings\bin\Debug\MagicStrings.pdb
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\MagicStrings\obj\Debug\MagicStrings.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\MagicStrings\obj\Debug\MagicStrings.exe
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\MagicStrings\obj\Debug\MagicStrings.pdb

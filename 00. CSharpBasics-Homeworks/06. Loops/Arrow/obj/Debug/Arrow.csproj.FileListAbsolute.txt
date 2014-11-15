@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\Loops\Arrow\bin\Debug\Arrow.exe.config
+D:\Visual Studio 2013\Projects\Loops\Arrow\bin\Debug\Arrow.exe
+D:\Visual Studio 2013\Projects\Loops\Arrow\bin\Debug\Arrow.pdb
+D:\Visual Studio 2013\Projects\Loops\Arrow\obj\Debug\Arrow.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\Loops\Arrow\obj\Debug\Arrow.exe
+D:\Visual Studio 2013\Projects\Loops\Arrow\obj\Debug\Arrow.pdb

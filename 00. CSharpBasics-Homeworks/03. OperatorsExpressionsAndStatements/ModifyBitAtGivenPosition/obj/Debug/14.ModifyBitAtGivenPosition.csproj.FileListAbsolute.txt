@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.exe.config
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.pdb
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.pdb

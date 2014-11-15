@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\11April2014Evening\04.CrossingSequences\bin\Debug\04.CrossingSequences.exe.config
+D:\Visual Studio 2013\Projects\11April2014Evening\04.CrossingSequences\bin\Debug\04.CrossingSequences.exe
+D:\Visual Studio 2013\Projects\11April2014Evening\04.CrossingSequences\bin\Debug\04.CrossingSequences.pdb
+D:\Visual Studio 2013\Projects\11April2014Evening\04.CrossingSequences\obj\Debug\04.CrossingSequences.exe
+D:\Visual Studio 2013\Projects\11April2014Evening\04.CrossingSequences\obj\Debug\04.CrossingSequences.pdb

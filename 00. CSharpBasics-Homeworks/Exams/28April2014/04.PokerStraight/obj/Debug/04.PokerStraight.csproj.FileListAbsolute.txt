@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\28April2014\04.PokerStraight\bin\Debug\04.PokerStraight.exe.config
+D:\Visual Studio 2013\Projects\28April2014\04.PokerStraight\bin\Debug\04.PokerStraight.exe
+D:\Visual Studio 2013\Projects\28April2014\04.PokerStraight\bin\Debug\04.PokerStraight.pdb
+D:\Visual Studio 2013\Projects\28April2014\04.PokerStraight\obj\Debug\04.PokerStraight.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\28April2014\04.PokerStraight\obj\Debug\04.PokerStraight.exe
+D:\Visual Studio 2013\Projects\28April2014\04.PokerStraight\obj\Debug\04.PokerStraight.pdb

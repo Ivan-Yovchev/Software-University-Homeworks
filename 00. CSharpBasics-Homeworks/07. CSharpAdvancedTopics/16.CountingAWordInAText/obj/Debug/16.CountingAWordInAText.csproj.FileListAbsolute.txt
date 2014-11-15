@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\16.CountingAWordInAText\bin\Debug\16.CountingAWordInAText.exe.config
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\16.CountingAWordInAText\bin\Debug\16.CountingAWordInAText.exe
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\16.CountingAWordInAText\bin\Debug\16.CountingAWordInAText.pdb
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\16.CountingAWordInAText\obj\Debug\16.CountingAWordInAText.exe
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\16.CountingAWordInAText\obj\Debug\16.CountingAWordInAText.pdb

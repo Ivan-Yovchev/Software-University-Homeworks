@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\PointInsideCircleOutsideRectangle\bin\Debug\PointInsideCircleOutsideRectangle.exe.config
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\PointInsideCircleOutsideRectangle\bin\Debug\PointInsideCircleOutsideRectangle.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\PointInsideCircleOutsideRectangle\bin\Debug\PointInsideCircleOutsideRectangle.pdb
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\PointInsideCircleOutsideRectangle\obj\Debug\PointInsideCircleOutsideRectangle.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\PointInsideCircleOutsideRectangle\obj\Debug\PointInsideCircleOutsideRectangle.pdb

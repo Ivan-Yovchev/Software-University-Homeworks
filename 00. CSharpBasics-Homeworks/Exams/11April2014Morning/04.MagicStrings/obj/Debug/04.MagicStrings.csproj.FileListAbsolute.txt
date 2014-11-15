@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\11April2014Morning\04.MagicStrings\bin\Debug\04.MagicStrings.exe.config
+D:\Visual Studio 2013\Projects\11April2014Morning\04.MagicStrings\bin\Debug\04.MagicStrings.exe
+D:\Visual Studio 2013\Projects\11April2014Morning\04.MagicStrings\bin\Debug\04.MagicStrings.pdb
+D:\Visual Studio 2013\Projects\11April2014Morning\04.MagicStrings\obj\Debug\04.MagicStrings.exe
+D:\Visual Studio 2013\Projects\11April2014Morning\04.MagicStrings\obj\Debug\04.MagicStrings.pdb

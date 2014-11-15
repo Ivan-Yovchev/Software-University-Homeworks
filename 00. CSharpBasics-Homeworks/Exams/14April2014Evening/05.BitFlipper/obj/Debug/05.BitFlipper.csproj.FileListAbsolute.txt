@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\14April2014Evening\05.BitFlipper\bin\Debug\05.BitFlipper.exe.config
+D:\Visual Studio 2013\Projects\14April2014Evening\05.BitFlipper\bin\Debug\05.BitFlipper.exe
+D:\Visual Studio 2013\Projects\14April2014Evening\05.BitFlipper\bin\Debug\05.BitFlipper.pdb
+D:\Visual Studio 2013\Projects\14April2014Evening\05.BitFlipper\obj\Debug\05.BitFlipper.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\14April2014Evening\05.BitFlipper\obj\Debug\05.BitFlipper.exe
+D:\Visual Studio 2013\Projects\14April2014Evening\05.BitFlipper\obj\Debug\05.BitFlipper.pdb

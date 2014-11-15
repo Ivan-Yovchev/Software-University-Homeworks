@@ -1,0 +1,3 @@
+D:\Visual Studio 2013\Projects\ConditionalStatements\BitsKiller\bin\Debug\BitsKiller.exe.config
+D:\Visual Studio 2013\Projects\ConditionalStatements\BitsKiller\obj\Debug\BitsKiller.exe
+D:\Visual Studio 2013\Projects\ConditionalStatements\BitsKiller\obj\Debug\BitsKiller.pdb

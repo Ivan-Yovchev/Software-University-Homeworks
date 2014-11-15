@@ -1,0 +1,3 @@
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\WorkHours\bin\Debug\WorkHours.exe.config
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\WorkHours\obj\Debug\WorkHours.exe
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\WorkHours\obj\Debug\WorkHours.pdb

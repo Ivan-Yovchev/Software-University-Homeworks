@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\14April2014Evening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.exe.config
+D:\Visual Studio 2013\Projects\14April2014Evening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.exe
+D:\Visual Studio 2013\Projects\14April2014Evening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.pdb
+D:\Visual Studio 2013\Projects\14April2014Evening\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.exe
+D:\Visual Studio 2013\Projects\14April2014Evening\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.pdb

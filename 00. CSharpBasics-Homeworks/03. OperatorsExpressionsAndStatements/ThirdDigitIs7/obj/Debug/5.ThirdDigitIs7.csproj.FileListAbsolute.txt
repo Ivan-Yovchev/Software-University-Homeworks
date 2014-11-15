@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe.config
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb

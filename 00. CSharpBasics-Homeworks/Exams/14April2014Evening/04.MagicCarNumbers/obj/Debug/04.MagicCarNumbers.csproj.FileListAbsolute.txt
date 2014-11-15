@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\14April2014Evening\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.exe.config
+D:\Visual Studio 2013\Projects\14April2014Evening\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.exe
+D:\Visual Studio 2013\Projects\14April2014Evening\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.pdb
+D:\Visual Studio 2013\Projects\14April2014Evening\04.MagicCarNumbers\obj\Debug\04.MagicCarNumbers.exe
+D:\Visual Studio 2013\Projects\14April2014Evening\04.MagicCarNumbers\obj\Debug\04.MagicCarNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\Loops\07.CalculateTheNumberOfCombinations\bin\Debug\07.CalculateTheNumberOfCombinations.exe.config
+D:\Visual Studio 2013\Projects\Loops\07.CalculateTheNumberOfCombinations\bin\Debug\07.CalculateTheNumberOfCombinations.exe
+D:\Visual Studio 2013\Projects\Loops\07.CalculateTheNumberOfCombinations\bin\Debug\07.CalculateTheNumberOfCombinations.pdb
+D:\Visual Studio 2013\Projects\Loops\07.CalculateTheNumberOfCombinations\obj\Debug\07.CalculateTheNumberOfCombinations.exe
+D:\Visual Studio 2013\Projects\Loops\07.CalculateTheNumberOfCombinations\obj\Debug\07.CalculateTheNumberOfCombinations.pdb
+D:\Visual Studio 2013\Projects\Loops\07.CalculateTheNumberOfCombinations\obj\Debug\07.CalculateTheNumberOfCombinations.csprojResolveAssemblyReference.cache

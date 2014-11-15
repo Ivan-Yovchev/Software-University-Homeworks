@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\28April2014\05.FriendBits\bin\Debug\05.FriendBits.exe.config
+D:\Visual Studio 2013\Projects\28April2014\05.FriendBits\bin\Debug\05.FriendBits.exe
+D:\Visual Studio 2013\Projects\28April2014\05.FriendBits\bin\Debug\05.FriendBits.pdb
+D:\Visual Studio 2013\Projects\28April2014\05.FriendBits\obj\Debug\05.FriendBits.exe
+D:\Visual Studio 2013\Projects\28April2014\05.FriendBits\obj\Debug\05.FriendBits.pdb

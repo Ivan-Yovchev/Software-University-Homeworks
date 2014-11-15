@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\HalfSum\bin\Debug\HalfSum.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\HalfSum\bin\Debug\HalfSum.exe
+C:\Users\User\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\HalfSum\bin\Debug\HalfSum.pdb
+C:\Users\User\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\HalfSum\obj\Debug\HalfSum.exe
+C:\Users\User\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\HalfSum\obj\Debug\HalfSum.pdb

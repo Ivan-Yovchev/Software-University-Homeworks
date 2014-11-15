@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\11April2014Morning\05.BitSifting\bin\Debug\05.BitSifting.exe.config
+D:\Visual Studio 2013\Projects\11April2014Morning\05.BitSifting\bin\Debug\05.BitSifting.exe
+D:\Visual Studio 2013\Projects\11April2014Morning\05.BitSifting\bin\Debug\05.BitSifting.pdb
+D:\Visual Studio 2013\Projects\11April2014Morning\05.BitSifting\obj\Debug\05.BitSifting.exe
+D:\Visual Studio 2013\Projects\11April2014Morning\05.BitSifting\obj\Debug\05.BitSifting.pdb

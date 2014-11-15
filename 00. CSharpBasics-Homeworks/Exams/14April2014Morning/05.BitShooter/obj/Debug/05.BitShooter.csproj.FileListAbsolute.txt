@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\14April2014Morning\05.BitShooter\bin\Debug\05.BitShooter.exe.config
+D:\Visual Studio 2013\Projects\14April2014Morning\05.BitShooter\bin\Debug\05.BitShooter.exe
+D:\Visual Studio 2013\Projects\14April2014Morning\05.BitShooter\bin\Debug\05.BitShooter.pdb
+D:\Visual Studio 2013\Projects\14April2014Morning\05.BitShooter\obj\Debug\05.BitShooter.exe
+D:\Visual Studio 2013\Projects\14April2014Morning\05.BitShooter\obj\Debug\05.BitShooter.pdb

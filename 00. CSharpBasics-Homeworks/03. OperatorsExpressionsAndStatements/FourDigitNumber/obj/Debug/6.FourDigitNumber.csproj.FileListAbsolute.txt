@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+D:\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\FourDigitNumber\obj\Debug\6.FourDigitNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\10April2014Morning\05.BitsInverter\bin\Debug\05.BitsInverter.exe.config
+D:\Visual Studio 2013\Projects\10April2014Morning\05.BitsInverter\bin\Debug\05.BitsInverter.exe
+D:\Visual Studio 2013\Projects\10April2014Morning\05.BitsInverter\bin\Debug\05.BitsInverter.pdb
+D:\Visual Studio 2013\Projects\10April2014Morning\05.BitsInverter\obj\Debug\05.BitsInverter.exe
+D:\Visual Studio 2013\Projects\10April2014Morning\05.BitsInverter\obj\Debug\05.BitsInverter.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\10April2014Evening\02.OddEvenSum\bin\Debug\02.OddEvenSum.exe.config
+D:\Visual Studio 2013\Projects\10April2014Evening\02.OddEvenSum\bin\Debug\02.OddEvenSum.exe
+D:\Visual Studio 2013\Projects\10April2014Evening\02.OddEvenSum\bin\Debug\02.OddEvenSum.pdb
+D:\Visual Studio 2013\Projects\10April2014Evening\02.OddEvenSum\obj\Debug\02.OddEvenSum.exe
+D:\Visual Studio 2013\Projects\10April2014Evening\02.OddEvenSum\obj\Debug\02.OddEvenSum.pdb

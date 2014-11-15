@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfnNumbers\bin\Debug\SumOfnNumbers.exe.config
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfnNumbers\bin\Debug\SumOfnNumbers.exe
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfnNumbers\bin\Debug\SumOfnNumbers.pdb
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfnNumbers\obj\Debug\SumOfnNumbers.exe
+D:\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfnNumbers\obj\Debug\SumOfnNumbers.pdb

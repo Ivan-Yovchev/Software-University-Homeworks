@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\11April2014Evening\02.Illuminati\bin\Debug\02.Illuminati.exe.config
+D:\Visual Studio 2013\Projects\11April2014Evening\02.Illuminati\bin\Debug\02.Illuminati.exe
+D:\Visual Studio 2013\Projects\11April2014Evening\02.Illuminati\bin\Debug\02.Illuminati.pdb
+D:\Visual Studio 2013\Projects\11April2014Evening\02.Illuminati\obj\Debug\02.Illuminati.exe
+D:\Visual Studio 2013\Projects\11April2014Evening\02.Illuminati\obj\Debug\02.Illuminati.pdb

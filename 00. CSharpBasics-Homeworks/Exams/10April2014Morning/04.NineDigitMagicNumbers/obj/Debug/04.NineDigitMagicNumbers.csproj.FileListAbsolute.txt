@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\10April2014Morning\04.NineDigitMagicNumbers\bin\Debug\04.NineDigitMagicNumbers.exe.config
+D:\Visual Studio 2013\Projects\10April2014Morning\04.NineDigitMagicNumbers\bin\Debug\04.NineDigitMagicNumbers.exe
+D:\Visual Studio 2013\Projects\10April2014Morning\04.NineDigitMagicNumbers\bin\Debug\04.NineDigitMagicNumbers.pdb
+D:\Visual Studio 2013\Projects\10April2014Morning\04.NineDigitMagicNumbers\obj\Debug\04.NineDigitMagicNumbers.exe
+D:\Visual Studio 2013\Projects\10April2014Morning\04.NineDigitMagicNumbers\obj\Debug\04.NineDigitMagicNumbers.pdb

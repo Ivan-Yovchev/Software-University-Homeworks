@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
+D:\Visual Studio 2013\Projects\Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+D:\Visual Studio 2013\Projects\Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+D:\Visual Studio 2013\Projects\Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+D:\Visual Studio 2013\Projects\Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

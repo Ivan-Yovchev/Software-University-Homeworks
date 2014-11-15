@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\Loops\03.MinMaxSumAndAverage\bin\Debug\03.MinMaxSumAndAverage.exe.config
+D:\Visual Studio 2013\Projects\Loops\03.MinMaxSumAndAverage\bin\Debug\03.MinMaxSumAndAverage.exe
+D:\Visual Studio 2013\Projects\Loops\03.MinMaxSumAndAverage\bin\Debug\03.MinMaxSumAndAverage.pdb
+D:\Visual Studio 2013\Projects\Loops\03.MinMaxSumAndAverage\obj\Debug\03.MinMaxSumAndAverage.exe
+D:\Visual Studio 2013\Projects\Loops\03.MinMaxSumAndAverage\obj\Debug\03.MinMaxSumAndAverage.pdb

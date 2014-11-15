@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\19.StudentCables\bin\Debug\19.StudentCables.exe.config
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\19.StudentCables\bin\Debug\19.StudentCables.exe
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\19.StudentCables\bin\Debug\19.StudentCables.pdb
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\19.StudentCables\obj\Debug\19.StudentCables.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\19.StudentCables\obj\Debug\19.StudentCables.exe
+D:\Visual Studio 2013\Projects\CSharpAdvancedTopics\19.StudentCables\obj\Debug\19.StudentCables.pdb

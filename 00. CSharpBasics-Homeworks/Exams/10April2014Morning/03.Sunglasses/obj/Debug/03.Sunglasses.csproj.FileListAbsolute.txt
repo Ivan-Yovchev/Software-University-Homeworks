@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\10April2014Morning\03.Sunglasses\bin\Debug\03.Sunglasses.exe.config
+D:\Visual Studio 2013\Projects\10April2014Morning\03.Sunglasses\bin\Debug\03.Sunglasses.exe
+D:\Visual Studio 2013\Projects\10April2014Morning\03.Sunglasses\bin\Debug\03.Sunglasses.pdb
+D:\Visual Studio 2013\Projects\10April2014Morning\03.Sunglasses\obj\Debug\03.Sunglasses.exe
+D:\Visual Studio 2013\Projects\10April2014Morning\03.Sunglasses\obj\Debug\03.Sunglasses.pdb

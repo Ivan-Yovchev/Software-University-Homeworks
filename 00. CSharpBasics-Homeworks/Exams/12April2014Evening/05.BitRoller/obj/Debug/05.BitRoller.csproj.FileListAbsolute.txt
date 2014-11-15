@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\12April2014Evening\05.BitRoller\bin\Debug\05.BitRoller.exe.config
+D:\Visual Studio 2013\Projects\12April2014Evening\05.BitRoller\bin\Debug\05.BitRoller.exe
+D:\Visual Studio 2013\Projects\12April2014Evening\05.BitRoller\bin\Debug\05.BitRoller.pdb
+D:\Visual Studio 2013\Projects\12April2014Evening\05.BitRoller\obj\Debug\05.BitRoller.exe
+D:\Visual Studio 2013\Projects\12April2014Evening\05.BitRoller\obj\Debug\05.BitRoller.pdb
