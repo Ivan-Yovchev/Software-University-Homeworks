@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\Exams\JavaScriptBasicsExam28July2014\04. SoccerResults\bin\_04.SoccerResults.dll.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\Exams\JavaScriptBasicsExam28July2014\04. SoccerResults\bin\_04.SoccerResults.dll
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\Exams\JavaScriptBasicsExam28July2014\04. SoccerResults\bin\_04.SoccerResults.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\Exams\JavaScriptBasicsExam28July2014\04. SoccerResults\obj\Debug\04. SoccerResults.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\Exams\JavaScriptBasicsExam28July2014\04. SoccerResults\obj\Debug\_04.SoccerResults.dll
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\Exams\JavaScriptBasicsExam28July2014\04. SoccerResults\obj\Debug\_04.SoccerResults.pdb
