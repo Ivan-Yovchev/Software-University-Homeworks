@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+#parent {
+    width: 650px;
+    border: 2px solid rgb(234, 234, 234);
+    border-collapse: collapse;
+    margin-bottom: 15px;
+}
+
+#parent thead tr td {
+    vertical-align: middle;
+    text-align: left;
+    background-color: white;
+    font-size: 18px;
+}
+
+#parent tr:nth-child(2n){
+    background-color: rgb(245, 245, 245);
+}
+
+#parent tr td {
+    vertical-align: middle;
+    text-align: center;
+    border: none;
+    padding: 10px 5px;
+}
+
+#parent thead #head {
+    border-bottom: 1px solid black;
+}
+
+#parent thead #head td {
+    padding: 3px 10px;
+    height: 10px;
+}
+
+input[type=text],
+input[type=email]{
+    width: 150px;
+    height: 25px;
+    padding-left: 5px;
+    font-size: 15px;
+}
+
+input[type=number]{
+    width: 70px;
+    height: 25px;
+    margin-right: 10px;
+    padding-left: 5px;
+    font-size: 15px;
+}
+
+.minusButton {
+    width: 30px;
+    height: 30px;
+    color: white;
+    font-size: 24px;
+    vertical-align: top;
+    background-color: rgb(35, 68, 101);
+}
+
+label {
+    font-size: 18px;
+    display: inline-block;
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 2px;
+}
+
+select {
+    width: 130px;
+    height: 25px;
+    vertical-align: top;
+    font-size: 16px;
+}
+
+input[type=submit]{
+    width: 100px;
+    height: 30px;
+    color: white;
+    font-size: 24px;
+    vertical-align: top;
+    background-color: rgb(35, 68, 101);
+}
+
+#result {
+    width: 650px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-bottom: 15px;
+}
+
+#result tr td {
+    padding: 10px;
+    font-size: 16px;
+}
+
+#result tr th{
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+    background-color: rgb(26, 160, 219);
+}
+
+.score {
+    text-align: right;
+}
