@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\01.DefiningClasses\03. PCCatalog\bin\Debug\_03.PCCatalog.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\01.DefiningClasses\03. PCCatalog\bin\Debug\_03.PCCatalog.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\01.DefiningClasses\03. PCCatalog\bin\Debug\_03.PCCatalog.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\01.DefiningClasses\03. PCCatalog\obj\Debug\03. PCCatalog.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\01.DefiningClasses\03. PCCatalog\obj\Debug\_03.PCCatalog.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\01.DefiningClasses\03. PCCatalog\obj\Debug\_03.PCCatalog.pdb

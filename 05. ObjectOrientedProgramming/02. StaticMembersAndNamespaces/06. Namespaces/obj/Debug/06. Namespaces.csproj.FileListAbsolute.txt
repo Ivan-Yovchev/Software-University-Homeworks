@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\06. Namespaces\bin\Debug\_06.Namespaces.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\06. Namespaces\bin\Debug\_06.Namespaces.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\06. Namespaces\bin\Debug\_06.Namespaces.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\06. Namespaces\obj\Debug\_06.Namespaces.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\06. Namespaces\obj\Debug\_06.Namespaces.pdb

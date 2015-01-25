@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. ExceptionHandling\02. EnterNumbers\bin\Debug\_02.EnterNumbers.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. ExceptionHandling\02. EnterNumbers\bin\Debug\_02.EnterNumbers.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. ExceptionHandling\02. EnterNumbers\bin\Debug\_02.EnterNumbers.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. ExceptionHandling\02. EnterNumbers\obj\Debug\_02.EnterNumbers.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. ExceptionHandling\02. EnterNumbers\obj\Debug\_02.EnterNumbers.pdb

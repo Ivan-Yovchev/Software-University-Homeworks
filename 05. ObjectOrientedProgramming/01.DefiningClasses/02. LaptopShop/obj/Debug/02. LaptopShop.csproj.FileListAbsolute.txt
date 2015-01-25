@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\01.DefiningClasses\02. LaptopShop\bin\Debug\_02.LaptopShop.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\01.DefiningClasses\02. LaptopShop\bin\Debug\_02.LaptopShop.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\01.DefiningClasses\02. LaptopShop\bin\Debug\_02.LaptopShop.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\01.DefiningClasses\02. LaptopShop\obj\Debug\02. LaptopShop.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\01.DefiningClasses\02. LaptopShop\obj\Debug\_02.LaptopShop.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\01.DefiningClasses\02. LaptopShop\obj\Debug\_02.LaptopShop.pdb

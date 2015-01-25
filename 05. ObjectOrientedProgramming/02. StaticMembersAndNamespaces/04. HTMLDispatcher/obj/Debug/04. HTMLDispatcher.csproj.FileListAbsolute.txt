@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\04. HTMLDispatcher\bin\Debug\_04.HTMLDispatcher.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\04. HTMLDispatcher\bin\Debug\_04.HTMLDispatcher.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\04. HTMLDispatcher\bin\Debug\_04.HTMLDispatcher.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\04. HTMLDispatcher\obj\Debug\_04.HTMLDispatcher.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\04. HTMLDispatcher\obj\Debug\_04.HTMLDispatcher.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\05. BitArraay\bin\Debug\_05.BitArraay.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\05. BitArraay\bin\Debug\_05.BitArraay.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\05. BitArraay\bin\Debug\_05.BitArraay.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\05. BitArraay\obj\Debug\05. BitArraay.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\05. BitArraay\obj\Debug\_05.BitArraay.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\02. StaticMembersAndNamespaces\05. BitArraay\obj\Debug\_05.BitArraay.pdb
