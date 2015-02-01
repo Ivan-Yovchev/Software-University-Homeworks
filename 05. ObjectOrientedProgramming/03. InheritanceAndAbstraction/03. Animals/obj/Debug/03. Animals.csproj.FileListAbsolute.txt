@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\03. Animals\bin\Debug\_03.Animals.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\03. Animals\obj\Debug\03. Animals.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\03. Animals\bin\Debug\_03.Animals.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\03. Animals\bin\Debug\_03.Animals.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\03. Animals\obj\Debug\_03.Animals.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\03. Animals\obj\Debug\_03.Animals.pdb

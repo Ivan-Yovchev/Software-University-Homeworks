@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OtherTypesInOOP", "01. OtherTypesInOOP\01. OtherTypesInOOP.csproj", "{B6628288-C3B5-4087-ADAA-F14D8C91DB9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginApp", "LoginApp\LoginApp.csproj", "{79EF6A50-2958-45B7-B6AD-EE7928C39A29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B6628288-C3B5-4087-ADAA-F14D8C91DB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6628288-C3B5-4087-ADAA-F14D8C91DB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6628288-C3B5-4087-ADAA-F14D8C91DB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79EF6A50-2958-45B7-B6AD-EE7928C39A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EF6A50-2958-45B7-B6AD-EE7928C39A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EF6A50-2958-45B7-B6AD-EE7928C39A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EF6A50-2958-45B7-B6AD-EE7928C39A29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

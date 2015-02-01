@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\04. EncapsulationAndPolymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\04. EncapsulationAndPolymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\04. EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\04. EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\04. EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.pdb

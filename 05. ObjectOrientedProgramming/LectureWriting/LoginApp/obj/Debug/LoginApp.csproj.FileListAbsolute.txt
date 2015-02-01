@@ -1,0 +1,9 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\LectureWriting\LoginApp\bin\Debug\LoginApp.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\LectureWriting\LoginApp\bin\Debug\LoginApp.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\LectureWriting\LoginApp\bin\Debug\LoginApp.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\LectureWriting\LoginApp\obj\Debug\LoginApp.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\LectureWriting\LoginApp\obj\Debug\LoginApp.FormLogin.resources
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\LectureWriting\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\LectureWriting\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\LectureWriting\LoginApp\obj\Debug\LoginApp.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\LectureWriting\LoginApp\obj\Debug\LoginApp.pdb

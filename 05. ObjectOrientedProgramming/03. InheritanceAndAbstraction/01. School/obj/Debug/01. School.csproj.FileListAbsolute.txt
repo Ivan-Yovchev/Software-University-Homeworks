@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\01. School\bin\Debug\_01.School.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\01. School\bin\Debug\_01.School.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\01. School\bin\Debug\_01.School.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\01. School\obj\Debug\01. School.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\01. School\obj\Debug\_01.School.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\01. School\obj\Debug\_01.School.pdb

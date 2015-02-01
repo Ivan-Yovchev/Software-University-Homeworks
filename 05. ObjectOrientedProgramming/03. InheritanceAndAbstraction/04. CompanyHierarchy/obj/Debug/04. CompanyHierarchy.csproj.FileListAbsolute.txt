@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\04. CompanyHierarchy\bin\Debug\_04.CompanyHierarchy.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\04. CompanyHierarchy\obj\Debug\04. CompanyHierarchy.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\04. CompanyHierarchy\bin\Debug\_04.CompanyHierarchy.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\04. CompanyHierarchy\bin\Debug\_04.CompanyHierarchy.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\04. CompanyHierarchy\obj\Debug\_04.CompanyHierarchy.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\04. CompanyHierarchy\obj\Debug\_04.CompanyHierarchy.pdb

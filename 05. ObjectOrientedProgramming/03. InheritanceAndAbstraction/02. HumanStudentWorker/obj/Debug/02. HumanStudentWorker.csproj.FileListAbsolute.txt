@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\02. HumanStudentWorker\bin\Debug\_02.HumanStudentWorker.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\02. HumanStudentWorker\bin\Debug\_02.HumanStudentWorker.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\02. HumanStudentWorker\bin\Debug\_02.HumanStudentWorker.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\02. HumanStudentWorker\obj\Debug\02. HumanStudentWorker.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\02. HumanStudentWorker\obj\Debug\_02.HumanStudentWorker.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\03. InheritanceAndAbstraction\02. HumanStudentWorker\obj\Debug\_02.HumanStudentWorker.pdb
