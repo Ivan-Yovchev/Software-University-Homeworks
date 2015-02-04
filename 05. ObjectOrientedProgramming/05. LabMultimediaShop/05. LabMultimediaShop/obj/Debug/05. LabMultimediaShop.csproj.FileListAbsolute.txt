@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. LabMultimediaShop\05. LabMultimediaShop\bin\Debug\_05.LabMultimediaShop.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. LabMultimediaShop\05. LabMultimediaShop\obj\Debug\05. LabMultimediaShop.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. LabMultimediaShop\05. LabMultimediaShop\bin\Debug\_05.LabMultimediaShop.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. LabMultimediaShop\05. LabMultimediaShop\bin\Debug\_05.LabMultimediaShop.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. LabMultimediaShop\05. LabMultimediaShop\obj\Debug\_05.LabMultimediaShop.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. LabMultimediaShop\05. LabMultimediaShop\obj\Debug\_05.LabMultimediaShop.pdb
