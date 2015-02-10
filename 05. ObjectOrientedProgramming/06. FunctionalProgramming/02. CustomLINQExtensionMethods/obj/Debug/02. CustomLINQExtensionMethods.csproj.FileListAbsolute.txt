@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\06. FunctionalProgramming\02. CustomLINQExtensionMethods\bin\Debug\_02.CustomLINQExtensionMethods.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\06. FunctionalProgramming\02. CustomLINQExtensionMethods\bin\Debug\_02.CustomLINQExtensionMethods.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\06. FunctionalProgramming\02. CustomLINQExtensionMethods\bin\Debug\_02.CustomLINQExtensionMethods.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\06. FunctionalProgramming\02. CustomLINQExtensionMethods\obj\Debug\_02.CustomLINQExtensionMethods.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\06. FunctionalProgramming\02. CustomLINQExtensionMethods\obj\Debug\_02.CustomLINQExtensionMethods.pdb

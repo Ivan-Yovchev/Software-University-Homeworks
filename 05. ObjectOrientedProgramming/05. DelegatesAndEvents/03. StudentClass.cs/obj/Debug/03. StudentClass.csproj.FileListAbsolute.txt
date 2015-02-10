@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. DelegatesAndEvents\03. StudentClass.cs\obj\Debug\03. StudentClass.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. DelegatesAndEvents\03. StudentClass.cs\bin\Debug\_03.StudentClass.cs.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. DelegatesAndEvents\03. StudentClass.cs\bin\Debug\_03.StudentClass.cs.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. DelegatesAndEvents\03. StudentClass.cs\bin\Debug\_03.StudentClass.cs.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. DelegatesAndEvents\03. StudentClass.cs\obj\Debug\_03.StudentClass.cs.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. DelegatesAndEvents\03. StudentClass.cs\obj\Debug\_03.StudentClass.cs.pdb

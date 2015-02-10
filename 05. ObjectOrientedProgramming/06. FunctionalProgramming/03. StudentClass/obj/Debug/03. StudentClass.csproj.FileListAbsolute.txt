@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\06. FunctionalProgramming\03. StudentClass\bin\Debug\_03.StudentClass.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\06. FunctionalProgramming\03. StudentClass\bin\Debug\_03.StudentClass.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\06. FunctionalProgramming\03. StudentClass\bin\Debug\_03.StudentClass.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\06. FunctionalProgramming\03. StudentClass\obj\Debug\_03.StudentClass.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\06. FunctionalProgramming\03. StudentClass\obj\Debug\_03.StudentClass.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. DelegatesAndEvents\02. AsynchronousTimer\bin\Debug\_02.AsynchronousTimer.exe.config
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. DelegatesAndEvents\02. AsynchronousTimer\bin\Debug\_02.AsynchronousTimer.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. DelegatesAndEvents\02. AsynchronousTimer\bin\Debug\_02.AsynchronousTimer.pdb
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. DelegatesAndEvents\02. AsynchronousTimer\obj\Debug\_02.AsynchronousTimer.exe
+D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\05. DelegatesAndEvents\02. AsynchronousTimer\obj\Debug\_02.AsynchronousTimer.pdb
