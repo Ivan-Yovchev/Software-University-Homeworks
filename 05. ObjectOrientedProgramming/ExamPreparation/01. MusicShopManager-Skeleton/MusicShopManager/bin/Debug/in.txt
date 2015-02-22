@@ -1,0 +1,61 @@
+CreateElectricGuitar[body:Mahogany;price:1199.8999999;fingerboard:Rosewood;make:DEAN;color:Classic Black;model:Cadillac 1980;adapters:2;frets:22]
+CreateDrums[price:215.00000008;model:MX-203;make:Maxtone;color:Black;width:55;height:50]
+CreateMicrophone[model:JS-1T;price:272.00;cable:yes;make:JTS]
+CreateBassGuitar[make:Apollo;model:HDQT - 6 TGY;price:540.99;color:Basswood Quilted Veneer;body:Basswood;fingerboard:Rosewood]
+CreateAcousticGuitar[model:AFN-15 BS;fingerboard:Rosewood;price:320;make:Aria;body:Basswood;case:yes;strings:Nylon;color:Sunburst]
+
+CreateDrums[model:MD-30;price:159.99;make:Maxtone;color:black;width:35;height:27]
+CreateAcousticGuitar[body:Mahogany;model:AD-20;fingerboard:Mahogany;price:320;make:Aria;color:Natural;case:no;strings:Steel]
+
+CreateMusicShop[name:Music Shop]
+CreateMusicShop[name:Another Shop]
+
+ListArticles[name:Another Shop]
+
+AddArticleToShop[model:JS-1T;name:Music Shop;make:JTS]
+AddArticleToShop[model:JS-1T;name:Another Shop;make:JTS]
+AddArticleToShop[name:Music Shop;model:HDQT - 6 TGY;make:Apollo]
+AddArticleToShop[name:Another Shop;model:MX-203;make:Maxtone]
+AddArticleToShop[name:Music Shop;make:DEAN;model:Cadillac 1980]
+
+AddArticleToShop[name:Music Shop;model:AFN-15;make:Aria]
+AddArticleToShop[name:Another Shop;model:Such Thing;make:No]
+
+AddArticleToShop[model:MD-30;name:Another Shop;make:Maxtone]
+AddArticleToShop[model:AD-20;name:Another Shop;make:Aria]
+
+AddArticleToShop[model:MD-30;name:Some Nonexisting Shop;make:Maxtone]
+AddArticleToShop[model:AD-20;make:Aria;name:Same Nonexisting Shop Again]
+
+ListArticles[name:Music Shop]
+ListArticles[name:Another Shop]
+
+RemoveArticleFromShop[model:AD-20;name:Music Shop;make:Aria]
+RemoveArticleFromShop[model:MX-203;name:Another Shop;make:Maxtone]
+
+ListArticles[name:Music Shop]
+ListArticles[name:Another Shop]
+
+CreateElectricGuitar[model:Rocketeer Deluxe;body:Basswood;frets:22;fingerboard:Rosewood;price:473.45;make:Rogue;adapters:2;color:Brown / White]
+AddArticleToShop[model:Rocketeer Deluxe;name:Another Shop;make:Rogue]
+AddArticleToShop[model:Rocketeer Deluxe;name:Music Shop;make:Rogue]
+AddArticleToShop[name:Another Shop;make:DEAN;model:Cadillac 1980]
+
+CreateMicrophone[make:JTS;model:TM989;price:20.00;cable:yes]
+AddArticleToShop[make:JTS;model:TM989;name:Music Shop]
+AddArticleToShop[make:JTS;model:TM989;name:Another Shop]
+ListArticles[name:Music Shop]
+ListArticles[name:Another Shop]
+
+RemoveArticleFromShop[model:Cadillac 1980;name:Another Shop;make:DEAN]
+RemoveArticleFromShop[model:Rocketeer Deluxe;make:Rogue;name:Another Shop]
+RemoveArticleFromShop[name:Another Shop;model:MD-30;make:Maxtone]
+RemoveArticleFromShop[name:Another Shop;model:JS-1T;make:JTS]
+RemoveArticleFromShop[name:Another Shop;model:TM989;make:JTS]
+
+ListArticles[name:Another Shop]
+
+RemoveArticleFromShop[name:Another Shop;model:AD-20;make:Aria]
+ListArticles[name:Another Shop]
+ListArticles[name:Music Shop]
+End

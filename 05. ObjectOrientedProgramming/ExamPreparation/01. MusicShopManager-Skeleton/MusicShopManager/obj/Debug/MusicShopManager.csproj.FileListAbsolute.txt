@@ -1,0 +1,6 @@
+C:\Users\Yovchev\Desktop\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.exe.config
+C:\Users\Yovchev\Desktop\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.exe
+C:\Users\Yovchev\Desktop\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.pdb
+C:\Users\Yovchev\Desktop\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShopManager.csprojResolveAssemblyReference.cache
+C:\Users\Yovchev\Desktop\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShop.exe
+C:\Users\Yovchev\Desktop\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShop.pdb
