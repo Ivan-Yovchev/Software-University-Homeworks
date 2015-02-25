@@ -4,3 +4,6 @@ C:\Users\Yovchev\Desktop\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\Mu
 C:\Users\Yovchev\Desktop\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShopManager.csprojResolveAssemblyReference.cache
 C:\Users\Yovchev\Desktop\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShop.exe
 C:\Users\Yovchev\Desktop\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShop.pdb
+D:\SoftUni Homeworks\05. ObjectOrientedProgramming\ExamPreparation\01. MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.exe.config
+D:\SoftUni Homeworks\05. ObjectOrientedProgramming\ExamPreparation\01. MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShop.exe
+D:\SoftUni Homeworks\05. ObjectOrientedProgramming\ExamPreparation\01. MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShop.pdb
