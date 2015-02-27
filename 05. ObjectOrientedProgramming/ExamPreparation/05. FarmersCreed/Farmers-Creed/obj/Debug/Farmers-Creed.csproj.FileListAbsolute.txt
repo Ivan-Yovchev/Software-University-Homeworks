@@ -1,0 +1,5 @@
+C:\Users\Yovchev\Desktop\Farmers-Creed-Skeleton\Farmers-Creed\obj\Debug\Farmers-Creed.csprojResolveAssemblyReference.cache
+C:\Users\Yovchev\Desktop\Farmers-Creed-Skeleton\Farmers-Creed\bin\Debug\Farm.exe
+C:\Users\Yovchev\Desktop\Farmers-Creed-Skeleton\Farmers-Creed\bin\Debug\Farm.pdb
+C:\Users\Yovchev\Desktop\Farmers-Creed-Skeleton\Farmers-Creed\obj\Debug\Farm.exe
+C:\Users\Yovchev\Desktop\Farmers-Creed-Skeleton\Farmers-Creed\obj\Debug\Farm.pdb
