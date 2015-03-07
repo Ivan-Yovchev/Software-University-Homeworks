@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "01. FunctionArguments", "01. FunctionArguments\01. FunctionArguments.njsproj", "{B141AE1F-41F0-4362-BF90-2EC7A0902D96}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "02. TestTheValueOfThis", "02. TestTheValueOfThis\02. TestTheValueOfThis.njsproj", "{3D0A004F-118C-4F0E-A616-FAF77D8DE126}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "03. AddingNumbersUsingFunctions", "03. AddingNumbersUsingFunctions\03. AddingNumbersUsingFunctions.njsproj", "{A014BCA2-CF9A-4C06-80C7-D4FED65073A3}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "04. DOMTraversal", "04. DOMTraversal\04. DOMTraversal.njsproj", "{577CEE9B-7888-4976-A314-6A6BA19F3F33}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "05. DOM-Manipulation", "07. DOM-Manipulation\05. DOM-Manipulation.njsproj", "{670FF9CE-272D-470F-B9BE-D0B829AA0D63}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "06. ConsoleModule", "06. ConsoleModule\06. ConsoleModule.njsproj", "{61CE701E-B053-448D-BF9B-6197ED30941C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B141AE1F-41F0-4362-BF90-2EC7A0902D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B141AE1F-41F0-4362-BF90-2EC7A0902D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B141AE1F-41F0-4362-BF90-2EC7A0902D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B141AE1F-41F0-4362-BF90-2EC7A0902D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0A004F-118C-4F0E-A616-FAF77D8DE126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0A004F-118C-4F0E-A616-FAF77D8DE126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0A004F-118C-4F0E-A616-FAF77D8DE126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0A004F-118C-4F0E-A616-FAF77D8DE126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A014BCA2-CF9A-4C06-80C7-D4FED65073A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A014BCA2-CF9A-4C06-80C7-D4FED65073A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A014BCA2-CF9A-4C06-80C7-D4FED65073A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A014BCA2-CF9A-4C06-80C7-D4FED65073A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577CEE9B-7888-4976-A314-6A6BA19F3F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577CEE9B-7888-4976-A314-6A6BA19F3F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577CEE9B-7888-4976-A314-6A6BA19F3F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577CEE9B-7888-4976-A314-6A6BA19F3F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670FF9CE-272D-470F-B9BE-D0B829AA0D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670FF9CE-272D-470F-B9BE-D0B829AA0D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670FF9CE-272D-470F-B9BE-D0B829AA0D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670FF9CE-272D-470F-B9BE-D0B829AA0D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CE701E-B053-448D-BF9B-6197ED30941C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CE701E-B053-448D-BF9B-6197ED30941C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CE701E-B053-448D-BF9B-6197ED30941C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CE701E-B053-448D-BF9B-6197ED30941C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

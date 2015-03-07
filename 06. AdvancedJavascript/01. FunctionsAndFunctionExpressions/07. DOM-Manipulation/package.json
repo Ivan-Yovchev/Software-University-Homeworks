@@ -1,0 +1,10 @@
+{
+  "name": "07.-DOM-Manipulation",
+  "version": "0.0.0",
+  "description": "07. DOM-Manipulation",
+  "main": "app.js",
+  "author": {
+    "name": "User",
+    "email": ""
+  }
+}

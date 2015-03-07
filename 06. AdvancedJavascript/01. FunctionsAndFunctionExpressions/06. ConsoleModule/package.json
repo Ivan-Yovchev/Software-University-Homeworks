@@ -1,0 +1,10 @@
+{
+  "name": "06.-ConsoleModule",
+  "version": "0.0.0",
+  "description": "06. ConsoleModule",
+  "main": "app.js",
+  "author": {
+    "name": "User",
+    "email": ""
+  }
+}

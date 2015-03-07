@@ -1,0 +1,10 @@
+{
+  "name": "02.-BugFixLevelTwo",
+  "version": "0.0.0",
+  "description": "02. BugFixLevelTwo",
+  "main": "app.js",
+  "author": {
+    "name": "User",
+    "email": ""
+  }
+}
