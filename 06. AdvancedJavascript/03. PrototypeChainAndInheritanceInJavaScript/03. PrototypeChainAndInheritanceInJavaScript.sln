@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "01. 2DGeometryStructureClassicalModel", "01. 2DGeometryStructureClassicalModel\01. 2DGeometryStructureClassicalModel.njsproj", "{A81462A6-73D5-4304-A3CC-81E183478A80}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "02. 2DGeometryStructurePrototypalModel", "02. 2DGeometryStructurePrototypalModel\02. 2DGeometryStructurePrototypalModel.njsproj", "{05665BBB-CCDF-4201-AB22-ED1B47FE84D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81462A6-73D5-4304-A3CC-81E183478A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81462A6-73D5-4304-A3CC-81E183478A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81462A6-73D5-4304-A3CC-81E183478A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81462A6-73D5-4304-A3CC-81E183478A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05665BBB-CCDF-4201-AB22-ED1B47FE84D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05665BBB-CCDF-4201-AB22-ED1B47FE84D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05665BBB-CCDF-4201-AB22-ED1B47FE84D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05665BBB-CCDF-4201-AB22-ED1B47FE84D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

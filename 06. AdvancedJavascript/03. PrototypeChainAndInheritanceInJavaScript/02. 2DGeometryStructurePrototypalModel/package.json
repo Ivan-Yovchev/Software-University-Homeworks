@@ -1,0 +1,10 @@
+{
+  "name": "02.-2DGeometryStructurePrototypalModel",
+  "version": "0.0.0",
+  "description": "02. 2DGeometryStructurePrototypalModel",
+  "main": "app.js",
+  "author": {
+    "name": "User",
+    "email": ""
+  }
+}
