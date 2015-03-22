@@ -1,0 +1,10 @@
+{
+  "name": "AdvancedJavaScriptLabPoppy",
+  "version": "0.0.0",
+  "description": "AdvancedJavaScriptLabPoppy",
+  "main": "app.js",
+  "author": {
+    "name": "User",
+    "email": ""
+  }
+}
