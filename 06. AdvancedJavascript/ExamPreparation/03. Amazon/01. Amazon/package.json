@@ -1,0 +1,10 @@
+{
+  "name": "01.-Amazon",
+  "version": "0.0.0",
+  "description": "01. Amazon",
+  "main": "app.js",
+  "author": {
+    "name": "Yovchev",
+    "email": ""
+  }
+}
