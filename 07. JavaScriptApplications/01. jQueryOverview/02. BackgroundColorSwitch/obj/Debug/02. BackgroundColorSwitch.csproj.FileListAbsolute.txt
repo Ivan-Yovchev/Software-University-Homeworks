@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\02. BackgroundColorSwitch\bin\_02.BackgroundColorSwitch.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\02. BackgroundColorSwitch\bin\_02.BackgroundColorSwitch.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\02. BackgroundColorSwitch\bin\_02.BackgroundColorSwitch.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\02. BackgroundColorSwitch\obj\Debug\_02.BackgroundColorSwitch.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\02. BackgroundColorSwitch\obj\Debug\_02.BackgroundColorSwitch.pdb

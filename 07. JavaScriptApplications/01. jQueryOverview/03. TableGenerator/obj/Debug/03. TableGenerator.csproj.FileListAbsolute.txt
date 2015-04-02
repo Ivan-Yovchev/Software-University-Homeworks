@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\03. TableGenerator\bin\_03.TableGenerator.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\03. TableGenerator\bin\_03.TableGenerator.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\03. TableGenerator\bin\_03.TableGenerator.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\03. TableGenerator\obj\Debug\_03.TableGenerator.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\03. TableGenerator\obj\Debug\_03.TableGenerator.pdb

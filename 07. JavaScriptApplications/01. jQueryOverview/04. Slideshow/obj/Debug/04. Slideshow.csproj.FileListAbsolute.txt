@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\04. Slideshow\bin\_04.Slideshow.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\04. Slideshow\bin\_04.Slideshow.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\04. Slideshow\bin\_04.Slideshow.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\04. Slideshow\obj\Debug\04. Slideshow.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\04. Slideshow\obj\Debug\_04.Slideshow.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\04. Slideshow\obj\Debug\_04.Slideshow.pdb

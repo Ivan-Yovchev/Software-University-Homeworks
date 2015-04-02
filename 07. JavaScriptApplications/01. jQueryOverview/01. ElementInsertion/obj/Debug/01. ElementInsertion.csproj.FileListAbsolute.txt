@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\01. ElementInsertion\bin\_01.ElementInsertion.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\01. ElementInsertion\bin\_01.ElementInsertion.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\01. ElementInsertion\bin\_01.ElementInsertion.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\01. ElementInsertion\obj\Debug\01. ElementInsertion.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\01. ElementInsertion\obj\Debug\_01.ElementInsertion.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\01. jQueryOverview\01. ElementInsertion\obj\Debug\_01.ElementInsertion.pdb
