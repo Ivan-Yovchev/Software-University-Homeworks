@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\02. CookiesAndWebStorages\01. GreetingSystem\bin\_01.GreetingSystem.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\02. CookiesAndWebStorages\01. GreetingSystem\bin\_01.GreetingSystem.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\02. CookiesAndWebStorages\01. GreetingSystem\bin\_01.GreetingSystem.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\02. CookiesAndWebStorages\01. GreetingSystem\obj\Debug\01. GreetingSystem.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\07. JavaScriptApplications\02. CookiesAndWebStorages\01. GreetingSystem\obj\Debug\_01.GreetingSystem.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\02. CookiesAndWebStorages\01. GreetingSystem\obj\Debug\_01.GreetingSystem.pdb

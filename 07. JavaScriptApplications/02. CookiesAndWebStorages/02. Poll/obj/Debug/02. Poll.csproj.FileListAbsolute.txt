@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\02. CookiesAndWebStorages\02. Poll\bin\_02.Poll.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\02. CookiesAndWebStorages\02. Poll\bin\_02.Poll.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\02. CookiesAndWebStorages\02. Poll\bin\_02.Poll.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\02. CookiesAndWebStorages\02. Poll\obj\Debug\02. Poll.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\07. JavaScriptApplications\02. CookiesAndWebStorages\02. Poll\obj\Debug\_02.Poll.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\02. CookiesAndWebStorages\02. Poll\obj\Debug\_02.Poll.pdb
