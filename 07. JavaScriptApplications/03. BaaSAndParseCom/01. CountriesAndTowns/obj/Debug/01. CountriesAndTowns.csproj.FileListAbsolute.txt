@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\03. BaaSAndParseCom\01. CountriesAndTowns\bin\_01.CountriesAndTowns.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\03. BaaSAndParseCom\01. CountriesAndTowns\bin\_01.CountriesAndTowns.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\03. BaaSAndParseCom\01. CountriesAndTowns\bin\_01.CountriesAndTowns.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\03. BaaSAndParseCom\01. CountriesAndTowns\obj\Debug\01. CountriesAndTowns.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\07. JavaScriptApplications\03. BaaSAndParseCom\01. CountriesAndTowns\obj\Debug\_01.CountriesAndTowns.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\03. BaaSAndParseCom\01. CountriesAndTowns\obj\Debug\_01.CountriesAndTowns.pdb

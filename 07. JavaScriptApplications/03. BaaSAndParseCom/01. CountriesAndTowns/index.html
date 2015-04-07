@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Countries and Towns</title>
+    <link href="Styles/countriesAndTownsStyle.css" rel="stylesheet" />
+    <script src="Scripts/jquery-2.1.3.min.js"></script>
+    <script src="Scripts/jquery.noty.packaged.min.js"></script>
+</head>
+<body>
+<div id="listedCountries">
+    <h1>Countries</h1>
+    <ul id="countries"></ul>
+    <div>
+        <label for="countryName">Country Name: </label>
+        <input type="text" id="countryName" placeholder="e.g. Bulgaria" />
+        <div id="townContainer"></div>
+    </div>
+    <button id="addCountry">Create Country</button>
+    <button id="addTown">Create Town</button>
+</div>
+
+<div id="towns">
+    <h2></h2>
+    <ul>
+    </ul>
+    <input type="text" id="newTown" placeholder="e.g. Varna"/>
+    <button id="addToTowns">Add Town</button>
+</div>
+    <script src="Scripts/app.js"></script>
+</body>
+</html>

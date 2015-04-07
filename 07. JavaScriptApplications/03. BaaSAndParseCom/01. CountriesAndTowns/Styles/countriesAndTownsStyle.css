@@ -1,0 +1,259 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Tahoma, sans-serif;
+    color: black;
+}
+
+h1 {
+    margin: 10px 0 10px 0;
+}
+
+h2 {
+    margin: 17px 0 11px 0;
+}
+
+#countryName {
+    height: 25px;
+    width: 150px;
+    margin-bottom: 10px;
+    padding-left: 5px;
+    font-size: 15px;
+    font-family: Arial;
+}
+
+#addCountry {
+    vertical-align: top;
+    height: 35px;
+    width: 150px;
+    border: 2px solid red;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: red;
+    background-color: white;
+    transition: .75s ease;
+}
+
+    #addCountry:hover {
+        cursor: pointer;
+        color: white;
+        background-color: red;
+        transition: .75s ease;
+    }
+
+#addTown {
+    vertical-align: top;
+    height: 35px;
+    width: 110px;
+    border: 2px solid #4CA0DB;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #4CA0DB;
+    background-color: white;
+    transition: .75s ease;
+}
+
+    #addTown:hover {
+        cursor: pointer;
+        color: white;
+        background-color: #4CA0DB;
+        transition: .75s ease;
+    }
+
+#addToTowns {
+    vertical-align: top;
+    height: 25px;
+    width: 90px;
+    border: 2px solid #4CA0DB;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #4CA0DB;
+    background-color: white;
+    transition: .75s ease;
+}
+
+    #addToTowns:hover {
+        cursor: pointer;
+        color: white;
+        background-color: #4CA0DB;
+        transition: .75s ease;
+    }
+
+#newTown {
+    height: 25px;
+    width: 150px;
+    margin-bottom: 10px;
+    padding-left: 5px;
+    font-size: 15px;
+    font-family: Arial;
+    margin-right: 7px;
+}
+
+ul {
+    padding-left: 20px;
+    margin-top: 0;
+}
+
+ul li {
+    font-size: 20px;
+    margin-bottom: 7px;
+}
+
+a.deleteCountry {
+    color: grey;
+    opacity: 0.25;
+    transition: 1s ease;
+}
+
+    a.deleteCountry:hover {
+        cursor: pointer;
+        color: red;
+        opacity: 1;
+        transition: 1s ease;
+    }
+
+a.deleteTown {
+color: grey;
+opacity: 0.25;
+transition: 1s ease;
+}
+
+    a.deleteTown:hover {
+        cursor: pointer;
+        color: red;
+        opacity: 1;
+        transition: 1s ease;
+    }
+
+span.name {
+    display: inline-block;
+    width: 185px;
+}
+
+button.edit {
+    margin-right: 10px;
+    width: 50px;
+    height: 25px;
+    border-radius: 5px;
+    border: 2px solid #4CA0DB;
+    background-color: white;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    color: #4CA0DB;
+    transition: 1s ease;
+}
+
+    button.edit:hover {
+        cursor: pointer;
+        background-color: #4CA0DB;
+        color: white;
+        transition: 1s ease;
+    }
+
+button.saveButton {
+    margin-right: 10px;
+    width: 50px;
+    height: 25px;
+    border-radius: 5px;
+    border: 2px solid #009900;
+    background-color: white;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    color: #009900;
+    transition: 1s ease;
+}
+
+    button.saveButton:hover {
+        cursor: pointer;
+        background-color: #009900;
+        color: white;
+        transition: 1s ease;
+    }
+
+button.cancelButton {
+    margin-right: 10px;
+    width: 65px;
+    height: 25px;
+    border-radius: 5px;
+    border: 2px solid red;
+    background-color: white;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    color: red;
+    transition: 1s ease;
+}
+
+    button.cancelButton:hover {
+        cursor: pointer;
+        background-color: red;
+        color: white;
+        transition: 1s ease;
+    }
+
+span.name:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.hide {
+    display: none;
+}
+
+.inputCountryName {
+    width: 100px;
+    height: 25px;
+    margin-right: 10px;
+    padding-left: 5px;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+.townContainer {
+    width: auto;
+    margin-bottom: 10px;
+}
+
+.townInput {
+    height: 25px;
+    width: 125px;
+    padding-left: 5px;
+    margin-right: 10px;
+    font-size: 15px;
+    font-family: Arial;
+}
+
+.removeInputTown {
+    font-size: 19px;
+    color: grey;
+    opacity: 0.25;
+    transition: 1s ease;
+}
+
+    .removeInputTown:hover {
+        cursor: pointer;
+        color: red;
+        opacity: 1;
+        transition: 1s ease;
+    }
+
+#listedCountries {
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    margin-left: 20px;
+}
+
+#towns {
+    display: none;
+    width: 300px;
+    vertical-align: top;
+    margin-left: 40px;
+}
