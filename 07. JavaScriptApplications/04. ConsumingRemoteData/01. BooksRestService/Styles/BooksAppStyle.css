@@ -1,0 +1,186 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 575px;
+}
+
+/*----------------------------------------- Adding a Book Div -----------------------------------------------*/
+    #wrapper #bookToAdd {
+        width: 265px;
+        display: inline-block;
+        vertical-align: top;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-right: 25px;
+    }
+
+        #wrapper #bookToAdd h1 {
+            font-family: Arial, Tahoma, sans-serif;
+        }
+
+        #wrapper #bookToAdd label {
+            font-family: Arial, Tahoma, sans-serif;
+            font-size: 16px;
+            font-weight: bold;
+            display: inline-block;
+            width: 65px;
+        }
+
+        #wrapper #bookToAdd input[type=text] {
+            width: 160px;
+            height: 30px;
+            margin-bottom: 10px;
+            padding-left: 5px;
+            font-family: Arial, Tahoma, sans-serif;
+            font-size: 16px;
+            display: inline-block;
+        }
+
+        #wrapper #bookToAdd #addBook {
+            display: block;
+            width: 100px;
+            height: 35px;
+            margin: 5px auto 15px auto;
+            background-color: white;
+            border: 2px solid #4CA0DB;
+            font-family: Arial, Tahoma, sans-serif;
+            font-size: 16px;
+            font-weight: bold;
+            color: #4CA0DB;
+            transition: 1s ease;
+            border-radius: 5px;
+        }
+
+            #wrapper #bookToAdd #addBook:hover {
+                cursor: pointer;
+                color: white;
+                background-color: #4CA0DB;
+                transition: 1s ease;
+            }
+
+/*------------------------------------------ Books On Display -----------------------------------------------*/
+
+    #wrapper #booksOnDisplay {
+        width: 280px;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+        #wrapper #booksOnDisplay h1 {
+            font-family: Arial, Tahoma, sans-serif;
+        }
+
+        #wrapper #booksOnDisplay ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+            #wrapper #booksOnDisplay ul li {
+                display: block;
+                margin-bottom: 20px;
+            }
+
+                #wrapper #booksOnDisplay ul li p {
+                    margin: 0;
+                    margin-bottom: 7px;
+                    font-family: Arial, Tahoma, sans-serif;
+                    font-size: 18px;
+                }
+
+                #wrapper #booksOnDisplay ul li input[type=text] {
+                    width: 250px;
+                    height: 30px;
+                    margin-bottom: 10px;
+                    padding-left: 5px;
+                    font-family: Arial, Tahoma, sans-serif;
+                    font-size: 16px;
+                }
+
+.hide {
+    display: none;
+}
+
+.editButton {
+    width: 75px;
+    height: 30px;
+    background-color: white;
+    border: 2px solid #4CA0DB;
+    font-family: Arial, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #4CA0DB;
+    transition: 1s ease;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+    .editButton:hover {
+        cursor: pointer;
+        color: white;
+        background-color: #4CA0DB;
+        transition: 1s ease;
+    }
+
+.deleteButton {
+    width: 75px;
+    height: 30px;
+    background-color: white;
+    border: 2px solid red;
+    font-family: Arial, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: red;
+    transition: 1s ease;
+    border-radius: 5px;
+}
+
+    .deleteButton:hover {
+        cursor: pointer;
+        color: white;
+        background-color: red;
+        transition: 1s ease;
+    }
+
+.saveButton {
+    width: 75px;
+    height: 30px;
+    background-color: white;
+    border: 2px solid #009900;
+    font-family: Arial, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #009900;
+    transition: 1s ease;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+    .saveButton:hover {
+        cursor: pointer;
+        color: white;
+        background-color: #009900;
+        transition: 1s ease;
+    }
+
+.cancelButton {
+    width: 75px;
+    height: 30px;
+    background-color: white;
+    border: 2px solid red;
+    font-family: Arial, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: red;
+    transition: 1s ease;
+    border-radius: 5px;
+}
+
+    .cancelButton:hover {
+        cursor: pointer;
+        color: white;
+        background-color: red;
+        transition: 1s ease;
+    }

@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\04. ConsumingRemoteData\01. BooksRestService\bin\_01.BooksRestService.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\04. ConsumingRemoteData\01. BooksRestService\bin\_01.BooksRestService.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\04. ConsumingRemoteData\01. BooksRestService\bin\_01.BooksRestService.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\04. ConsumingRemoteData\01. BooksRestService\obj\Debug\01. BooksRestService.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\07. JavaScriptApplications\04. ConsumingRemoteData\01. BooksRestService\obj\Debug\_01.BooksRestService.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\04. ConsumingRemoteData\01. BooksRestService\obj\Debug\_01.BooksRestService.pdb

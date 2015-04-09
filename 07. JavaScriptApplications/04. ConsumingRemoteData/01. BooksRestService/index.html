@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Books REST Service</title>
+    <script src="Scripts/jquery-2.1.3.min.js"></script>
+    <script src="Scripts/jquery.noty.packaged.min.js"></script>
+    <link href="Styles/BooksAppStyle.css" rel="stylesheet" />
+</head>
+<body>
+<div id="wrapper">
+    <div id="bookToAdd">
+        <h1>Add New Book</h1>
+        <label for="newBookTitle">Title: </label>
+        <input type="text" id="newBookTitle" placeholder="e.g. Harry Potter"/>
+        <label for="newBookAuthor">Author: </label>
+        <input type="text" id="newBookAuthor" placeholder="e.g. J.K. Rowling" />
+        <label for="newBookIsbn">Isbn: </label>
+        <input type="text" id="newBookIsbn" placeholder="e.g. 978-954-XXX"/>
+        <label for="newBookTags">Tags: </label>
+        <input type="text" id="newBookTags" placeholder="e.g. sci-fi,guide..."/>
+        <button id="addBook">Add Book</button>
+    </div>
+    <div id="booksOnDisplay">
+        <h1>Books List</h1>
+        <ul id="books"></ul>
+    </div>
+</div>
+    <script src="Scripts/app.js"></script>
+</body>
+</html>
