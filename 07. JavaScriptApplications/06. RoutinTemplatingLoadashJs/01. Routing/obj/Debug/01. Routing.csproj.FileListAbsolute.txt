@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\01. Routing\bin\_01.Routing.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\01. Routing\bin\_01.Routing.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\01. Routing\bin\_01.Routing.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\01. Routing\obj\Debug\01. Routing.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\01. Routing\obj\Debug\_01.Routing.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\01. Routing\obj\Debug\_01.Routing.pdb

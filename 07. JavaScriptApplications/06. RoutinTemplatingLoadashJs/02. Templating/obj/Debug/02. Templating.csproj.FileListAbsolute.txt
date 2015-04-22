@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\02. Templating\bin\_02.Templating.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\02. Templating\bin\_02.Templating.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\02. Templating\bin\_02.Templating.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\02. Templating\obj\Debug\_02.Templating.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\02. Templating\obj\Debug\_02.Templating.pdb

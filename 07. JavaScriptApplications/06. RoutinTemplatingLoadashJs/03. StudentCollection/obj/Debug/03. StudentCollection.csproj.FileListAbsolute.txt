@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\03. StudentCollection\bin\_03.StudentCollection.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\03. StudentCollection\bin\_03.StudentCollection.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\03. StudentCollection\bin\_03.StudentCollection.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\03. StudentCollection\obj\Debug\03. StudentCollection.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\03. StudentCollection\obj\Debug\_03.StudentCollection.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\03. StudentCollection\obj\Debug\_03.StudentCollection.pdb

@@ -1,0 +1,23 @@
+﻿* {
+    box-sizing: border-box;   
+}
+
+body {
+    font-family: Arial, Tahoma, sans-serif;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1 {
+    margin: 0 0 10px 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0 0 0 15px;
+    list-style-type: none;
+}

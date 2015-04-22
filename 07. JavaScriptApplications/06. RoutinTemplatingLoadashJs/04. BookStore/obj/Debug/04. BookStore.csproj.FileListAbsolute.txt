@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\04. BookStore\bin\_04.BookStore.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\04. BookStore\bin\_04.BookStore.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\04. BookStore\bin\_04.BookStore.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\04. BookStore\obj\Debug\04. BookStore.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\04. BookStore\obj\Debug\_04.BookStore.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\06. RoutinTemplatingLoadashJs\04. BookStore\obj\Debug\_04.BookStore.pdb
