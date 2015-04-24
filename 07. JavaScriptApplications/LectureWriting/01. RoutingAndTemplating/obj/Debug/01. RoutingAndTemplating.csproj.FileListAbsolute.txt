@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\LectureWriting\01. RoutingAndTemplating\bin\_01.RoutingAndTemplating.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\LectureWriting\01. RoutingAndTemplating\bin\_01.RoutingAndTemplating.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\LectureWriting\01. RoutingAndTemplating\bin\_01.RoutingAndTemplating.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\LectureWriting\01. RoutingAndTemplating\obj\Debug\01. RoutingAndTemplating.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\07. JavaScriptApplications\LectureWriting\01. RoutingAndTemplating\obj\Debug\_01.RoutingAndTemplating.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\LectureWriting\01. RoutingAndTemplating\obj\Debug\_01.RoutingAndTemplating.pdb

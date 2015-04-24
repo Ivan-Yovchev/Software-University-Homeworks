@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\05. SPAApplicationsAndArchitecture\01. Books\bin\_01.Books.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\05. SPAApplicationsAndArchitecture\01. Books\bin\_01.Books.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\05. SPAApplicationsAndArchitecture\01. Books\bin\_01.Books.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\05. SPAApplicationsAndArchitecture\01. Books\obj\Debug\01. Books.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\07. JavaScriptApplications\05. SPAApplicationsAndArchitecture\01. Books\obj\Debug\_01.Books.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\05. SPAApplicationsAndArchitecture\01. Books\obj\Debug\_01.Books.pdb
