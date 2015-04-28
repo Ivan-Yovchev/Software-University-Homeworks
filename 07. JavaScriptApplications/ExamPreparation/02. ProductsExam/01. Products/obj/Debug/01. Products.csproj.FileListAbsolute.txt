@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\02. ProductsExam\01. Products\bin\_01.Products.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\02. ProductsExam\01. Products\bin\_01.Products.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\02. ProductsExam\01. Products\bin\_01.Products.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\02. ProductsExam\01. Products\obj\Debug\01. Products.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\02. ProductsExam\01. Products\obj\Debug\_01.Products.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\02. ProductsExam\01. Products\obj\Debug\_01.Products.pdb

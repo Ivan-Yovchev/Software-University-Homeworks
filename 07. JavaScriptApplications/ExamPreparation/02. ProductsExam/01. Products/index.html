@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style/style.css"/>
+    <title>Products</title>
+</head>
+<body>
+<div id="wrapper">
+    <header>
+        <img class="img-header" src="imgs/trash.png" width="50px"/>
+        <h1 class="site-header">Products</h1>
+        <nav id="menu">
+            <ul>
+                <li class="nav-button"><a href="#/">Home</a></li>
+                <li class="nav-button"><a href="#/login">Login</a></li>
+                <li class="nav-button"><a href="#/register">Register</a></li>
+            </ul>
+            <ul>
+                <li class="nav-button"><a href="#/user/home">Home</a></li>
+                <li class="nav-button"><a href="#/user/products">Products</a></li>
+                <li class="nav-button"><a href="#/user/add-product">Add Product</a></li>
+                <li class="nav-button"><a href="#/user/logout">Logout</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div id="main"></div>
+</div>
+
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/mustache/mustache.js"></script>
+    <script src="node_modules/noty/js/noty/packaged/jquery.noty.packaged.min.js"></script>
+    <script src="node_modules/q/q.js"></script>
+    <script src="node_modules/shimney-sammy/main.js"></script>
+
+    <script src="scripts/ajax-requester.js"></script>
+    <script src="scripts/user-session.js"></script>
+    <script src="scripts/notifications.js"></script>
+    <script src="scripts/data-persister.js"></script>
+    <script src="scripts/controller.js"></script>
+    <script src="scripts/app.js"></script>
+</body>
+</html>

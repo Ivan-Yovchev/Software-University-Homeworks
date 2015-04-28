@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\01. PhonebookSolution\01. Solution\bin\_01.Solution.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\01. PhonebookSolution\01. Solution\bin\_01.Solution.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\01. PhonebookSolution\01. Solution\bin\_01.Solution.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\01. PhonebookSolution\01. Solution\obj\Debug\01. Solution.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\01. PhonebookSolution\01. Solution\obj\Debug\_01.Solution.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\01. PhonebookSolution\01. Solution\obj\Debug\_01.Solution.pdb

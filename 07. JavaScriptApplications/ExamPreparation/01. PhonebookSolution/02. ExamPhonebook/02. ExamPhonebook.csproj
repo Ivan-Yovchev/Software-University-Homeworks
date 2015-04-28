@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FC688C43-767D-4EE7-8884-DBE596B78B6E}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_02.ExamPhonebook</RootNamespace>
+    <AssemblyName>_02.ExamPhonebook</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="index.html" />
+    <Content Include="node_modules\jquery\AUTHORS.txt" />
+    <Content Include="node_modules\jquery\dist\cdn\jquery-2.1.1.js" />
+    <Content Include="node_modules\jquery\dist\cdn\jquery-2.1.1.min.js" />
+    <Content Include="node_modules\jquery\dist\jquery.js" />
+    <Content Include="node_modules\jquery\dist\jquery.min.js" />
+    <Content Include="node_modules\jquery\MIT-LICENSE.txt" />
+    <Content Include="node_modules\jquery\src\ajax.js" />
+    <Content Include="node_modules\jquery\src\ajax\jsonp.js" />
+    <Content Include="node_modules\jquery\src\ajax\load.js" />
+    <Content Include="node_modules\jquery\src\ajax\parseJSON.js" />
+    <Content Include="node_modules\jquery\src\ajax\parseXML.js" />
+    <Content Include="node_modules\jquery\src\ajax\script.js" />
+    <Content Include="node_modules\jquery\src\ajax\var\nonce.js" />
+    <Content Include="node_modules\jquery\src\ajax\var\rquery.js" />
+    <Content Include="node_modules\jquery\src\ajax\xhr.js" />
+    <Content Include="node_modules\jquery\src\attributes.js" />
+    <Content Include="node_modules\jquery\src\attributes\attr.js" />
+    <Content Include="node_modules\jquery\src\attributes\classes.js" />
+    <Content Include="node_modules\jquery\src\attributes\prop.js" />
+    <Content Include="node_modules\jquery\src\attributes\support.js" />
+    <Content Include="node_modules\jquery\src\attributes\val.js" />
+    <Content Include="node_modules\jquery\src\callbacks.js" />
+    <Content Include="node_modules\jquery\src\core.js" />
+    <Content Include="node_modules\jquery\src\core\access.js" />
+    <Content Include="node_modules\jquery\src\core\init.js" />
+    <Content Include="node_modules\jquery\src\core\parseHTML.js" />
+    <Content Include="node_modules\jquery\src\core\ready.js" />
+    <Content Include="node_modules\jquery\src\core\var\rsingleTag.js" />
+    <Content Include="node_modules\jquery\src\css.js" />
+    <Content Include="node_modules\jquery\src\css\addGetHookIf.js" />
+    <Content Include="node_modules\jquery\src\css\curCSS.js" />
+    <Content Include="node_modules\jquery\src\css\defaultDisplay.js" />
+    <Content Include="node_modules\jquery\src\css\hiddenVisibleSelectors.js" />
+    <Content Include="node_modules\jquery\src\css\support.js" />
+    <Content Include="node_modules\jquery\src\css\swap.js" />
+    <Content Include="node_modules\jquery\src\css\var\cssExpand.js" />
+    <Content Include="node_modules\jquery\src\css\var\getStyles.js" />
+    <Content Include="node_modules\jquery\src\css\var\isHidden.js" />
+    <Content Include="node_modules\jquery\src\css\var\rmargin.js" />
+    <Content Include="node_modules\jquery\src\css\var\rnumnonpx.js" />
+    <Content Include="node_modules\jquery\src\data.js" />
+    <Content Include="node_modules\jquery\src\data\accepts.js" />
+    <Content Include="node_modules\jquery\src\data\Data.js" />
+    <Content Include="node_modules\jquery\src\data\var\data_priv.js" />
+    <Content Include="node_modules\jquery\src\data\var\data_user.js" />
+    <Content Include="node_modules\jquery\src\deferred.js" />
+    <Content Include="node_modules\jquery\src\deprecated.js" />
+    <Content Include="node_modules\jquery\src\dimensions.js" />
+    <Content Include="node_modules\jquery\src\effects.js" />
+    <Content Include="node_modules\jquery\src\effects\animatedSelector.js" />
+    <Content Include="node_modules\jquery\src\effects\Tween.js" />
+    <Content Include="node_modules\jquery\src\event.js" />
+    <Content Include="node_modules\jquery\src\event\alias.js" />
+    <Content Include="node_modules\jquery\src\event\support.js" />
+    <Content Include="node_modules\jquery\src\exports\amd.js" />
+    <Content Include="node_modules\jquery\src\exports\global.js" />
+    <Content Include="node_modules\jquery\src\intro.js" />
+    <Content Include="node_modules\jquery\src\jquery.js" />
+    <Content Include="node_modules\jquery\src\manipulation.js" />
+    <Content Include="node_modules\jquery\src\manipulation\support.js" />
+    <Content Include="node_modules\jquery\src\manipulation\var\rcheckableType.js" />
+    <Content Include="node_modules\jquery\src\manipulation\_evalUrl.js" />
+    <Content Include="node_modules\jquery\src\offset.js" />
+    <Content Include="node_modules\jquery\src\outro.js" />
+    <Content Include="node_modules\jquery\src\queue.js" />
+    <Content Include="node_modules\jquery\src\queue\delay.js" />
+    <Content Include="node_modules\jquery\src\selector-native.js" />
+    <Content Include="node_modules\jquery\src\selector-sizzle.js" />
+    <Content Include="node_modules\jquery\src\selector.js" />
+    <Content Include="node_modules\jquery\src\serialize.js" />
+    <Content Include="node_modules\jquery\src\sizzle\dist\sizzle.js" />
+    <Content Include="node_modules\jquery\src\sizzle\dist\sizzle.min.js" />
+    <Content Include="node_modules\jquery\src\sizzle\test\data\empty.js" />
+    <Content Include="node_modules\jquery\src\sizzle\test\data\mixed_sort.html" />
+    <Content Include="node_modules\jquery\src\sizzle\test\data\testinit.js" />
+    <Content Include="node_modules\jquery\src\sizzle\test\index.html" />
+    <Content Include="node_modules\jquery\src\sizzle\test\jquery.js" />
+    <Content Include="node_modules\jquery\src\sizzle\test\unit\extending.js" />
+    <Content Include="node_modules\jquery\src\sizzle\test\unit\selector.js" />
+    <Content Include="node_modules\jquery\src\sizzle\test\unit\utilities.js" />
+    <Content Include="node_modules\jquery\src\traversing.js" />
+    <Content Include="node_modules\jquery\src\traversing\findFilter.js" />
+    <Content Include="node_modules\jquery\src\traversing\var\rneedsContext.js" />
+    <Content Include="node_modules\jquery\src\var\arr.js" />
+    <Content Include="node_modules\jquery\src\var\class2type.js" />
+    <Content Include="node_modules\jquery\src\var\concat.js" />
+    <Content Include="node_modules\jquery\src\var\hasOwn.js" />
+    <Content Include="node_modules\jquery\src\var\indexOf.js" />
+    <Content Include="node_modules\jquery\src\var\pnum.js" />
+    <Content Include="node_modules\jquery\src\var\push.js" />
+    <Content Include="node_modules\jquery\src\var\rnotwhite.js" />
+    <Content Include="node_modules\jquery\src\var\slice.js" />
+    <Content Include="node_modules\jquery\src\var\strundefined.js" />
+    <Content Include="node_modules\jquery\src\var\support.js" />
+    <Content Include="node_modules\jquery\src\var\toString.js" />
+    <Content Include="node_modules\jquery\src\wrap.js" />
+    <Content Include="node_modules\mustache\.gitmodules" />
+    <Content Include="node_modules\mustache\mustache.js" />
+    <Content Include="node_modules\noty\demo\allLayouts.html" />
+    <Content Include="node_modules\noty\demo\allTypes.html" />
+    <Content Include="node_modules\noty\demo\animate.css" />
+    <Content Include="node_modules\noty\demo\api.html" />
+    <Content Include="node_modules\noty\demo\buttons.css" />
+    <Content Include="node_modules\noty\demo\consumingAlert.html" />
+    <Content Include="node_modules\noty\demo\customContainer.html" />
+    <Content Include="node_modules\noty\demo\font-awesome\css\font-awesome.min.css" />
+    <Content Include="node_modules\noty\demo\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="node_modules\noty\demo\index.html" />
+    <Content Include="node_modules\noty\demo\jquery-1.7.2.min.js" />
+    <Content Include="node_modules\noty\demo\killer.html" />
+    <Content Include="node_modules\noty\demo\notification_html.js" />
+    <Content Include="node_modules\noty\demo\themeBootstrap.html" />
+    <Content Include="node_modules\noty\demo\themeCss.html" />
+    <Content Include="node_modules\noty\demo\usingMaxVisible.html" />
+    <Content Include="node_modules\noty\demo\usingWithAnimate.css.html" />
+    <Content Include="node_modules\noty\demo\usingWithButtons.html" />
+    <Content Include="node_modules\noty\demo\usingWithButtons2.html" />
+    <Content Include="node_modules\noty\demo\usingWithModal.html" />
+    <Content Include="node_modules\noty\demo\usingWithOldOptions.html" />
+    <Content Include="node_modules\noty\Gruntfile.js" />
+    <Content Include="node_modules\noty\js\noty\jquery.noty.js" />
+    <Content Include="node_modules\noty\js\noty\layouts\bottom.js" />
+    <Content Include="node_modules\noty\js\noty\layouts\bottomCenter.js" />
+    <Content Include="node_modules\noty\js\noty\layouts\bottomLeft.js" />
+    <Content Include="node_modules\noty\js\noty\layouts\bottomRight.js" />
+    <Content Include="node_modules\noty\js\noty\layouts\center.js" />
+    <Content Include="node_modules\noty\js\noty\layouts\centerLeft.js" />
+    <Content Include="node_modules\noty\js\noty\layouts\centerRight.js" />
+    <Content Include="node_modules\noty\js\noty\layouts\inline.js" />
+    <Content Include="node_modules\noty\js\noty\layouts\top.js" />
+    <Content Include="node_modules\noty\js\noty\layouts\topCenter.js" />
+    <Content Include="node_modules\noty\js\noty\layouts\topLeft.js" />
+    <Content Include="node_modules\noty\js\noty\layouts\topRight.js" />
+    <Content Include="node_modules\noty\js\noty\packaged\jquery.noty.packaged.js" />
+    <Content Include="node_modules\noty\js\noty\packaged\jquery.noty.packaged.min.js" />
+    <Content Include="node_modules\noty\js\noty\promise.js" />
+    <Content Include="node_modules\noty\js\noty\themes\bootstrap.js" />
+    <Content Include="node_modules\noty\js\noty\themes\default.js" />
+    <Content Include="node_modules\noty\js\noty\themes\relax.js" />
+    <Content Include="node_modules\noty\LICENSE.txt" />
+    <Content Include="node_modules\q\q.js" />
+    <Content Include="node_modules\q\queue.js" />
+    <Content Include="node_modules\shimney-sammy\main.js" />
+    <Content Include="scripts\ajaxRequester.js" />
+    <Content Include="scripts\app.js" />
+    <Content Include="scripts\data-persister.js" />
+    <Content Include="scripts\userSession.js" />
+    <Content Include="styles.css" />
+    <Content Include="templates\add-phone-screen.html" />
+    <Content Include="templates\default-welcome-screen.html" />
+    <Content Include="templates\delete-phone-screen.html" />
+    <Content Include="templates\edit-phone-screen.html" />
+    <Content Include="templates\edit-profile-screen.html" />
+    <Content Include="templates\login-screen.html" />
+    <Content Include="templates\phonebook-screen.html" />
+    <Content Include="templates\registration-screen.html" />
+    <Content Include="templates\user-home.html" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="node_modules\jquery\.bowerrc" />
+    <Content Include="node_modules\jquery\.jscsrc" />
+    <Content Include="node_modules\jquery\.npmignore" />
+    <Content Include="node_modules\jquery\bower.json" />
+    <Content Include="node_modules\jquery\CONTRIBUTING.md" />
+    <Content Include="node_modules\jquery\dist\cdn\jquery-2.1.1.min.map" />
+    <Content Include="node_modules\jquery\dist\jquery.min.map" />
+    <Content Include="node_modules\jquery\package.json" />
+    <Content Include="node_modules\jquery\README.md" />
+    <Content Include="node_modules\jquery\src\sizzle\dist\sizzle.min.map" />
+    <Content Include="node_modules\mustache\.jshintrc" />
+    <Content Include="node_modules\mustache\.npmignore" />
+    <Content Include="node_modules\mustache\.travis.yml" />
+    <Content Include="node_modules\mustache\bower.json" />
+    <Content Include="node_modules\mustache\CHANGES" />
+    <Content Include="node_modules\mustache\LICENSE" />
+    <Content Include="node_modules\mustache\mustache.js.nuspec" />
+    <Content Include="node_modules\mustache\package.json" />
+    <Content Include="node_modules\mustache\Rakefile" />
+    <Content Include="node_modules\mustache\README.md" />
+    <Content Include="node_modules\mustache\wrappers\dojo\mustache.js.post" />
+    <Content Include="node_modules\mustache\wrappers\dojo\mustache.js.pre" />
+    <Content Include="node_modules\mustache\wrappers\jquery\mustache.js.post" />
+    <Content Include="node_modules\mustache\wrappers\jquery\mustache.js.pre" />
+    <Content Include="node_modules\mustache\wrappers\mootools\mustache.js.post" />
+    <Content Include="node_modules\mustache\wrappers\mootools\mustache.js.pre" />
+    <Content Include="node_modules\mustache\wrappers\qooxdoo\mustache.js.post" />
+    <Content Include="node_modules\mustache\wrappers\qooxdoo\mustache.js.pre" />
+    <Content Include="node_modules\mustache\wrappers\yui3\mustache.js.post" />
+    <Content Include="node_modules\mustache\wrappers\yui3\mustache.js.pre" />
+    <Content Include="node_modules\noty\.npmignore" />
+    <Content Include="node_modules\noty\bower.json" />
+    <Content Include="node_modules\noty\demo\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="node_modules\noty\demo\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="node_modules\noty\demo\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="node_modules\noty\demo\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="node_modules\noty\noty.jquery.json" />
+    <Content Include="node_modules\noty\package.json" />
+    <Content Include="node_modules\noty\README.markdown" />
+    <Content Include="node_modules\shimney-sammy\package.json" />
+    <Content Include="node_modules\shimney-sammy\README.md" />
+    <Content Include="node_modules\q\LICENSE" />
+    <Content Include="node_modules\q\package.json" />
+    <Content Include="node_modules\q\README.md" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1519</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:1335/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
