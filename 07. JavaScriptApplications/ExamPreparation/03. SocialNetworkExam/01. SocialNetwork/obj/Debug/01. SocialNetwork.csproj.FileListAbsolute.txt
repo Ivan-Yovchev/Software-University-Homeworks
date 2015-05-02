@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\03. SocialNetworkExam\01. SocialNetwork\bin\_01.SocialNetwork.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\03. SocialNetworkExam\01. SocialNetwork\bin\_01.SocialNetwork.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\03. SocialNetworkExam\01. SocialNetwork\bin\_01.SocialNetwork.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\03. SocialNetworkExam\01. SocialNetwork\obj\Debug\01. SocialNetwork.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\03. SocialNetworkExam\01. SocialNetwork\obj\Debug\_01.SocialNetwork.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\03. SocialNetworkExam\01. SocialNetwork\obj\Debug\_01.SocialNetwork.pdb
