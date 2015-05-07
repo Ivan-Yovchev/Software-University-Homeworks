@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\08. AngularJS\01. IntroductionToAngularJs\01. AngularSeed\bin\_01.AngularSeed.dll.config
+D:\SoftUni Homeworks\08. AngularJS\01. IntroductionToAngularJs\01. AngularSeed\bin\_01.AngularSeed.dll
+D:\SoftUni Homeworks\08. AngularJS\01. IntroductionToAngularJs\01. AngularSeed\bin\_01.AngularSeed.pdb
+D:\SoftUni Homeworks\08. AngularJS\01. IntroductionToAngularJs\01. AngularSeed\obj\Debug\01. AngularSeed.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\08. AngularJS\01. IntroductionToAngularJs\01. AngularSeed\obj\Debug\_01.AngularSeed.dll
+D:\SoftUni Homeworks\08. AngularJS\01. IntroductionToAngularJs\01. AngularSeed\obj\Debug\_01.AngularSeed.pdb

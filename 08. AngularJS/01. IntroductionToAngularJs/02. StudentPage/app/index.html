@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Student Page</title>
+    <link href="css/app.css" rel="stylesheet" />
+</head>
+<body ng-app="StudentApp">
+
+    <div ng-controller="StudentController" id="student-box">
+        <div id="photo">
+            <img ng-src="{{student.photo}}" />
+        </div>
+        <div id="info">
+            <p><b>Name:</b> {{student.name}}</p>
+            <p><b>School:</b> {{student.school}}</p>
+            <p><b>Teacher:</b> {{student.teacher}}</p>
+            <p><b>Grade:</b> {{student.grade}}</p>
+        </div>
+    </div>
+
+    <script src="lib/angular/angular.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/controllers/student-controller.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\08. AngularJS\01. IntroductionToAngularJs\02. StudentPage\bin\_02.StudentPage.dll.config
+D:\SoftUni Homeworks\08. AngularJS\01. IntroductionToAngularJs\02. StudentPage\bin\_02.StudentPage.dll
+D:\SoftUni Homeworks\08. AngularJS\01. IntroductionToAngularJs\02. StudentPage\bin\_02.StudentPage.pdb
+D:\SoftUni Homeworks\08. AngularJS\01. IntroductionToAngularJs\02. StudentPage\obj\Debug\_02.StudentPage.dll
+D:\SoftUni Homeworks\08. AngularJS\01. IntroductionToAngularJs\02. StudentPage\obj\Debug\_02.StudentPage.pdb
+D:\SoftUni Homeworks\08. AngularJS\01. IntroductionToAngularJs\02. StudentPage\obj\Debug\02. StudentPage.csprojResolveAssemblyReference.cache

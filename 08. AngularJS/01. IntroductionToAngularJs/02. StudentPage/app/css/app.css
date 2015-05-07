@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: black;
+    font-size: 18px;
+}
+
+#student-box {
+    background-color: #F5F5F5;
+    padding: 25px;
+    width: 525px;
+    height: 200px;
+    box-shadow: 20px 20px 25px black;
+}
+
+#student-box #photo {
+        display: inline-block;
+        width: 150px;
+        height: 150px;
+        vertical-align: top;
+    }
+
+        #student-box #photo img{
+            width: 100%;
+        }
+
+    #student-box #info {
+        display: inline-block;
+        margin-left: 15px;
+        width: 300px;
+    }
+
+        #student-box #info p {
+            margin: 0 0 23px 0;
+        }
