@@ -1,0 +1,47 @@
+﻿<ul class="list-group" ng-show="!$parent.show">
+    
+    <li class="list-group-item" ng-repeat="(index, video) in data | orderBy:sortFunc($parent.sort) | filter: $parent.categoryFilter | filter: $parent.subsFilter | filter:$parent.dateFilter">
+        <div class="row">
+            <div class="col-sm-9">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="{{makeUrl(video.pictureUrl)}}"></iframe>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <ul class="list-group">
+                    <li class="list-group-item"><span>Title:</span> {{video.title}}</li>
+                    <li class="list-group-item"><span>Length:</span> {{video.length}}</li>
+                    <li class="list-group-item"><span>Categoty:</span> {{video.category}}</li>
+                    <li class="list-group-item">
+                        <span>Subcribers:</span><span class="badge">{{video.subscribers}}</span>
+                    </li>
+                    <li class="list-group-item"><span>Date:</span> {{video.date| date:'dd.MM.yyyy'}}</li>
+                    <li class="list-group-item"><span>Subtitle:</span> <span class="badge pull-right"> {{video.haveSubtitles == true?'Yes':'No'}}</span> </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <h3 ng-show="!video.comments.length">No coments yet...</h3>
+                <div class="panel-group collapse in" ng-show="video.comments.length">
+                    <h3>Coments:</h3>
+                    <div class="panel panel-default" ng-repeat="(key, coment) in video.comments">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a><b>by:</b> {{coment.username}} <span class="badge pull-right">{{coment.likes}}</span></a>
+                            </h4>
+                        </div>
+                        <div>
+                            <div class="panel-body">{{coment.content}}</div>
+                            <div class="panel-footer">
+                                <a href="{{coment.websiteUrl}}">Author's website</a><span class="badge pull-right">{{coment.date | date:'dd.MM.yyyy'}}</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </li>
+</ul>

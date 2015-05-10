@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\08. AngularJS\02. ControllersAndMarkup\01. VideoSystem\bin\_01.VideoSystem.dll.config
+D:\SoftUni Homeworks\08. AngularJS\02. ControllersAndMarkup\01. VideoSystem\bin\_01.VideoSystem.dll
+D:\SoftUni Homeworks\08. AngularJS\02. ControllersAndMarkup\01. VideoSystem\bin\_01.VideoSystem.pdb
+D:\SoftUni Homeworks\08. AngularJS\02. ControllersAndMarkup\01. VideoSystem\obj\Debug\01. VideoSystem.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\08. AngularJS\02. ControllersAndMarkup\01. VideoSystem\obj\Debug\_01.VideoSystem.dll
+D:\SoftUni Homeworks\08. AngularJS\02. ControllersAndMarkup\01. VideoSystem\obj\Debug\_01.VideoSystem.pdb

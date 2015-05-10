@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html ng-app="VideoApp">
+<head>
+    <title>Video System</title>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body ng-controller="VideoController">
+    <header>
+        <div class="container">
+            <div class="col-sm-12">
+                <h1 class="text-center">Video System</h1>
+            </div>
+        </div>
+    </header>
+
+    <div id="wrapper" class="container">
+        <div class="row" ng-include="'./templates/AddVideoForm.html'"></div>
+        <div class="row" ng-include="'./templates/userOptions.html'"></div>
+        <div class="row" ng-include="'./templates/VideoList.html'"></div>
+    </div>
+
+    <script src="lib/angular.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/controllers/VideoController.js"></script>
+</body>
+</html>
