@@ -6,3 +6,6 @@ C:\Users\User\Desktop\TravelAgencySolution\TravelAgency\TravelAgency\bin\Debug\P
 C:\Users\User\Desktop\TravelAgencySolution\TravelAgency\TravelAgency\obj\Debug\TravelAgency.csprojResolveAssemblyReference.cache
 C:\Users\User\Desktop\TravelAgencySolution\TravelAgency\TravelAgency\obj\Debug\TravelAgency.exe
 C:\Users\User\Desktop\TravelAgencySolution\TravelAgency\TravelAgency\obj\Debug\TravelAgency.pdb
+D:\SoftUni Homeworks\09. High-Quality Code\Exam Preparation\TravelAgencySolution\TravelAgency\TravelAgency\bin\Debug\TravelAgency.exe.config
+D:\SoftUni Homeworks\09. High-Quality Code\Exam Preparation\TravelAgencySolution\TravelAgency\TravelAgency\obj\Debug\TravelAgency.exe
+D:\SoftUni Homeworks\09. High-Quality Code\Exam Preparation\TravelAgencySolution\TravelAgency\TravelAgency\obj\Debug\TravelAgency.pdb

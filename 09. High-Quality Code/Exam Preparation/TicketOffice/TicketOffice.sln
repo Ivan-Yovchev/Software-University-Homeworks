@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketOffice", "TicketOffice\TicketOffice.csproj", "{EB86087F-70A0-443A-82DB-A2656E52FB6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketOffice.tests", "TicketOffice.tests\TicketOffice.tests.csproj", "{80F75DD0-DE06-4DBE-A69B-DD494B053FD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB86087F-70A0-443A-82DB-A2656E52FB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB86087F-70A0-443A-82DB-A2656E52FB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB86087F-70A0-443A-82DB-A2656E52FB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB86087F-70A0-443A-82DB-A2656E52FB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F75DD0-DE06-4DBE-A69B-DD494B053FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F75DD0-DE06-4DBE-A69B-DD494B053FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F75DD0-DE06-4DBE-A69B-DD494B053FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F75DD0-DE06-4DBE-A69B-DD494B053FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
