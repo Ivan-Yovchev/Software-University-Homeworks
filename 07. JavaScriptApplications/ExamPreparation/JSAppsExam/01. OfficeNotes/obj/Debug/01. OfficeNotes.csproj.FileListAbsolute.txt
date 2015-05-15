@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\JSAppsExam\01. OfficeNotes\bin\_01.OfficeNotes.dll.config
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\JSAppsExam\01. OfficeNotes\bin\_01.OfficeNotes.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\JSAppsExam\01. OfficeNotes\bin\_01.OfficeNotes.pdb
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\JSAppsExam\01. OfficeNotes\obj\Debug\01. OfficeNotes.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\JSAppsExam\01. OfficeNotes\obj\Debug\_01.OfficeNotes.dll
+D:\SoftUni Homeworks\07. JavaScriptApplications\ExamPreparation\JSAppsExam\01. OfficeNotes\obj\Debug\_01.OfficeNotes.pdb
