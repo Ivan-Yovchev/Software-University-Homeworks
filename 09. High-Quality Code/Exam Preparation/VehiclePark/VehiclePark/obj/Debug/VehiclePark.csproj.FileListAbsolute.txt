@@ -1,0 +1,8 @@
+D:\SoftUni Homeworks\09. High-Quality Code\Exam Preparation\VehiclePark\VehiclePark\bin\Debug\VehiclePark.exe.config
+D:\SoftUni Homeworks\09. High-Quality Code\Exam Preparation\VehiclePark\VehiclePark\bin\Debug\VehiclePark.exe
+D:\SoftUni Homeworks\09. High-Quality Code\Exam Preparation\VehiclePark\VehiclePark\bin\Debug\VehiclePark.pdb
+D:\SoftUni Homeworks\09. High-Quality Code\Exam Preparation\VehiclePark\VehiclePark\obj\Debug\VehiclePark.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\09. High-Quality Code\Exam Preparation\VehiclePark\VehiclePark\obj\Debug\VehiclePark.exe
+D:\SoftUni Homeworks\09. High-Quality Code\Exam Preparation\VehiclePark\VehiclePark\obj\Debug\VehiclePark.pdb
+D:\SoftUni Homeworks\09. High-Quality Code\Exam Preparation\VehiclePark\VehiclePark\bin\Debug\PowerCollections.dll
+D:\SoftUni Homeworks\09. High-Quality Code\Exam Preparation\VehiclePark\VehiclePark\bin\Debug\PowerCollections.xml
