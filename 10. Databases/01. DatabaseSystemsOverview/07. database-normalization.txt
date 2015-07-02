@@ -1,0 +1,5 @@
+1. Smaller database: By eliminating duplicate data, you will be able to reduce the overall size of the database.
+2. Better performance:
+a. Narrow tables: Having more fine-tuned tables allows your tables to have less columns and allows you to fit more records per data page.
+b. Fewer indexes per table mean faster maintenance tasks such as index rebuilds.
+c. Only join tables that you need.

@@ -1,0 +1,23 @@
+CREATE DATABASE [Performance] 
+GO
+
+USE [Performance]
+CREATE TABLE DateAndText
+(
+    DateAndTime DATETIME NULL,
+    Text NVARCHAR(MAX) NULL
+)
+GO
+
+--- DECLARE @n INT = 10000000
+DECLARE @n INT = 1000000
+DECLARE @date DATETIME = GETDATE()
+BEGIN TRANSACTION
+WHILE(@n > 0)
+BEGIN
+INSERT INTO DateAndText
+VALUES (@date, ('Some Text: ' + CONVERT(NVARCHAR,@n)))
+SET @n = @n - 1
+SET @date = DATEADD(MINUTE, 1, @date)
+END
+COMMIT TRANSACTION

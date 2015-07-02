@@ -1,0 +1,45 @@
+1) Network Model and Hierarchical Model - The network model and the hierarchical model 
+are the predecessors of the relational model. They build upon individual data sets and 
+are able to express hierarchical or network like structures of the real world.
+
+2) Relational Model - The relational model is the best known and in today’s DBMS most 
+often implemented database model. It defines a database as a collection of tables 
+(relations) which contain all data. This module deals predominantly with the relational 
+database model and the database systems based on it.
+
+3) Object-oriented Model - Object-oriented models define a database as a collection of 
+objects with features and methods. A detailed discussion of object-oriented databases 
+follows in an advanced module.
+
+4) Object-relational Model - The basic goal for the Object-relational database is to 
+bridge the gap between relational databases and the object-oriented modeling techniques 
+used in programming languages such as Java, C++, Visual Basic .NET or C#. However, a 
+more popular alternative for achieving such a bridge is to use a standard relational 
+database systems with some form of Object-relational mapping (ORM) software. Whereas 
+traditional RDBMS or SQL-DBMS products focused on the efficient management of data 
+drawn from a limited set of data-types (defined by the relevant language standards), 
+an object-relational DBMS allows software developers to integrate their own types and 
+the methods that apply to them into the DBMS.
+
+The ORDBMS (like ODBMS or OODBMS) is integrated with an object-oriented programming 
+language. The characteristic properties of ORDBMS are 1) complex data, 2) type 
+inheritance, and 3) object behavior. Complex data creation in most SQL ORDBMSs is based 
+on preliminary schema definition via the user-defined type (UDT). Hierarchy within 
+structured complex data offers an additional property, type inheritance. That is, a 
+structured type can have subtypes that reuse all of its attributes and contain 
+additional attributes specific to the subtype. Another advantage, the object behavior, 
+is related with access to the program objects. Such program objects must be storable 
+and transportable for database processing, therefore they usually are named as 
+persistent objects. Inside a database, all the relations with a persistent program 
+object are relations with its object identifier (OID). All of these points can be 
+addressed in a proper relational system, although the SQL standard and its 
+implementations impose arbitrary restrictions and additional complexity.
+
+In object-oriented programming (OOP), object behavior is described through the methods 
+(object functions). The methods denoted by one name are distinguished by the type of 
+their parameters and type of objects for which they attached (method signature). The 
+OOP languages call this the polymorphism principle, which briefly is defined as "one 
+interface, many implementations". Other OOP principles, inheritance and encapsulation,
+ are related both to methods and attributes. Method inheritance is included in type 
+ inheritance. Encapsulation in OOP is a visibility degree declared, for example, 
+ through the PUBLIC, PRIVATE and PROTECTED modifiers.

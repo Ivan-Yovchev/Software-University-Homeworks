@@ -1,0 +1,5 @@
+ALTER TABLE Users
+ALTER COLUMN Password VARCHAR(20) NULL
+UPDATE Users
+SET Password = NULL
+WHERE LastLoggedIn < '20100310'

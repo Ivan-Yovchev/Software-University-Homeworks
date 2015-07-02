@@ -1,0 +1,1 @@
+SELECT CONVERT(nvarchar(50), GETDATE(), 104) + ' ' + CONVERT(nvarchar(50), GETDATE(), 114)

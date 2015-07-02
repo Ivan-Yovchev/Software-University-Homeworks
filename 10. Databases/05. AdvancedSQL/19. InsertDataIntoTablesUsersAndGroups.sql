@@ -1,0 +1,10 @@
+INSERT INTO Groups VALUES ('Admin')
+INSERT INTO Groups VALUES ('Advanced User')
+INSERT INTO Groups VALUES ('Normal User')
+INSERT INTO Groups VALUES ('Newbie')
+INSERT INTO Groups VALUES ('VIP')
+
+INSERT INTO Users VALUES ('hackera', 'password', 'Ivan Ivanov', GETDATE(), 5)
+INSERT INTO Users VALUES ('programista', 'igraqigri', 'Pesho Dimitrov', '20150506', 4)
+INSERT INTO Users VALUES ('mashina_22', 'traktor__', 'Grigor Kolev', '20150628', 1)
+INSERT INTO Users VALUES ('bAiTiGoshk0', 'qwerty', 'Bai Gosho', '19980606', 3)
