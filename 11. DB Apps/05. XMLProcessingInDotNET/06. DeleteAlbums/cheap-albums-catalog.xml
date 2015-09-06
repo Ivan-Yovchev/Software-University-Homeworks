@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <album>
+    <name>
+      The King of Limbs
+    </name>
+    <artist>
+      Radiohead
+    </artist>
+    <year>
+      2007
+    </year>
+    <producer>
+      Nigel Godrich
+    </producer>
+    <price>
+      20.00
+    </price>
+    <songs>
+      <song>
+        <title>
+          Bloom
+        </title>
+        <duration>
+          5:15
+        </duration>
+      </song>
+      <song>
+        <title>
+          Little By Little
+        </title>
+        <duration>
+          4:27
+        </duration>
+      </song>
+      <song>
+        <title>
+          Feral
+        </title>
+        <duration>
+          3:13
+        </duration>
+      </song>
+      <song>
+        <title>
+          Lotus Flower
+        </title>
+        <duration>
+          5:01
+        </duration>
+      </song>
+      <song>
+        <title>
+          Codex
+        </title>
+        <duration>
+          4:47
+        </duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>
+      Third
+    </name>
+    <artist>
+      Smashhit
+    </artist>
+    <year>
+      2015
+    </year>
+    <producer>
+      Adriana Skiwetska
+    </producer>
+    <price>
+      15.99
+    </price>
+    <songs>
+      <song>
+        <title>
+          The Rip
+        </title>
+        <duration>
+          4:29
+        </duration>
+      </song>
+      <song>
+        <title>
+          Hunter
+        </title>
+        <duration>
+          3:57
+        </duration>
+      </song>
+      <song>
+        <title>
+          Magic Doors
+        </title>
+        <duration>
+          3:32
+        </duration>
+      </song>
+    </songs>
+  </album>
+</catalog>

@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\03. AllArtistAlphabetically\bin\Debug\_03.AllArtistAlphabetically.exe.config
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\03. AllArtistAlphabetically\bin\Debug\_03.AllArtistAlphabetically.exe
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\03. AllArtistAlphabetically\bin\Debug\_03.AllArtistAlphabetically.pdb
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\03. AllArtistAlphabetically\obj\Debug\_03.AllArtistAlphabetically.exe
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\03. AllArtistAlphabetically\obj\Debug\_03.AllArtistAlphabetically.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\08. OldAlbumsLinq\bin\Debug\_08.OldAlbumsLinq.exe.config
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\08. OldAlbumsLinq\bin\Debug\_08.OldAlbumsLinq.exe
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\08. OldAlbumsLinq\bin\Debug\_08.OldAlbumsLinq.pdb
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\08. OldAlbumsLinq\obj\Debug\_08.OldAlbumsLinq.exe
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\08. OldAlbumsLinq\obj\Debug\_08.OldAlbumsLinq.pdb

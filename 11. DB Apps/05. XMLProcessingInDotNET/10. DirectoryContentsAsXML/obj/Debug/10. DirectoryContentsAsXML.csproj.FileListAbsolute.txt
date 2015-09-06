@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\10. DirectoryContentsAsXML\bin\Debug\_10.DirectoryContentsAsXML.exe.config
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\10. DirectoryContentsAsXML\bin\Debug\_10.DirectoryContentsAsXML.exe
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\10. DirectoryContentsAsXML\bin\Debug\_10.DirectoryContentsAsXML.pdb
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\10. DirectoryContentsAsXML\obj\Debug\_10.DirectoryContentsAsXML.exe
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\10. DirectoryContentsAsXML\obj\Debug\_10.DirectoryContentsAsXML.pdb
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\10. DirectoryContentsAsXML\obj\Debug\10. DirectoryContentsAsXML.csprojResolveAssemblyReference.cache

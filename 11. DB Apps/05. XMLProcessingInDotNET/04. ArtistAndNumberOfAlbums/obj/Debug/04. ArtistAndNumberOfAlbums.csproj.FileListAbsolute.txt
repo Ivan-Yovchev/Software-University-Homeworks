@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\04. ArtistAndNumberOfAlbums\bin\Debug\_04.ArtistAndNumberOfAlbums.exe.config
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\04. ArtistAndNumberOfAlbums\bin\Debug\_04.ArtistAndNumberOfAlbums.exe
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\04. ArtistAndNumberOfAlbums\bin\Debug\_04.ArtistAndNumberOfAlbums.pdb
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\04. ArtistAndNumberOfAlbums\obj\Debug\_04.ArtistAndNumberOfAlbums.exe
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\04. ArtistAndNumberOfAlbums\obj\Debug\_04.ArtistAndNumberOfAlbums.pdb

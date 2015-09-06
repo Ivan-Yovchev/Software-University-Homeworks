@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\05. XPathArtistsAndAlbums\bin\Debug\_05.XPathArtistsAndAlbums.exe.config
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\05. XPathArtistsAndAlbums\bin\Debug\_05.XPathArtistsAndAlbums.exe
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\05. XPathArtistsAndAlbums\bin\Debug\_05.XPathArtistsAndAlbums.pdb
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\05. XPathArtistsAndAlbums\obj\Debug\_05.XPathArtistsAndAlbums.exe
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\05. XPathArtistsAndAlbums\obj\Debug\_05.XPathArtistsAndAlbums.pdb

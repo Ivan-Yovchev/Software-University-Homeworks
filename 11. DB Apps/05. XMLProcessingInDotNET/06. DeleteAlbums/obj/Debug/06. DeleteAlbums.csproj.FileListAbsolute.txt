@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\06. DeleteAlbums\bin\Debug\_06.DeleteAlbums.exe.config
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\06. DeleteAlbums\bin\Debug\_06.DeleteAlbums.exe
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\06. DeleteAlbums\bin\Debug\_06.DeleteAlbums.pdb
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\06. DeleteAlbums\obj\Debug\_06.DeleteAlbums.exe
+D:\SoftUni Homeworks\11. DB Apps\05. XMLProcessingInDotNET\06. DeleteAlbums\obj\Debug\_06.DeleteAlbums.pdb
