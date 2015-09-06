@@ -1,0 +1,1 @@
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\02. EmployeeDAOClass\bin\Debug\_02.EmployeeDAOClass.exe.config

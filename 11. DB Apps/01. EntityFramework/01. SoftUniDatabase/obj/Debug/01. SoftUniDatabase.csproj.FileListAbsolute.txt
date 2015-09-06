@@ -1,0 +1,8 @@
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\01. SoftUniDatabase\bin\Debug\_01.SoftUniDatabase.exe.config
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\01. SoftUniDatabase\bin\Debug\_01.SoftUniDatabase.exe
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\01. SoftUniDatabase\bin\Debug\_01.SoftUniDatabase.pdb
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\01. SoftUniDatabase\bin\Debug\EntityFramework.dll
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\01. SoftUniDatabase\bin\Debug\EntityFramework.xml
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\01. SoftUniDatabase\obj\Debug\01. SoftUniDatabase.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\01. SoftUniDatabase\obj\Debug\_01.SoftUniDatabase.exe
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\01. SoftUniDatabase\obj\Debug\_01.SoftUniDatabase.pdb

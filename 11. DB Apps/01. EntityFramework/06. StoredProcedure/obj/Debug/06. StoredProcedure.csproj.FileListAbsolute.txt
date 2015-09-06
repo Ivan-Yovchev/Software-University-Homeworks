@@ -1,0 +1,10 @@
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\06. StoredProcedure\bin\Debug\_06.StoredProcedure.exe.config
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\06. StoredProcedure\bin\Debug\_06.StoredProcedure.exe
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\06. StoredProcedure\bin\Debug\_06.StoredProcedure.pdb
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\06. StoredProcedure\bin\Debug\EntityFramework.dll
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\06. StoredProcedure\bin\Debug\_01.SoftUniDatabase.exe
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\06. StoredProcedure\bin\Debug\_01.SoftUniDatabase.pdb
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\06. StoredProcedure\bin\Debug\EntityFramework.xml
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\06. StoredProcedure\obj\Debug\06. StoredProcedure.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\06. StoredProcedure\obj\Debug\_06.StoredProcedure.exe
+D:\SoftUni Homeworks\11. DB Apps\01. EntityFramework\06. StoredProcedure\obj\Debug\_06.StoredProcedure.pdb
