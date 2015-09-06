@@ -1,0 +1,14 @@
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.ConsoleClient\bin\Debug\ProductsShop.ConsoleClient.exe.config
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.ConsoleClient\bin\Debug\ProductsShop.ConsoleClient.exe
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.ConsoleClient\bin\Debug\ProductsShop.ConsoleClient.pdb
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.ConsoleClient\bin\Debug\ProductShop.Models.dll
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.ConsoleClient\bin\Debug\ProductsShop.Data.dll
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.ConsoleClient\bin\Debug\ProductShop.Models.pdb
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.ConsoleClient\bin\Debug\ProductsShop.Data.pdb
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.ConsoleClient\obj\Debug\ProductsShop.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.ConsoleClient\obj\Debug\ProductsShop.ConsoleClient.exe
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.ConsoleClient\obj\Debug\ProductsShop.ConsoleClient.pdb

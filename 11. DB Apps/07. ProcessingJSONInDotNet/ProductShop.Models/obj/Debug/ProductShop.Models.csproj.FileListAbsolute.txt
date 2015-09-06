@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductShop.Models\bin\Debug\ProductShop.Models.dll
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductShop.Models\bin\Debug\ProductShop.Models.pdb
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductShop.Models\obj\Debug\ProductShop.Models.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductShop.Models\obj\Debug\ProductShop.Models.dll
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductShop.Models\obj\Debug\ProductShop.Models.pdb

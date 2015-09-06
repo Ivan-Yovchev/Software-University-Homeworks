@@ -1,0 +1,12 @@
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.Data\bin\Debug\ProductsShop.Data.dll.config
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.Data\bin\Debug\ProductsShop.Data.dll
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.Data\bin\Debug\ProductsShop.Data.pdb
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.Data\bin\Debug\EntityFramework.dll
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.Data\bin\Debug\ProductShop.Models.dll
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.Data\bin\Debug\ProductShop.Models.pdb
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.Data\bin\Debug\EntityFramework.xml
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.Data\obj\Debug\ProductsShop.Data.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.Data\obj\Debug\ProductsShop.Data.dll
+D:\SoftUni Homeworks\11. DB Apps\07. ProcessingJSONInDotNet\ProductsShop.Data\obj\Debug\ProductsShop.Data.pdb
