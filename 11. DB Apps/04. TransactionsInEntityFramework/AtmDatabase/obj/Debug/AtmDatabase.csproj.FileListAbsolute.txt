@@ -1,0 +1,10 @@
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\AtmDatabase\bin\Debug\AtmDatabase.exe.config
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\AtmDatabase\bin\Debug\AtmDatabase.exe
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\AtmDatabase\bin\Debug\AtmDatabase.pdb
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\AtmDatabase\bin\Debug\EntityFramework.dll
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\AtmDatabase\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\AtmDatabase\bin\Debug\EntityFramework.xml
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\AtmDatabase\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\AtmDatabase\obj\Debug\AtmDatabase.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\AtmDatabase\obj\Debug\AtmDatabase.exe
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\AtmDatabase\obj\Debug\AtmDatabase.pdb

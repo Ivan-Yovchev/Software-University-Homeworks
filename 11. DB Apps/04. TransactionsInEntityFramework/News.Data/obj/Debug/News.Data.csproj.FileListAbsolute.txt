@@ -1,0 +1,12 @@
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.Data\bin\Debug\News.Data.dll.config
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.Data\bin\Debug\News.Data.dll
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.Data\bin\Debug\News.Data.pdb
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.Data\bin\Debug\EntityFramework.dll
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.Data\bin\Debug\EntityFramework.xml
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.Data\obj\Debug\News.Data.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.Data\obj\Debug\News.Data.dll
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.Data\obj\Debug\News.Data.pdb
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.Data\bin\Debug\News.Models.dll
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.Data\bin\Debug\News.Models.pdb

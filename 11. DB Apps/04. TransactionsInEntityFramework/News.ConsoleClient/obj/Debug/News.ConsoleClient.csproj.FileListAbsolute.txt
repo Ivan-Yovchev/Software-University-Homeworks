@@ -1,0 +1,14 @@
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.ConsoleClient\bin\Debug\News.ConsoleClient.exe.config
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.ConsoleClient\bin\Debug\News.ConsoleClient.exe
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.ConsoleClient\bin\Debug\News.ConsoleClient.pdb
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.ConsoleClient\bin\Debug\News.Data.dll
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.ConsoleClient\bin\Debug\News.Models.dll
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.ConsoleClient\bin\Debug\News.Data.pdb
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.ConsoleClient\bin\Debug\News.Models.pdb
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.ConsoleClient\obj\Debug\News.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.ConsoleClient\obj\Debug\News.ConsoleClient.exe
+D:\SoftUni Homeworks\11. DB Apps\04. TransactionsInEntityFramework\News.ConsoleClient\obj\Debug\News.ConsoleClient.pdb
