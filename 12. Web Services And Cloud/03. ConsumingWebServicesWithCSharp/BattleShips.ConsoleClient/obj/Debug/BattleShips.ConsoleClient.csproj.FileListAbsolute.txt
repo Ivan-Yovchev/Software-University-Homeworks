@@ -1,0 +1,10 @@
+D:\SoftUni Homeworks\12. Web Services And Cloud\03. ConsumingWebServicesWithCSharp\BattleShips.ConsoleClient\bin\Debug\BattleShips.ConsoleClient.exe.config
+D:\SoftUni Homeworks\12. Web Services And Cloud\03. ConsumingWebServicesWithCSharp\BattleShips.ConsoleClient\bin\Debug\BattleShips.ConsoleClient.exe
+D:\SoftUni Homeworks\12. Web Services And Cloud\03. ConsumingWebServicesWithCSharp\BattleShips.ConsoleClient\bin\Debug\BattleShips.ConsoleClient.pdb
+D:\SoftUni Homeworks\12. Web Services And Cloud\03. ConsumingWebServicesWithCSharp\BattleShips.ConsoleClient\obj\Debug\BattleShips.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\12. Web Services And Cloud\03. ConsumingWebServicesWithCSharp\BattleShips.ConsoleClient\obj\Debug\BattleShips.ConsoleClient.exe
+D:\SoftUni Homeworks\12. Web Services And Cloud\03. ConsumingWebServicesWithCSharp\BattleShips.ConsoleClient\obj\Debug\BattleShips.ConsoleClient.pdb
+D:\SoftUni Homeworks\12. Web Services And Cloud\03. ConsumingWebServicesWithCSharp\BattleShips.ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+D:\SoftUni Homeworks\12. Web Services And Cloud\03. ConsumingWebServicesWithCSharp\BattleShips.ConsoleClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\SoftUni Homeworks\12. Web Services And Cloud\03. ConsumingWebServicesWithCSharp\BattleShips.ConsoleClient\bin\Debug\Newtonsoft.Json.xml
+D:\SoftUni Homeworks\12. Web Services And Cloud\03. ConsumingWebServicesWithCSharp\BattleShips.ConsoleClient\bin\Debug\System.Net.Http.Formatting.xml
