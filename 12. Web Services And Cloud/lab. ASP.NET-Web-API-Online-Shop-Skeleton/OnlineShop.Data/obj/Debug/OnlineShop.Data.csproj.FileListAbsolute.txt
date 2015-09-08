@@ -1,0 +1,16 @@
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\OnlineShop.Data.dll.config
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\OnlineShop.Data.dll
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\OnlineShop.Data.pdb
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\EntityFramework.dll
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\OnlineShop.Models.dll
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\OnlineShop.Models.pdb
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\EntityFramework.xml
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\obj\Debug\OnlineShop.Data.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\obj\Debug\OnlineShop.Data.dll
+D:\SoftUni Homeworks\12. Web Services And Cloud\lab. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\obj\Debug\OnlineShop.Data.pdb
