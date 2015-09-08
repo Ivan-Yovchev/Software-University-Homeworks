@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\12. Web Services And Cloud\04. WebServicesAndTesting\News.Models\bin\Debug\News.Models.dll
+D:\SoftUni Homeworks\12. Web Services And Cloud\04. WebServicesAndTesting\News.Models\bin\Debug\News.Models.pdb
+D:\SoftUni Homeworks\12. Web Services And Cloud\04. WebServicesAndTesting\News.Models\obj\Debug\News.Models.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\12. Web Services And Cloud\04. WebServicesAndTesting\News.Models\obj\Debug\News.Models.dll
+D:\SoftUni Homeworks\12. Web Services And Cloud\04. WebServicesAndTesting\News.Models\obj\Debug\News.Models.pdb

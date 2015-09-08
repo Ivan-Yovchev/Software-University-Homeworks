@@ -1,0 +1,9 @@
+D:\SoftUni Homeworks\12. Web Services And Cloud\04. WebServicesAndTesting\News.Repositories\bin\Debug\News.Repositories.dll
+D:\SoftUni Homeworks\12. Web Services And Cloud\04. WebServicesAndTesting\News.Repositories\bin\Debug\News.Repositories.pdb
+D:\SoftUni Homeworks\12. Web Services And Cloud\04. WebServicesAndTesting\News.Repositories\bin\Debug\EntityFramework.dll
+D:\SoftUni Homeworks\12. Web Services And Cloud\04. WebServicesAndTesting\News.Repositories\bin\Debug\News.Models.dll
+D:\SoftUni Homeworks\12. Web Services And Cloud\04. WebServicesAndTesting\News.Repositories\bin\Debug\News.Models.pdb
+D:\SoftUni Homeworks\12. Web Services And Cloud\04. WebServicesAndTesting\News.Repositories\bin\Debug\EntityFramework.xml
+D:\SoftUni Homeworks\12. Web Services And Cloud\04. WebServicesAndTesting\News.Repositories\obj\Debug\News.Repositories.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\12. Web Services And Cloud\04. WebServicesAndTesting\News.Repositories\obj\Debug\News.Repositories.dll
+D:\SoftUni Homeworks\12. Web Services And Cloud\04. WebServicesAndTesting\News.Repositories\obj\Debug\News.Repositories.pdb
