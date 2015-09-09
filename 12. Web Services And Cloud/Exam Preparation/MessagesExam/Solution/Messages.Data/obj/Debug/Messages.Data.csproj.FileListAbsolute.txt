@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Solution\Messages.Data\bin\Debug\Messages.Data.dll
+C:\Users\User\Desktop\Solution\Messages.Data\bin\Debug\Messages.Data.pdb
+C:\Users\User\Desktop\Solution\Messages.Data\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Solution\Messages.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Solution\Messages.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\Solution\Messages.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\Solution\Messages.Data\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Solution\Messages.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Solution\Messages.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\Solution\Messages.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\Solution\Messages.Data\obj\Debug\Messages.Data.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Solution\Messages.Data\obj\Debug\Messages.Data.dll
+C:\Users\User\Desktop\Solution\Messages.Data\obj\Debug\Messages.Data.pdb
