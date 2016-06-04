@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\06.  BitChecker\bin\_06.BitChecker.dll.config
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\06.  BitChecker\bin\_06.BitChecker.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\06.  BitChecker\bin\_06.BitChecker.pdb
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\06.  BitChecker\obj\Debug\_06.BitChecker.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\06.  BitChecker\obj\Debug\_06.BitChecker.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\04. CheckIfNumberIsPrime\bin\_04.CheckIfNumberIsPrime.dll.config
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\04. CheckIfNumberIsPrime\bin\_04.CheckIfNumberIsPrime.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\04. CheckIfNumberIsPrime\bin\_04.CheckIfNumberIsPrime.pdb
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\04. CheckIfNumberIsPrime\obj\Debug\_04.CheckIfNumberIsPrime.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\04. CheckIfNumberIsPrime\obj\Debug\_04.CheckIfNumberIsPrime.pdb

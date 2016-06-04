@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\12. Variables\bin\_12.Variables.dll.config
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\12. Variables\bin\_12.Variables.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\12. Variables\bin\_12.Variables.pdb
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\12. Variables\obj\Debug\_12.Variables.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\12. Variables\obj\Debug\_12.Variables.pdb

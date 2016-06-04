@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\10. DigitChecker\bin\_10.DigitChecker.dll.config
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\10. DigitChecker\bin\_10.DigitChecker.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\10. DigitChecker\bin\_10.DigitChecker.pdb
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\10. DigitChecker\obj\Debug\_10.DigitChecker.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\10. DigitChecker\obj\Debug\_10.DigitChecker.pdb

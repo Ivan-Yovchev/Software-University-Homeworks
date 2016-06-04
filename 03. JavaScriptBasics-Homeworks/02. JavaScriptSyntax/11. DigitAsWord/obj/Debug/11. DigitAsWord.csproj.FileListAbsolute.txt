@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\11. DigitAsWord\bin\_11.DigitAsWord.dll.config
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\11. DigitAsWord\bin\_11.DigitAsWord.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\11. DigitAsWord\bin\_11.DigitAsWord.pdb
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\11. DigitAsWord\obj\Debug\_11.DigitAsWord.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\11. DigitAsWord\obj\Debug\_11.DigitAsWord.pdb

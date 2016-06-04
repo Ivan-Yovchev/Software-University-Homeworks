@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\05. DivisionBy3\bin\_05.DivisionBy3.dll.config
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\05. DivisionBy3\bin\_05.DivisionBy3.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\05. DivisionBy3\bin\_05.DivisionBy3.pdb
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\05. DivisionBy3\obj\Debug\_05.DivisionBy3.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\05. DivisionBy3\obj\Debug\_05.DivisionBy3.pdb

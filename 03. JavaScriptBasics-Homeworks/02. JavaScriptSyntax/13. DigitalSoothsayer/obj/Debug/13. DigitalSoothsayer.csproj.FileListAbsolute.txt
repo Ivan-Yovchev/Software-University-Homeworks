@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\13. DigitalSoothsayer\bin\_13.DigitalSoothsayer.dll.config
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\13. DigitalSoothsayer\bin\_13.DigitalSoothsayer.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\13. DigitalSoothsayer\bin\_13.DigitalSoothsayer.pdb
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\13. DigitalSoothsayer\obj\Debug\_13.DigitalSoothsayer.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\13. DigitalSoothsayer\obj\Debug\_13.DigitalSoothsayer.pdb

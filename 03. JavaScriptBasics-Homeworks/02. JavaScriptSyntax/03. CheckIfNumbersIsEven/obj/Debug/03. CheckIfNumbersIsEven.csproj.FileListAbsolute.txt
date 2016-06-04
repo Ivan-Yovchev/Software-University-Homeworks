@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\03. CheckIfNumbersIsEven\bin\_03.CheckIfNumbersIsEven.dll.config
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\03. CheckIfNumbersIsEven\bin\_03.CheckIfNumbersIsEven.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\03. CheckIfNumbersIsEven\bin\_03.CheckIfNumbersIsEven.pdb
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\03. CheckIfNumbersIsEven\obj\Debug\03. CheckIfNumbersIsEven.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\03. CheckIfNumbersIsEven\obj\Debug\_03.CheckIfNumbersIsEven.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\03. CheckIfNumbersIsEven\obj\Debug\_03.CheckIfNumbersIsEven.pdb

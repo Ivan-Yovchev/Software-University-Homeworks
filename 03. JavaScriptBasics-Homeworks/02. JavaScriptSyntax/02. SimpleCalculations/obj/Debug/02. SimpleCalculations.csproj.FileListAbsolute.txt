@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\02. SimpleCalculations\bin\_02.SimpleCalculations.dll.config
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\02. SimpleCalculations\bin\_02.SimpleCalculations.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\02. SimpleCalculations\bin\_02.SimpleCalculations.pdb
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\02. SimpleCalculations\obj\Debug\_02.SimpleCalculations.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\02. SimpleCalculations\obj\Debug\_02.SimpleCalculations.pdb
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\02. SimpleCalculations\obj\Debug\02. SimpleCalculations.csprojResolveAssemblyReference.cache

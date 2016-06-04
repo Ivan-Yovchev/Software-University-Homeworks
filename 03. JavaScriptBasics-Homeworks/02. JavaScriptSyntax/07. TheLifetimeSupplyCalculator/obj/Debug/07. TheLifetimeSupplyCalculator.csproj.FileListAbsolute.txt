@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\07. TheLifetimeSupplyCalculator\bin\_07.TheLifetimeSupplyCalculator.dll.config
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\07. TheLifetimeSupplyCalculator\bin\_07.TheLifetimeSupplyCalculator.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\07. TheLifetimeSupplyCalculator\bin\_07.TheLifetimeSupplyCalculator.pdb
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\07. TheLifetimeSupplyCalculator\obj\Debug\_07.TheLifetimeSupplyCalculator.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\07. TheLifetimeSupplyCalculator\obj\Debug\_07.TheLifetimeSupplyCalculator.pdb
