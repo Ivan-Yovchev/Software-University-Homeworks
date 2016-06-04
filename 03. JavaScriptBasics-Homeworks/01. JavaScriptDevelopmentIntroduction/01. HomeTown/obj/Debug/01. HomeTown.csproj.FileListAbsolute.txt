@@ -4,3 +4,9 @@ D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\01. JavaScriptDevelopmen
 D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\01. JavaScriptDevelopmentIntroduction\01. HomeTown\obj\Debug\01. HomeTown.csprojResolveAssemblyReference.cache
 D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\01. JavaScriptDevelopmentIntroduction\01. HomeTown\obj\Debug\_01.HomeTown.dll
 D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\01. JavaScriptDevelopmentIntroduction\01. HomeTown\obj\Debug\_01.HomeTown.pdb
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\01. JavaScriptDevelopmentIntroduction\01. HomeTown\bin\_01.HomeTown.dll.config
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\01. JavaScriptDevelopmentIntroduction\01. HomeTown\bin\_01.HomeTown.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\01. JavaScriptDevelopmentIntroduction\01. HomeTown\bin\_01.HomeTown.pdb
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\01. JavaScriptDevelopmentIntroduction\01. HomeTown\obj\Debug\01. HomeTown.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\01. JavaScriptDevelopmentIntroduction\01. HomeTown\obj\Debug\_01.HomeTown.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\01. JavaScriptDevelopmentIntroduction\01. HomeTown\obj\Debug\_01.HomeTown.pdb

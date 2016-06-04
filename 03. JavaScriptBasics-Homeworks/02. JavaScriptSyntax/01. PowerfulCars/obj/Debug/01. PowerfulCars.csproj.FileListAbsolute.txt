@@ -4,3 +4,8 @@ D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\02. JavaScriptSyntax\01.
 D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\02. JavaScriptSyntax\01. PowerfulCars\obj\Debug\01. PowerfulCars.csprojResolveAssemblyReference.cache
 D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\02. JavaScriptSyntax\01. PowerfulCars\obj\Debug\_01.PowerfulCars.dll
 D:\Visual Studio 2013\Projects\03. JavaScript-Homeworks\02. JavaScriptSyntax\01. PowerfulCars\obj\Debug\_01.PowerfulCars.pdb
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\01. PowerfulCars\bin\_01.PowerfulCars.dll.config
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\01. PowerfulCars\bin\_01.PowerfulCars.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\01. PowerfulCars\bin\_01.PowerfulCars.pdb
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\01. PowerfulCars\obj\Debug\_01.PowerfulCars.dll
+D:\SoftUni Homeworks\03. JavaScriptBasics-Homeworks\02. JavaScriptSyntax\01. PowerfulCars\obj\Debug\_01.PowerfulCars.pdb
