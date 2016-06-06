@@ -1,0 +1,2 @@
+D:\SoftUni Homeworks\06. AdvancedJavascript\ExamPreparation\02. TravelAgency\01. TravelAgency\obj\Debug\01. TravelAgency.njsprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\06. AdvancedJavascript\ExamPreparation\02. TravelAgency\01. TravelAgency\bin\Microsoft.NodejsTools.WebRole.dll

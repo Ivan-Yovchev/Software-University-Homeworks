@@ -1,0 +1,2 @@
+D:\SoftUni Homeworks\06. AdvancedJavascript\01. FunctionsAndFunctionExpressions\01. FunctionArguments\obj\Debug\01. FunctionArguments.njsprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\06. AdvancedJavascript\01. FunctionsAndFunctionExpressions\01. FunctionArguments\bin\Microsoft.NodejsTools.WebRole.dll

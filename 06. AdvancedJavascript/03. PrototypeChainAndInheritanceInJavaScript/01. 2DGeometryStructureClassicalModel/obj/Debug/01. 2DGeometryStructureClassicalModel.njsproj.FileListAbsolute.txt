@@ -1,0 +1,2 @@
+D:\SoftUni Homeworks\06. AdvancedJavascript\03. PrototypeChainAndInheritanceInJavaScript\01. 2DGeometryStructureClassicalModel\obj\Debug\01. 2DGeometryStructureClassicalModel.njsprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\06. AdvancedJavascript\03. PrototypeChainAndInheritanceInJavaScript\01. 2DGeometryStructureClassicalModel\bin\Microsoft.NodejsTools.WebRole.dll
