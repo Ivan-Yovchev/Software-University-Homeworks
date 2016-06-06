@@ -4,3 +4,6 @@ D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\0
 D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\04. EncapsulationAndPolymorphism\01. Shapes\obj\Debug\01. Shapes.csprojResolveAssemblyReference.cache
 D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\04. EncapsulationAndPolymorphism\01. Shapes\obj\Debug\_01.Shapes.exe
 D:\Visual Studio 2013\Projects\SoftUni Homeworks\05. ObjectOrientedProgramming\04. EncapsulationAndPolymorphism\01. Shapes\obj\Debug\_01.Shapes.pdb
+D:\SoftUni Homeworks\05. ObjectOrientedProgramming\04. EncapsulationAndPolymorphism\01. Shapes\bin\Debug\_01.Shapes.exe.config
+D:\SoftUni Homeworks\05. ObjectOrientedProgramming\04. EncapsulationAndPolymorphism\01. Shapes\obj\Debug\_01.Shapes.exe
+D:\SoftUni Homeworks\05. ObjectOrientedProgramming\04. EncapsulationAndPolymorphism\01. Shapes\obj\Debug\_01.Shapes.pdb
